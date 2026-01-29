@@ -1,6 +1,7 @@
 library(tidycensus)
 library(tidyverse)
 library(gitcreds)
+library(writexl)
 
 ####set personal access token (current PAT expires Sun, Mar 29 2026) and Census API Key####
 
@@ -16,6 +17,7 @@ communities <- c("Auburn", "Barre", "Berlin", "Blackstone", "Boylston", "Brookfi
 
 
 ####Initial setup to get consistent variable ids across time####
+####Initial setup - var list, global vars####
 
 ##best to use detailecd tables for MA Towns. Can also use Data Profiles, but beware that variable ids may not be consistent between years.
 
@@ -25,6 +27,10 @@ vars_2023 <- load_variables(2023, "acs5", cache = TRUE)
 #years for variable pulls
 years <- c(2010:2023)
 
+#excel and csv file location
+xlsx_path <- "data/transportation/xlsx/"
+
+csv_path <- "data/transportation/csv/"
 
 ####Commute Mode to work####
 
@@ -72,8 +78,9 @@ commute_mode_all <- commute_mode_all |>
   left_join(commute_mode_vars_select |> select(label_short, name), join_by(variable == name))
 
 #export to csv and excel
+write_xlsx(commute_mode_all, paste(xlsx_path,"commute_mode.xlsx", sep = ""))
 
+write_csv(commute_mode_all, paste(csv_path, "commute_mode.csv", sep = ""))
 
+####Vehicles available####
 
-
-####Pull vehicles available####
