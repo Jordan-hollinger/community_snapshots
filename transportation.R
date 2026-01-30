@@ -15,7 +15,7 @@ library(writexl)
 communities <- c("Auburn", "Barre", "Berlin", "Blackstone", "Boylston", "Brookfield", "Charlton", "Douglas", "Dudley", "East Brookfield", "Grafton", "Hardwick", "Holden", "Hopedale", "Leicester", "Mendon", "Millbury", "Millville", "New Braintree", "North Brookfield", "Northborough", "Northbridge", "Oakham", "Oxford", "Paxton", "Princeton", "Rutland", "Shrewsbury", "Southbridge", "Spencer", "Sturbridge", "Sutton", "Upton", "Uxbridge", "Warren", "Webster", "West Boylston", "West Brookfield", "Westborough", "Worcester")
 
 
-####Initial setup - var list, global vars####
+####Initial setup - var list, global vars and functions####
 
 ##best to use detailecd tables for MA Towns. Can also use Data Profiles, but beware that variable ids may not be consistent between years.
 
@@ -30,6 +30,49 @@ xlsx_path <- "data/transportation/xlsx/"
 
 csv_path <- "data/transportation/csv/"
 
+#global pull function
+pull_acs_multiyear <- function(var_ids, years,
+                               geography = "county subdivision",
+                               state = "MA",
+                               county = "Worcester",
+                               survey = "acs5",
+                               communities) {
+  
+  pull_one_year <- function(yr) {
+    get_acs(
+      geography = geography,
+      variables = var_ids,
+      state = state,
+      county = county,
+      year = yr,
+      survey = survey
+    ) |>
+      mutate(
+        NAME = NAME |>
+          str_extract("^[^,]+") |>
+          str_remove("\\s+(town|city)$") |>
+          str_trim(),
+        year = yr
+      ) |>
+      filter(NAME %in% communities)
+  }
+  
+  map_dfr(years, pull_one_year)
+}
+
+#global label lookup column function
+make_label_lookup <- function(vars_tbl, prefix = "Estimate!!Total:!!") {
+  vars_tbl |>
+    transmute(
+      name,
+      label_short = label |>
+        str_remove(prefix) |>
+        str_replace(":!!", " - ") |>
+        str_remove(":") |>
+        str_trim()
+    )
+}
+
 ####Commute Mode to work####
 
 #variables from ACS
@@ -40,38 +83,25 @@ commute_mode_vars_all <- vars_2023 |>
 commute_mode_vars_select <- commute_mode_vars_all |> 
   filter(
     name %in% c("B08301_003", "B08301_004", "B08301_010", "B08301_016", "B08301_017", "B08301_018", "B08301_019", "B08301_020", "B08301_021")
-  )|> 
-  mutate(label_short = str_remove(label, "Estimate!!Total:!!"),
-         label_short = str_replace(label_short, ":!!", " - "),
-         label_short = str_remove(label_short, ":"))
+  ) |> 
+  left_join(make_label_lookup(commute_mode_vars_all), by = "name")
 
-#just the ones we want in a vector for use in function
+#vector for use in function
 commute_mode_vars_sub <- commute_mode_vars_all |> 
   filter(
     name %in% c("B08301_003", "B08301_004", "B08301_010", "B08301_016", "B08301_017", "B08301_018", "B08301_019", "B08301_020", "B08301_021")
   ) |> 
   pull(name)
 
-#pull data - set up as a function
+#pull data using our global function
 
-pull_commute_mode <- function(yr) {
-  get_acs(
-    geography = "county subdivision",
-    variables = commute_mode_vars_sub,
-    state = "MA",
-    county = "Worcester",
-    year = yr,
-    survey = "acs5"
-  ) |> 
-    mutate(NAME = str_remove(NAME, " town, Worcester County, Massachusetts"),
-           year = yr) |> 
-    filter(NAME %in% communities)
-}
+commute_mode_all <- pull_acs_multiyear(
+  var_ids = commute_mode_vars_sub,
+  years = years,
+  communities = communities
+)
 
-#call function with years as input
-commute_mode_all <- map_dfr(years, pull_commute_mode)
-
-#join label from vars
+#join short label from vars
 commute_mode_all <- commute_mode_all |> 
   left_join(commute_mode_vars_select |> select(label_short, name), join_by(variable == name))
 
@@ -79,6 +109,7 @@ commute_mode_all <- commute_mode_all |>
 write_xlsx(commute_mode_all, paste(xlsx_path,"commute_mode.xlsx", sep = ""))
 
 write_csv(commute_mode_all, paste(csv_path, "commute_mode.csv", sep = ""))
+
 
 ####Vehicles available####
 
