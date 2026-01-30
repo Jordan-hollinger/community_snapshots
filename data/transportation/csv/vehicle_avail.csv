@@ -189,6 +189,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,592,93,2010,2 vehicles available
 2502775400,West Brookfield,B08201_005,229,74,2010,3 vehicles available
 2502775400,West Brookfield,B08201_006,119,51,2010,4 or more vehicles available
+2502782000,Worcester,B08201_002,11412,711,2010,No vehicle available
+2502782000,Worcester,B08201_003,30843,1180,2010,1 vehicle available
+2502782000,Worcester,B08201_004,21691,830,2010,2 vehicles available
+2502782000,Worcester,B08201_005,4534,418,2010,3 vehicles available
+2502782000,Worcester,B08201_006,1961,284,2010,4 or more vehicles available
 2502702760,Auburn,B08201_002,281,119,2011,No vehicle available
 2502702760,Auburn,B08201_003,2100,254,2011,1 vehicle available
 2502702760,Auburn,B08201_004,2637,238,2011,2 vehicles available
@@ -379,6 +384,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,614,107,2011,2 vehicles available
 2502775400,West Brookfield,B08201_005,235,76,2011,3 vehicles available
 2502775400,West Brookfield,B08201_006,58,31,2011,4 or more vehicles available
+2502782000,Worcester,B08201_002,11372,617,2011,No vehicle available
+2502782000,Worcester,B08201_003,30330,1057,2011,1 vehicle available
+2502782000,Worcester,B08201_004,22022,900,2011,2 vehicles available
+2502782000,Worcester,B08201_005,4559,435,2011,3 vehicles available
+2502782000,Worcester,B08201_006,1965,351,2011,4 or more vehicles available
 2502702760,Auburn,B08201_002,312,94,2012,No vehicle available
 2502702760,Auburn,B08201_003,1907,214,2012,1 vehicle available
 2502702760,Auburn,B08201_004,2584,243,2012,2 vehicles available
@@ -569,6 +579,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,664,94,2012,2 vehicles available
 2502775400,West Brookfield,B08201_005,238,71,2012,3 vehicles available
 2502775400,West Brookfield,B08201_006,68,43,2012,4 or more vehicles available
+2502782000,Worcester,B08201_002,12202,759,2012,No vehicle available
+2502782000,Worcester,B08201_003,29806,1001,2012,1 vehicle available
+2502782000,Worcester,B08201_004,21707,856,2012,2 vehicles available
+2502782000,Worcester,B08201_005,4568,440,2012,3 vehicles available
+2502782000,Worcester,B08201_006,1576,263,2012,4 or more vehicles available
 2502702760,Auburn,B08201_002,371,108,2013,No vehicle available
 2502702760,Auburn,B08201_003,1999,219,2013,1 vehicle available
 2502702760,Auburn,B08201_004,2559,213,2013,2 vehicles available
@@ -759,6 +774,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,656,99,2013,2 vehicles available
 2502775400,West Brookfield,B08201_005,247,77,2013,3 vehicles available
 2502775400,West Brookfield,B08201_006,57,44,2013,4 or more vehicles available
+2502782000,Worcester,B08201_002,12014,659,2013,No vehicle available
+2502782000,Worcester,B08201_003,29805,1037,2013,1 vehicle available
+2502782000,Worcester,B08201_004,20908,799,2013,2 vehicles available
+2502782000,Worcester,B08201_005,4417,459,2013,3 vehicles available
+2502782000,Worcester,B08201_006,1706,234,2013,4 or more vehicles available
 2502702760,Auburn,B08201_002,410,97,2014,No vehicle available
 2502702760,Auburn,B08201_003,1974,221,2014,1 vehicle available
 2502702760,Auburn,B08201_004,2663,214,2014,2 vehicles available
@@ -949,6 +969,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,700,123,2014,2 vehicles available
 2502775400,West Brookfield,B08201_005,190,79,2014,3 vehicles available
 2502775400,West Brookfield,B08201_006,79,44,2014,4 or more vehicles available
+2502782000,Worcester,B08201_002,11937,683,2014,No vehicle available
+2502782000,Worcester,B08201_003,29189,1023,2014,1 vehicle available
+2502782000,Worcester,B08201_004,20687,778,2014,2 vehicles available
+2502782000,Worcester,B08201_005,4609,410,2014,3 vehicles available
+2502782000,Worcester,B08201_006,1578,224,2014,4 or more vehicles available
 2502702760,Auburn,B08201_002,380,95,2015,No vehicle available
 2502702760,Auburn,B08201_003,2043,214,2015,1 vehicle available
 2502702760,Auburn,B08201_004,2704,216,2015,2 vehicles available
@@ -1139,6 +1164,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,713,116,2015,2 vehicles available
 2502775400,West Brookfield,B08201_005,219,76,2015,3 vehicles available
 2502775400,West Brookfield,B08201_006,80,41,2015,4 or more vehicles available
+2502782000,Worcester,B08201_002,12053,694,2015,No vehicle available
+2502782000,Worcester,B08201_003,29590,1062,2015,1 vehicle available
+2502782000,Worcester,B08201_004,20351,766,2015,2 vehicles available
+2502782000,Worcester,B08201_005,4866,423,2015,3 vehicles available
+2502782000,Worcester,B08201_006,1716,232,2015,4 or more vehicles available
 2502702760,Auburn,B08201_002,449,99,2016,No vehicle available
 2502702760,Auburn,B08201_003,2078,244,2016,1 vehicle available
 2502702760,Auburn,B08201_004,2810,181,2016,2 vehicles available
@@ -1329,6 +1359,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,696,133,2016,2 vehicles available
 2502775400,West Brookfield,B08201_005,229,75,2016,3 vehicles available
 2502775400,West Brookfield,B08201_006,92,49,2016,4 or more vehicles available
+2502782000,Worcester,B08201_002,12735,778,2016,No vehicle available
+2502782000,Worcester,B08201_003,29969,1009,2016,1 vehicle available
+2502782000,Worcester,B08201_004,19736,747,2016,2 vehicles available
+2502782000,Worcester,B08201_005,5043,436,2016,3 vehicles available
+2502782000,Worcester,B08201_006,1721,270,2016,4 or more vehicles available
 2502702760,Auburn,B08201_002,445,110,2017,No vehicle available
 2502702760,Auburn,B08201_003,2165,172,2017,1 vehicle available
 2502702760,Auburn,B08201_004,2899,175,2017,2 vehicles available
@@ -1519,6 +1554,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,634,128,2017,2 vehicles available
 2502775400,West Brookfield,B08201_005,229,64,2017,3 vehicles available
 2502775400,West Brookfield,B08201_006,128,60,2017,4 or more vehicles available
+2502782000,Worcester,B08201_002,13060,698,2017,No vehicle available
+2502782000,Worcester,B08201_003,31015,1085,2017,1 vehicle available
+2502782000,Worcester,B08201_004,19744,702,2017,2 vehicles available
+2502782000,Worcester,B08201_005,5091,410,2017,3 vehicles available
+2502782000,Worcester,B08201_006,1882,267,2017,4 or more vehicles available
 2502702760,Auburn,B08201_002,416,95,2018,No vehicle available
 2502702760,Auburn,B08201_003,2169,239,2018,1 vehicle available
 2502702760,Auburn,B08201_004,3001,202,2018,2 vehicles available
@@ -1709,6 +1749,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,629,120,2018,2 vehicles available
 2502775400,West Brookfield,B08201_005,252,81,2018,3 vehicles available
 2502775400,West Brookfield,B08201_006,142,58,2018,4 or more vehicles available
+2502782000,Worcester,B08201_002,13491,890,2018,No vehicle available
+2502782000,Worcester,B08201_003,31514,1150,2018,1 vehicle available
+2502782000,Worcester,B08201_004,19078,791,2018,2 vehicles available
+2502782000,Worcester,B08201_005,5205,430,2018,3 vehicles available
+2502782000,Worcester,B08201_006,1857,241,2018,4 or more vehicles available
 2502702760,Auburn,B08201_002,420,120,2019,No vehicle available
 2502702760,Auburn,B08201_003,2185,260,2019,1 vehicle available
 2502702760,Auburn,B08201_004,2925,249,2019,2 vehicles available
@@ -1899,6 +1944,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,552,118,2019,2 vehicles available
 2502775400,West Brookfield,B08201_005,248,95,2019,3 vehicles available
 2502775400,West Brookfield,B08201_006,157,71,2019,4 or more vehicles available
+2502782000,Worcester,B08201_002,13490,737,2019,No vehicle available
+2502782000,Worcester,B08201_003,31301,1142,2019,1 vehicle available
+2502782000,Worcester,B08201_004,19446,836,2019,2 vehicles available
+2502782000,Worcester,B08201_005,5338,392,2019,3 vehicles available
+2502782000,Worcester,B08201_006,2020,307,2019,4 or more vehicles available
 2502702760,Auburn,B08201_002,462,116,2020,No vehicle available
 2502702760,Auburn,B08201_003,2106,245,2020,1 vehicle available
 2502702760,Auburn,B08201_004,2862,229,2020,2 vehicles available
@@ -2089,6 +2139,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,505,134,2020,2 vehicles available
 2502775400,West Brookfield,B08201_005,303,158,2020,3 vehicles available
 2502775400,West Brookfield,B08201_006,117,60,2020,4 or more vehicles available
+2502782000,Worcester,B08201_002,13116,800,2020,No vehicle available
+2502782000,Worcester,B08201_003,30829,1370,2020,1 vehicle available
+2502782000,Worcester,B08201_004,20652,1044,2020,2 vehicles available
+2502782000,Worcester,B08201_005,5470,550,2020,3 vehicles available
+2502782000,Worcester,B08201_006,2222,345,2020,4 or more vehicles available
 2502702760,Auburn,B08201_002,377,115,2021,No vehicle available
 2502702760,Auburn,B08201_003,2108,257,2021,1 vehicle available
 2502702760,Auburn,B08201_004,2813,277,2021,2 vehicles available
@@ -2279,6 +2334,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,512,112,2021,2 vehicles available
 2502775400,West Brookfield,B08201_005,349,159,2021,3 vehicles available
 2502775400,West Brookfield,B08201_006,123,73,2021,4 or more vehicles available
+2502782000,Worcester,B08201_002,13342,1087,2021,No vehicle available
+2502782000,Worcester,B08201_003,33684,1347,2021,1 vehicle available
+2502782000,Worcester,B08201_004,23064,1100,2021,2 vehicles available
+2502782000,Worcester,B08201_005,6127,617,2021,3 vehicles available
+2502782000,Worcester,B08201_006,2563,452,2021,4 or more vehicles available
 2502702760,Auburn,B08201_002,396,147,2022,No vehicle available
 2502702760,Auburn,B08201_003,2305,288,2022,1 vehicle available
 2502702760,Auburn,B08201_004,2720,224,2022,2 vehicles available
@@ -2469,6 +2529,11 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,601,135,2022,2 vehicles available
 2502775400,West Brookfield,B08201_005,357,146,2022,3 vehicles available
 2502775400,West Brookfield,B08201_006,70,50,2022,4 or more vehicles available
+2502782000,Worcester,B08201_002,13012,946,2022,No vehicle available
+2502782000,Worcester,B08201_003,33257,1310,2022,1 vehicle available
+2502782000,Worcester,B08201_004,23284,980,2022,2 vehicles available
+2502782000,Worcester,B08201_005,6743,671,2022,3 vehicles available
+2502782000,Worcester,B08201_006,2681,459,2022,4 or more vehicles available
 2502702760,Auburn,B08201_002,447,165,2023,No vehicle available
 2502702760,Auburn,B08201_003,2443,312,2023,1 vehicle available
 2502702760,Auburn,B08201_004,2710,240,2023,2 vehicles available
@@ -2659,3 +2724,8 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08201_004,650,158,2023,2 vehicles available
 2502775400,West Brookfield,B08201_005,368,162,2023,3 vehicles available
 2502775400,West Brookfield,B08201_006,62,42,2023,4 or more vehicles available
+2502782000,Worcester,B08201_002,12647,1079,2023,No vehicle available
+2502782000,Worcester,B08201_003,32601,1336,2023,1 vehicle available
+2502782000,Worcester,B08201_004,24509,1137,2023,2 vehicles available
+2502782000,Worcester,B08201_005,6784,670,2023,3 vehicles available
+2502782000,Worcester,B08201_006,2548,427,2023,4 or more vehicles available

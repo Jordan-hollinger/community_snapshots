@@ -341,6 +341,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,80,91,2010,Walked
 2502775400,West Brookfield,B08301_020,0,127,2010,Other means
 2502775400,West Brookfield,B08301_021,34,31,2010,Worked from home
+2502782000,Worcester,B08301_003,61932,1671,2010,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,8141,847,2010,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2613,421,2010,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,196,95,2010,Taxicab
+2502782000,Worcester,B08301_017,82,51,2010,Motorcycle
+2502782000,Worcester,B08301_018,382,149,2010,Bicycle
+2502782000,Worcester,B08301_019,4977,561,2010,Walked
+2502782000,Worcester,B08301_020,495,166,2010,Other means
+2502782000,Worcester,B08301_021,2797,369,2010,Worked from home
 2502702760,Auburn,B08301_003,7220,388,2011,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,552,143,2011,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,35,30,2011,Public transportation (excluding taxicab)
@@ -683,6 +692,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,90,103,2011,Walked
 2502775400,West Brookfield,B08301_020,0,95,2011,Other means
 2502775400,West Brookfield,B08301_021,88,65,2011,Worked from home
+2502782000,Worcester,B08301_003,62065,1642,2011,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,8526,817,2011,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2569,392,2011,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,234,122,2011,Taxicab
+2502782000,Worcester,B08301_017,75,63,2011,Motorcycle
+2502782000,Worcester,B08301_018,345,132,2011,Bicycle
+2502782000,Worcester,B08301_019,4990,556,2011,Walked
+2502782000,Worcester,B08301_020,565,156,2011,Other means
+2502782000,Worcester,B08301_021,2934,458,2011,Worked from home
 2502702760,Auburn,B08301_003,7394,355,2012,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,595,130,2012,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,39,28,2012,Public transportation (excluding taxicab)
@@ -1025,6 +1043,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,95,81,2012,Walked
 2502775400,West Brookfield,B08301_020,0,12,2012,Other means
 2502775400,West Brookfield,B08301_021,127,75,2012,Worked from home
+2502782000,Worcester,B08301_003,60935,1449,2012,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,8236,698,2012,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2901,486,2012,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,166,83,2012,Taxicab
+2502782000,Worcester,B08301_017,108,68,2012,Motorcycle
+2502782000,Worcester,B08301_018,342,138,2012,Bicycle
+2502782000,Worcester,B08301_019,5146,598,2012,Walked
+2502782000,Worcester,B08301_020,501,152,2012,Other means
+2502782000,Worcester,B08301_021,2979,427,2012,Worked from home
 2502702760,Auburn,B08301_003,7436,337,2013,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,522,143,2013,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,54,42,2013,Public transportation (excluding taxicab)
@@ -1367,6 +1394,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,83,86,2013,Walked
 2502775400,West Brookfield,B08301_020,0,12,2013,Other means
 2502775400,West Brookfield,B08301_021,90,53,2013,Worked from home
+2502782000,Worcester,B08301_003,60457,1192,2013,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,8760,797,2013,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,3020,483,2013,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,207,96,2013,Taxicab
+2502782000,Worcester,B08301_017,95,60,2013,Motorcycle
+2502782000,Worcester,B08301_018,356,136,2013,Bicycle
+2502782000,Worcester,B08301_019,5166,494,2013,Walked
+2502782000,Worcester,B08301_020,575,175,2013,Other means
+2502782000,Worcester,B08301_021,3096,452,2013,Worked from home
 2502702760,Auburn,B08301_003,7422,391,2014,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,492,115,2014,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,48,33,2014,Public transportation (excluding taxicab)
@@ -1709,6 +1745,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,38,37,2014,Walked
 2502775400,West Brookfield,B08301_020,0,12,2014,Other means
 2502775400,West Brookfield,B08301_021,95,56,2014,Worked from home
+2502782000,Worcester,B08301_003,59611,1507,2014,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,8977,839,2014,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2645,398,2014,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,266,113,2014,Taxicab
+2502782000,Worcester,B08301_017,78,59,2014,Motorcycle
+2502782000,Worcester,B08301_018,286,93,2014,Bicycle
+2502782000,Worcester,B08301_019,4923,488,2014,Walked
+2502782000,Worcester,B08301_020,566,167,2014,Other means
+2502782000,Worcester,B08301_021,3038,424,2014,Worked from home
 2502702760,Auburn,B08301_003,7454,329,2015,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,436,123,2015,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,82,57,2015,Public transportation (excluding taxicab)
@@ -2051,6 +2096,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,102,88,2015,Walked
 2502775400,West Brookfield,B08301_020,14,22,2015,Other means
 2502775400,West Brookfield,B08301_021,103,64,2015,Worked from home
+2502782000,Worcester,B08301_003,60295,1424,2015,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,9578,749,2015,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2778,432,2015,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,295,113,2015,Taxicab
+2502782000,Worcester,B08301_017,68,56,2015,Motorcycle
+2502782000,Worcester,B08301_018,291,114,2015,Bicycle
+2502782000,Worcester,B08301_019,4849,503,2015,Walked
+2502782000,Worcester,B08301_020,905,235,2015,Other means
+2502782000,Worcester,B08301_021,2985,422,2015,Worked from home
 2502702760,Auburn,B08301_003,7393,331,2016,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,451,130,2016,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,85,61,2016,Public transportation (excluding taxicab)
@@ -2393,6 +2447,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,104,87,2016,Walked
 2502775400,West Brookfield,B08301_020,13,20,2016,Other means
 2502775400,West Brookfield,B08301_021,84,55,2016,Worked from home
+2502782000,Worcester,B08301_003,60043,1371,2016,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,9528,732,2016,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2879,438,2016,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,249,115,2016,Taxicab
+2502782000,Worcester,B08301_017,65,57,2016,Motorcycle
+2502782000,Worcester,B08301_018,307,105,2016,Bicycle
+2502782000,Worcester,B08301_019,5284,550,2016,Walked
+2502782000,Worcester,B08301_020,1158,293,2016,Other means
+2502782000,Worcester,B08301_021,3461,417,2016,Worked from home
 2502702760,Auburn,B08301_003,7525,310,2017,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,381,107,2017,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,70,45,2017,Public transportation (excluding taxicab)
@@ -2735,6 +2798,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,104,71,2017,Walked
 2502775400,West Brookfield,B08301_020,11,18,2017,Other means
 2502775400,West Brookfield,B08301_021,60,44,2017,Worked from home
+2502782000,Worcester,B08301_003,61372,1521,2017,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,9308,794,2017,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2776,421,2017,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,353,128,2017,Taxicab
+2502782000,Worcester,B08301_017,39,37,2017,Motorcycle
+2502782000,Worcester,B08301_018,311,109,2017,Bicycle
+2502782000,Worcester,B08301_019,5171,535,2017,Walked
+2502782000,Worcester,B08301_020,1257,271,2017,Other means
+2502782000,Worcester,B08301_021,3716,421,2017,Worked from home
 2502702760,Auburn,B08301_003,7655,268,2018,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,511,154,2018,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,52,40,2018,Public transportation (excluding taxicab)
@@ -3077,6 +3149,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,101,76,2018,Walked
 2502775400,West Brookfield,B08301_020,12,20,2018,Other means
 2502775400,West Brookfield,B08301_021,62,43,2018,Worked from home
+2502782000,Worcester,B08301_003,60696,1419,2018,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,8852,795,2018,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2576,352,2018,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,475,160,2018,Taxicab
+2502782000,Worcester,B08301_017,20,18,2018,Motorcycle
+2502782000,Worcester,B08301_018,212,104,2018,Bicycle
+2502782000,Worcester,B08301_019,5516,554,2018,Walked
+2502782000,Worcester,B08301_020,1471,279,2018,Other means
+2502782000,Worcester,B08301_021,3822,509,2018,Worked from home
 2502702760,Auburn,B08301_003,7503,266,2019,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,474,127,2019,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,84,54,2019,Public transportation (excluding taxicab)
@@ -3419,6 +3500,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,124,90,2019,Walked
 2502775400,West Brookfield,B08301_020,14,24,2019,Other means
 2502775400,West Brookfield,B08301_021,67,50,2019,Worked from home
+2502782000,Worcester,B08301_003,61419,1785,2019,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,8924,833,2019,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2982,429,2019,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,802,263,2019,Taxicab
+2502782000,Worcester,B08301_017,22,19,2019,Motorcycle
+2502782000,Worcester,B08301_018,160,84,2019,Bicycle
+2502782000,Worcester,B08301_019,5887,615,2019,Walked
+2502782000,Worcester,B08301_020,1370,285,2019,Other means
+2502782000,Worcester,B08301_021,4566,621,2019,Worked from home
 2502702760,Auburn,B08301_003,7027,391,2020,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,400,122,2020,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,99,66,2020,Public transportation (excluding taxicab)
@@ -3761,6 +3851,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,69,54,2020,Walked
 2502775400,West Brookfield,B08301_020,0,13,2020,Other means
 2502775400,West Brookfield,B08301_021,219,235,2020,Worked from home
+2502782000,Worcester,B08301_003,60515,1826,2020,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,9571,874,2020,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2619,437,2020,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,909,257,2020,Taxicab
+2502782000,Worcester,B08301_017,21,21,2020,Motorcycle
+2502782000,Worcester,B08301_018,153,105,2020,Bicycle
+2502782000,Worcester,B08301_019,6245,571,2020,Walked
+2502782000,Worcester,B08301_020,1389,467,2020,Other means
+2502782000,Worcester,B08301_021,6322,681,2020,Worked from home
 2502702760,Auburn,B08301_003,6826,421,2021,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,414,130,2021,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,112,73,2021,Public transportation (excluding taxicab)
@@ -4103,6 +4202,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,49,54,2021,Walked
 2502775400,West Brookfield,B08301_020,0,13,2021,Other means
 2502775400,West Brookfield,B08301_021,201,251,2021,Worked from home
+2502782000,Worcester,B08301_003,65870,1907,2021,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,10959,1030,2021,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2662,496,2021,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,1315,351,2021,Taxicab
+2502782000,Worcester,B08301_017,25,22,2021,Motorcycle
+2502782000,Worcester,B08301_018,203,122,2021,Bicycle
+2502782000,Worcester,B08301_019,5970,635,2021,Walked
+2502782000,Worcester,B08301_020,1475,380,2021,Other means
+2502782000,Worcester,B08301_021,7970,1050,2021,Worked from home
 2502702760,Auburn,B08301_003,6729,397,2022,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,445,133,2022,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,108,81,2022,Public transportation (excluding taxicab)
@@ -4445,6 +4553,15 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,29,46,2022,Walked
 2502775400,West Brookfield,B08301_020,0,14,2022,Other means
 2502775400,West Brookfield,B08301_021,275,262,2022,Worked from home
+2502782000,Worcester,B08301_003,65375,1962,2022,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,11759,1223,2022,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2541,468,2022,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,1515,401,2022,Taxicab
+2502782000,Worcester,B08301_017,22,26,2022,Motorcycle
+2502782000,Worcester,B08301_018,219,130,2022,Bicycle
+2502782000,Worcester,B08301_019,5484,610,2022,Walked
+2502782000,Worcester,B08301_020,1920,534,2022,Other means
+2502782000,Worcester,B08301_021,9782,932,2022,Worked from home
 2502702760,Auburn,B08301_003,6694,440,2023,"Car, truck, or van - Drove alone"
 2502702760,Auburn,B08301_004,427,129,2023,"Car, truck, or van - Carpooled"
 2502702760,Auburn,B08301_010,117,76,2023,Public transportation (excluding taxicab)
@@ -4787,3 +4904,12 @@ GEOID,NAME,variable,estimate,moe,year,label_short
 2502775400,West Brookfield,B08301_019,0,14,2023,Walked
 2502775400,West Brookfield,B08301_020,0,14,2023,Other means
 2502775400,West Brookfield,B08301_021,276,261,2023,Worked from home
+2502782000,Worcester,B08301_003,66075,1812,2023,"Car, truck, or van - Drove alone"
+2502782000,Worcester,B08301_004,11653,975,2023,"Car, truck, or van - Carpooled"
+2502782000,Worcester,B08301_010,2731,483,2023,Public transportation (excluding taxicab)
+2502782000,Worcester,B08301_016,1428,355,2023,Taxicab
+2502782000,Worcester,B08301_017,10,12,2023,Motorcycle
+2502782000,Worcester,B08301_018,200,117,2023,Bicycle
+2502782000,Worcester,B08301_019,5488,613,2023,Walked
+2502782000,Worcester,B08301_020,2043,512,2023,Other means
+2502782000,Worcester,B08301_021,10747,1092,2023,Worked from home
