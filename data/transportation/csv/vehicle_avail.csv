@@ -1,0 +1,2661 @@
+GEOID,NAME,variable,estimate,moe,year,label_short
+2502702760,Auburn,B08201_002,239,89,2010,No vehicle available
+2502702760,Auburn,B08201_003,2098,256,2010,1 vehicle available
+2502702760,Auburn,B08201_004,2853,232,2010,2 vehicles available
+2502702760,Auburn,B08201_005,833,128,2010,3 vehicles available
+2502702760,Auburn,B08201_006,394,99,2010,4 or more vehicles available
+2502703740,Barre,B08201_002,42,39,2010,No vehicle available
+2502703740,Barre,B08201_003,619,174,2010,1 vehicle available
+2502703740,Barre,B08201_004,942,162,2010,2 vehicles available
+2502703740,Barre,B08201_005,306,112,2010,3 vehicles available
+2502703740,Barre,B08201_006,172,75,2010,4 or more vehicles available
+2502705490,Berlin,B08201_002,20,20,2010,No vehicle available
+2502705490,Berlin,B08201_003,215,63,2010,1 vehicle available
+2502705490,Berlin,B08201_004,502,82,2010,2 vehicles available
+2502705490,Berlin,B08201_005,248,61,2010,3 vehicles available
+2502705490,Berlin,B08201_006,59,25,2010,4 or more vehicles available
+2502706015,Blackstone,B08201_002,111,60,2010,No vehicle available
+2502706015,Blackstone,B08201_003,839,196,2010,1 vehicle available
+2502706015,Blackstone,B08201_004,1467,217,2010,2 vehicles available
+2502706015,Blackstone,B08201_005,597,163,2010,3 vehicles available
+2502706015,Blackstone,B08201_006,352,115,2010,4 or more vehicles available
+2502707525,Boylston,B08201_002,21,24,2010,No vehicle available
+2502707525,Boylston,B08201_003,555,117,2010,1 vehicle available
+2502707525,Boylston,B08201_004,670,104,2010,2 vehicles available
+2502707525,Boylston,B08201_005,376,88,2010,3 vehicles available
+2502707525,Boylston,B08201_006,76,47,2010,4 or more vehicles available
+2502709105,Brookfield,B08201_002,32,29,2010,No vehicle available
+2502709105,Brookfield,B08201_003,386,100,2010,1 vehicle available
+2502709105,Brookfield,B08201_004,719,115,2010,2 vehicles available
+2502709105,Brookfield,B08201_005,191,76,2010,3 vehicles available
+2502709105,Brookfield,B08201_006,47,33,2010,4 or more vehicles available
+2502712715,Charlton,B08201_002,125,81,2010,No vehicle available
+2502712715,Charlton,B08201_003,922,207,2010,1 vehicle available
+2502712715,Charlton,B08201_004,2175,211,2010,2 vehicles available
+2502712715,Charlton,B08201_005,906,175,2010,3 vehicles available
+2502712715,Charlton,B08201_006,326,98,2010,4 or more vehicles available
+2502717300,Douglas,B08201_002,105,99,2010,No vehicle available
+2502717300,Douglas,B08201_003,555,199,2010,1 vehicle available
+2502717300,Douglas,B08201_004,1389,209,2010,2 vehicles available
+2502717300,Douglas,B08201_005,690,144,2010,3 vehicles available
+2502717300,Douglas,B08201_006,287,103,2010,4 or more vehicles available
+2502717685,Dudley,B08201_002,237,127,2010,No vehicle available
+2502717685,Dudley,B08201_003,960,179,2010,1 vehicle available
+2502717685,Dudley,B08201_004,1823,214,2010,2 vehicles available
+2502717685,Dudley,B08201_005,605,139,2010,3 vehicles available
+2502717685,Dudley,B08201_006,306,114,2010,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,6,10,2010,No vehicle available
+2502718560,East Brookfield,B08201_003,238,64,2010,1 vehicle available
+2502718560,East Brookfield,B08201_004,328,58,2010,2 vehicles available
+2502718560,East Brookfield,B08201_005,109,39,2010,3 vehicles available
+2502718560,East Brookfield,B08201_006,55,25,2010,4 or more vehicles available
+2502726430,Grafton,B08201_002,184,82,2010,No vehicle available
+2502726430,Grafton,B08201_003,1707,230,2010,1 vehicle available
+2502726430,Grafton,B08201_004,3216,236,2010,2 vehicles available
+2502726430,Grafton,B08201_005,769,180,2010,3 vehicles available
+2502726430,Grafton,B08201_006,349,108,2010,4 or more vehicles available
+2502728740,Hardwick,B08201_002,77,56,2010,No vehicle available
+2502728740,Hardwick,B08201_003,377,102,2010,1 vehicle available
+2502728740,Hardwick,B08201_004,451,108,2010,2 vehicles available
+2502728740,Hardwick,B08201_005,213,70,2010,3 vehicles available
+2502728740,Hardwick,B08201_006,62,40,2010,4 or more vehicles available
+2502730560,Holden,B08201_002,196,85,2010,No vehicle available
+2502730560,Holden,B08201_003,1671,209,2010,1 vehicle available
+2502730560,Holden,B08201_004,3341,213,2010,2 vehicles available
+2502730560,Holden,B08201_005,779,148,2010,3 vehicles available
+2502730560,Holden,B08201_006,330,93,2010,4 or more vehicles available
+2502730945,Hopedale,B08201_002,56,45,2010,No vehicle available
+2502730945,Hopedale,B08201_003,415,118,2010,1 vehicle available
+2502730945,Hopedale,B08201_004,1237,176,2010,2 vehicles available
+2502730945,Hopedale,B08201_005,271,116,2010,3 vehicles available
+2502730945,Hopedale,B08201_006,136,71,2010,4 or more vehicles available
+2502734795,Leicester,B08201_002,203,118,2010,No vehicle available
+2502734795,Leicester,B08201_003,1208,231,2010,1 vehicle available
+2502734795,Leicester,B08201_004,1529,212,2010,2 vehicles available
+2502734795,Leicester,B08201_005,753,184,2010,3 vehicles available
+2502734795,Leicester,B08201_006,258,105,2010,4 or more vehicles available
+2502740255,Mendon,B08201_002,39,49,2010,No vehicle available
+2502740255,Mendon,B08201_003,411,117,2010,1 vehicle available
+2502740255,Mendon,B08201_004,831,153,2010,2 vehicles available
+2502740255,Mendon,B08201_005,521,123,2010,3 vehicles available
+2502740255,Mendon,B08201_006,153,66,2010,4 or more vehicles available
+2502741340,Millbury,B08201_002,352,119,2010,No vehicle available
+2502741340,Millbury,B08201_003,1646,285,2010,1 vehicle available
+2502741340,Millbury,B08201_004,2483,199,2010,2 vehicles available
+2502741340,Millbury,B08201_005,563,157,2010,3 vehicles available
+2502741340,Millbury,B08201_006,316,111,2010,4 or more vehicles available
+2502741585,Millville,B08201_002,48,43,2010,No vehicle available
+2502741585,Millville,B08201_003,199,66,2010,1 vehicle available
+2502741585,Millville,B08201_004,484,78,2010,2 vehicles available
+2502741585,Millville,B08201_005,192,54,2010,3 vehicles available
+2502741585,Millville,B08201_006,109,42,2010,4 or more vehicles available
+2502745105,New Braintree,B08201_002,3,4,2010,No vehicle available
+2502745105,New Braintree,B08201_003,71,26,2010,1 vehicle available
+2502745105,New Braintree,B08201_004,127,36,2010,2 vehicles available
+2502745105,New Braintree,B08201_005,99,30,2010,3 vehicles available
+2502745105,New Braintree,B08201_006,58,29,2010,4 or more vehicles available
+2502746820,Northborough,B08201_002,87,66,2010,No vehicle available
+2502746820,Northborough,B08201_003,1113,180,2010,1 vehicle available
+2502746820,Northborough,B08201_004,2589,196,2010,2 vehicles available
+2502746820,Northborough,B08201_005,986,164,2010,3 vehicles available
+2502746820,Northborough,B08201_006,284,94,2010,4 or more vehicles available
+2502746925,Northbridge,B08201_002,221,91,2010,No vehicle available
+2502746925,Northbridge,B08201_003,1622,212,2010,1 vehicle available
+2502746925,Northbridge,B08201_004,2682,262,2010,2 vehicles available
+2502746925,Northbridge,B08201_005,564,136,2010,3 vehicles available
+2502746925,Northbridge,B08201_006,403,116,2010,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,88,61,2010,No vehicle available
+2502747135,North Brookfield,B08201_003,687,178,2010,1 vehicle available
+2502747135,North Brookfield,B08201_004,880,139,2010,2 vehicles available
+2502747135,North Brookfield,B08201_005,177,79,2010,3 vehicles available
+2502747135,North Brookfield,B08201_006,132,50,2010,4 or more vehicles available
+2502750670,Oakham,B08201_002,4,5,2010,No vehicle available
+2502750670,Oakham,B08201_003,122,37,2010,1 vehicle available
+2502750670,Oakham,B08201_004,324,48,2010,2 vehicles available
+2502750670,Oakham,B08201_005,150,35,2010,3 vehicles available
+2502750670,Oakham,B08201_006,74,25,2010,4 or more vehicles available
+2502751825,Oxford,B08201_002,226,106,2010,No vehicle available
+2502751825,Oxford,B08201_003,1911,325,2010,1 vehicle available
+2502751825,Oxford,B08201_004,2174,306,2010,2 vehicles available
+2502751825,Oxford,B08201_005,792,174,2010,3 vehicles available
+2502751825,Oxford,B08201_006,322,103,2010,4 or more vehicles available
+2502752420,Paxton,B08201_002,37,33,2010,No vehicle available
+2502752420,Paxton,B08201_003,295,96,2010,1 vehicle available
+2502752420,Paxton,B08201_004,864,141,2010,2 vehicles available
+2502752420,Paxton,B08201_005,332,88,2010,3 vehicles available
+2502752420,Paxton,B08201_006,54,37,2010,4 or more vehicles available
+2502755395,Princeton,B08201_002,32,30,2010,No vehicle available
+2502755395,Princeton,B08201_003,188,67,2010,1 vehicle available
+2502755395,Princeton,B08201_004,588,107,2010,2 vehicles available
+2502755395,Princeton,B08201_005,278,97,2010,3 vehicles available
+2502755395,Princeton,B08201_006,165,65,2010,4 or more vehicles available
+2502758825,Rutland,B08201_002,22,24,2010,No vehicle available
+2502758825,Rutland,B08201_003,648,144,2010,1 vehicle available
+2502758825,Rutland,B08201_004,1286,181,2010,2 vehicles available
+2502758825,Rutland,B08201_005,391,103,2010,3 vehicles available
+2502758825,Rutland,B08201_006,193,82,2010,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,580,145,2010,No vehicle available
+2502761800,Shrewsbury,B08201_003,4035,370,2010,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6089,335,2010,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1609,206,2010,3 vehicles available
+2502761800,Shrewsbury,B08201_006,713,173,2010,4 or more vehicles available
+2502766105,Spencer,B08201_002,262,98,2010,No vehicle available
+2502766105,Spencer,B08201_003,1448,269,2010,1 vehicle available
+2502766105,Spencer,B08201_004,1910,232,2010,2 vehicles available
+2502766105,Spencer,B08201_005,622,135,2010,3 vehicles available
+2502766105,Spencer,B08201_006,366,106,2010,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,109,65,2010,No vehicle available
+2502768155,Sturbridge,B08201_003,1260,231,2010,1 vehicle available
+2502768155,Sturbridge,B08201_004,1739,238,2010,2 vehicles available
+2502768155,Sturbridge,B08201_005,461,131,2010,3 vehicles available
+2502768155,Sturbridge,B08201_006,117,60,2010,4 or more vehicles available
+2502768610,Sutton,B08201_002,42,35,2010,No vehicle available
+2502768610,Sutton,B08201_003,675,166,2010,1 vehicle available
+2502768610,Sutton,B08201_004,1425,211,2010,2 vehicles available
+2502768610,Sutton,B08201_005,690,157,2010,3 vehicles available
+2502768610,Sutton,B08201_006,305,93,2010,4 or more vehicles available
+2502771480,Upton,B08201_002,72,64,2010,No vehicle available
+2502771480,Upton,B08201_003,448,102,2010,1 vehicle available
+2502771480,Upton,B08201_004,1281,168,2010,2 vehicles available
+2502771480,Upton,B08201_005,452,108,2010,3 vehicles available
+2502771480,Upton,B08201_006,196,83,2010,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,166,80,2010,No vehicle available
+2502771620,Uxbridge,B08201_003,1162,209,2010,1 vehicle available
+2502771620,Uxbridge,B08201_004,2284,239,2010,2 vehicles available
+2502771620,Uxbridge,B08201_005,978,166,2010,3 vehicles available
+2502771620,Uxbridge,B08201_006,323,116,2010,4 or more vehicles available
+2502773090,Warren,B08201_002,120,86,2010,No vehicle available
+2502773090,Warren,B08201_003,768,192,2010,1 vehicle available
+2502773090,Warren,B08201_004,739,178,2010,2 vehicles available
+2502773090,Warren,B08201_005,273,102,2010,3 vehicles available
+2502773090,Warren,B08201_006,90,62,2010,4 or more vehicles available
+2502773895,Webster,B08201_002,811,190,2010,No vehicle available
+2502773895,Webster,B08201_003,3017,301,2010,1 vehicle available
+2502773895,Webster,B08201_004,2664,272,2010,2 vehicles available
+2502773895,Webster,B08201_005,690,167,2010,3 vehicles available
+2502773895,Webster,B08201_006,198,93,2010,4 or more vehicles available
+2502775015,Westborough,B08201_002,419,134,2010,No vehicle available
+2502775015,Westborough,B08201_003,2082,247,2010,1 vehicle available
+2502775015,Westborough,B08201_004,2764,220,2010,2 vehicles available
+2502775015,Westborough,B08201_005,928,179,2010,3 vehicles available
+2502775015,Westborough,B08201_006,350,110,2010,4 or more vehicles available
+2502775155,West Boylston,B08201_002,9,14,2010,No vehicle available
+2502775155,West Boylston,B08201_003,875,176,2010,1 vehicle available
+2502775155,West Boylston,B08201_004,877,123,2010,2 vehicles available
+2502775155,West Boylston,B08201_005,391,90,2010,3 vehicles available
+2502775155,West Boylston,B08201_006,122,57,2010,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,97,73,2010,No vehicle available
+2502775400,West Brookfield,B08201_003,440,119,2010,1 vehicle available
+2502775400,West Brookfield,B08201_004,592,93,2010,2 vehicles available
+2502775400,West Brookfield,B08201_005,229,74,2010,3 vehicles available
+2502775400,West Brookfield,B08201_006,119,51,2010,4 or more vehicles available
+2502702760,Auburn,B08201_002,281,119,2011,No vehicle available
+2502702760,Auburn,B08201_003,2100,254,2011,1 vehicle available
+2502702760,Auburn,B08201_004,2637,238,2011,2 vehicles available
+2502702760,Auburn,B08201_005,899,144,2011,3 vehicles available
+2502702760,Auburn,B08201_006,401,95,2011,4 or more vehicles available
+2502703740,Barre,B08201_002,47,35,2011,No vehicle available
+2502703740,Barre,B08201_003,653,142,2011,1 vehicle available
+2502703740,Barre,B08201_004,871,146,2011,2 vehicles available
+2502703740,Barre,B08201_005,347,125,2011,3 vehicles available
+2502703740,Barre,B08201_006,147,72,2011,4 or more vehicles available
+2502705490,Berlin,B08201_002,21,22,2011,No vehicle available
+2502705490,Berlin,B08201_003,221,58,2011,1 vehicle available
+2502705490,Berlin,B08201_004,472,80,2011,2 vehicles available
+2502705490,Berlin,B08201_005,255,56,2011,3 vehicles available
+2502705490,Berlin,B08201_006,60,28,2011,4 or more vehicles available
+2502706015,Blackstone,B08201_002,108,64,2011,No vehicle available
+2502706015,Blackstone,B08201_003,858,182,2011,1 vehicle available
+2502706015,Blackstone,B08201_004,1510,217,2011,2 vehicles available
+2502706015,Blackstone,B08201_005,617,175,2011,3 vehicles available
+2502706015,Blackstone,B08201_006,379,109,2011,4 or more vehicles available
+2502707525,Boylston,B08201_002,11,19,2011,No vehicle available
+2502707525,Boylston,B08201_003,531,141,2011,1 vehicle available
+2502707525,Boylston,B08201_004,754,120,2011,2 vehicles available
+2502707525,Boylston,B08201_005,327,82,2011,3 vehicles available
+2502707525,Boylston,B08201_006,53,38,2011,4 or more vehicles available
+2502709105,Brookfield,B08201_002,38,30,2011,No vehicle available
+2502709105,Brookfield,B08201_003,416,105,2011,1 vehicle available
+2502709105,Brookfield,B08201_004,693,99,2011,2 vehicles available
+2502709105,Brookfield,B08201_005,158,57,2011,3 vehicles available
+2502709105,Brookfield,B08201_006,48,32,2011,4 or more vehicles available
+2502712715,Charlton,B08201_002,159,75,2011,No vehicle available
+2502712715,Charlton,B08201_003,869,171,2011,1 vehicle available
+2502712715,Charlton,B08201_004,1965,251,2011,2 vehicles available
+2502712715,Charlton,B08201_005,985,179,2011,3 vehicles available
+2502712715,Charlton,B08201_006,328,105,2011,4 or more vehicles available
+2502717300,Douglas,B08201_002,93,103,2011,No vehicle available
+2502717300,Douglas,B08201_003,775,236,2011,1 vehicle available
+2502717300,Douglas,B08201_004,1309,240,2011,2 vehicles available
+2502717300,Douglas,B08201_005,697,166,2011,3 vehicles available
+2502717300,Douglas,B08201_006,332,138,2011,4 or more vehicles available
+2502717685,Dudley,B08201_002,156,99,2011,No vehicle available
+2502717685,Dudley,B08201_003,901,217,2011,1 vehicle available
+2502717685,Dudley,B08201_004,1789,206,2011,2 vehicles available
+2502717685,Dudley,B08201_005,615,150,2011,3 vehicles available
+2502717685,Dudley,B08201_006,319,117,2011,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,6,10,2011,No vehicle available
+2502718560,East Brookfield,B08201_003,211,55,2011,1 vehicle available
+2502718560,East Brookfield,B08201_004,330,65,2011,2 vehicles available
+2502718560,East Brookfield,B08201_005,137,51,2011,3 vehicles available
+2502718560,East Brookfield,B08201_006,53,25,2011,4 or more vehicles available
+2502726430,Grafton,B08201_002,231,98,2011,No vehicle available
+2502726430,Grafton,B08201_003,1783,259,2011,1 vehicle available
+2502726430,Grafton,B08201_004,3073,270,2011,2 vehicles available
+2502726430,Grafton,B08201_005,824,165,2011,3 vehicles available
+2502726430,Grafton,B08201_006,465,124,2011,4 or more vehicles available
+2502728740,Hardwick,B08201_002,78,59,2011,No vehicle available
+2502728740,Hardwick,B08201_003,348,105,2011,1 vehicle available
+2502728740,Hardwick,B08201_004,495,91,2011,2 vehicles available
+2502728740,Hardwick,B08201_005,130,47,2011,3 vehicles available
+2502728740,Hardwick,B08201_006,102,49,2011,4 or more vehicles available
+2502730560,Holden,B08201_002,163,68,2011,No vehicle available
+2502730560,Holden,B08201_003,1647,199,2011,1 vehicle available
+2502730560,Holden,B08201_004,3397,216,2011,2 vehicles available
+2502730560,Holden,B08201_005,788,125,2011,3 vehicles available
+2502730560,Holden,B08201_006,301,80,2011,4 or more vehicles available
+2502730945,Hopedale,B08201_002,136,78,2011,No vehicle available
+2502730945,Hopedale,B08201_003,414,128,2011,1 vehicle available
+2502730945,Hopedale,B08201_004,1249,165,2011,2 vehicles available
+2502730945,Hopedale,B08201_005,358,149,2011,3 vehicles available
+2502730945,Hopedale,B08201_006,118,67,2011,4 or more vehicles available
+2502734795,Leicester,B08201_002,222,118,2011,No vehicle available
+2502734795,Leicester,B08201_003,1040,179,2011,1 vehicle available
+2502734795,Leicester,B08201_004,1689,210,2011,2 vehicles available
+2502734795,Leicester,B08201_005,656,157,2011,3 vehicles available
+2502734795,Leicester,B08201_006,251,90,2011,4 or more vehicles available
+2502740255,Mendon,B08201_002,48,54,2011,No vehicle available
+2502740255,Mendon,B08201_003,474,118,2011,1 vehicle available
+2502740255,Mendon,B08201_004,917,155,2011,2 vehicles available
+2502740255,Mendon,B08201_005,465,118,2011,3 vehicles available
+2502740255,Mendon,B08201_006,151,67,2011,4 or more vehicles available
+2502741340,Millbury,B08201_002,274,92,2011,No vehicle available
+2502741340,Millbury,B08201_003,1429,240,2011,1 vehicle available
+2502741340,Millbury,B08201_004,2485,238,2011,2 vehicles available
+2502741340,Millbury,B08201_005,713,161,2011,3 vehicles available
+2502741340,Millbury,B08201_006,265,98,2011,4 or more vehicles available
+2502741585,Millville,B08201_002,58,37,2011,No vehicle available
+2502741585,Millville,B08201_003,235,70,2011,1 vehicle available
+2502741585,Millville,B08201_004,468,80,2011,2 vehicles available
+2502741585,Millville,B08201_005,197,53,2011,3 vehicles available
+2502741585,Millville,B08201_006,102,40,2011,4 or more vehicles available
+2502745105,New Braintree,B08201_002,2,5,2011,No vehicle available
+2502745105,New Braintree,B08201_003,69,23,2011,1 vehicle available
+2502745105,New Braintree,B08201_004,139,37,2011,2 vehicles available
+2502745105,New Braintree,B08201_005,95,29,2011,3 vehicles available
+2502745105,New Braintree,B08201_006,75,39,2011,4 or more vehicles available
+2502746820,Northborough,B08201_002,134,75,2011,No vehicle available
+2502746820,Northborough,B08201_003,1170,220,2011,1 vehicle available
+2502746820,Northborough,B08201_004,2629,208,2011,2 vehicles available
+2502746820,Northborough,B08201_005,916,142,2011,3 vehicles available
+2502746820,Northborough,B08201_006,265,67,2011,4 or more vehicles available
+2502746925,Northbridge,B08201_002,269,103,2011,No vehicle available
+2502746925,Northbridge,B08201_003,1478,223,2011,1 vehicle available
+2502746925,Northbridge,B08201_004,2685,265,2011,2 vehicles available
+2502746925,Northbridge,B08201_005,713,164,2011,3 vehicles available
+2502746925,Northbridge,B08201_006,393,129,2011,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,93,55,2011,No vehicle available
+2502747135,North Brookfield,B08201_003,690,188,2011,1 vehicle available
+2502747135,North Brookfield,B08201_004,800,148,2011,2 vehicles available
+2502747135,North Brookfield,B08201_005,244,100,2011,3 vehicles available
+2502747135,North Brookfield,B08201_006,104,56,2011,4 or more vehicles available
+2502750670,Oakham,B08201_002,0,95,2011,No vehicle available
+2502750670,Oakham,B08201_003,161,36,2011,1 vehicle available
+2502750670,Oakham,B08201_004,299,41,2011,2 vehicles available
+2502750670,Oakham,B08201_005,144,34,2011,3 vehicles available
+2502750670,Oakham,B08201_006,76,26,2011,4 or more vehicles available
+2502751825,Oxford,B08201_002,204,109,2011,No vehicle available
+2502751825,Oxford,B08201_003,1974,284,2011,1 vehicle available
+2502751825,Oxford,B08201_004,2028,221,2011,2 vehicles available
+2502751825,Oxford,B08201_005,760,189,2011,3 vehicles available
+2502751825,Oxford,B08201_006,377,117,2011,4 or more vehicles available
+2502752420,Paxton,B08201_002,36,33,2011,No vehicle available
+2502752420,Paxton,B08201_003,272,86,2011,1 vehicle available
+2502752420,Paxton,B08201_004,855,130,2011,2 vehicles available
+2502752420,Paxton,B08201_005,350,95,2011,3 vehicles available
+2502752420,Paxton,B08201_006,78,47,2011,4 or more vehicles available
+2502755395,Princeton,B08201_002,31,28,2011,No vehicle available
+2502755395,Princeton,B08201_003,243,82,2011,1 vehicle available
+2502755395,Princeton,B08201_004,505,102,2011,2 vehicles available
+2502755395,Princeton,B08201_005,299,78,2011,3 vehicles available
+2502755395,Princeton,B08201_006,175,81,2011,4 or more vehicles available
+2502758825,Rutland,B08201_002,24,29,2011,No vehicle available
+2502758825,Rutland,B08201_003,647,145,2011,1 vehicle available
+2502758825,Rutland,B08201_004,1282,172,2011,2 vehicles available
+2502758825,Rutland,B08201_005,390,117,2011,3 vehicles available
+2502758825,Rutland,B08201_006,215,86,2011,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,674,179,2011,No vehicle available
+2502761800,Shrewsbury,B08201_003,3935,376,2011,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6192,384,2011,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1693,252,2011,3 vehicles available
+2502761800,Shrewsbury,B08201_006,601,151,2011,4 or more vehicles available
+2502766105,Spencer,B08201_002,319,121,2011,No vehicle available
+2502766105,Spencer,B08201_003,1678,271,2011,1 vehicle available
+2502766105,Spencer,B08201_004,1731,218,2011,2 vehicles available
+2502766105,Spencer,B08201_005,618,138,2011,3 vehicles available
+2502766105,Spencer,B08201_006,340,112,2011,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,84,51,2011,No vehicle available
+2502768155,Sturbridge,B08201_003,1236,203,2011,1 vehicle available
+2502768155,Sturbridge,B08201_004,1733,200,2011,2 vehicles available
+2502768155,Sturbridge,B08201_005,477,115,2011,3 vehicles available
+2502768155,Sturbridge,B08201_006,125,70,2011,4 or more vehicles available
+2502768610,Sutton,B08201_002,33,32,2011,No vehicle available
+2502768610,Sutton,B08201_003,695,158,2011,1 vehicle available
+2502768610,Sutton,B08201_004,1455,213,2011,2 vehicles available
+2502768610,Sutton,B08201_005,624,155,2011,3 vehicles available
+2502768610,Sutton,B08201_006,321,95,2011,4 or more vehicles available
+2502771480,Upton,B08201_002,134,96,2011,No vehicle available
+2502771480,Upton,B08201_003,451,132,2011,1 vehicle available
+2502771480,Upton,B08201_004,1350,169,2011,2 vehicles available
+2502771480,Upton,B08201_005,448,116,2011,3 vehicles available
+2502771480,Upton,B08201_006,205,88,2011,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,143,57,2011,No vehicle available
+2502771620,Uxbridge,B08201_003,1137,207,2011,1 vehicle available
+2502771620,Uxbridge,B08201_004,2323,242,2011,2 vehicles available
+2502771620,Uxbridge,B08201_005,984,175,2011,3 vehicles available
+2502771620,Uxbridge,B08201_006,344,105,2011,4 or more vehicles available
+2502773090,Warren,B08201_002,121,89,2011,No vehicle available
+2502773090,Warren,B08201_003,791,156,2011,1 vehicle available
+2502773090,Warren,B08201_004,861,166,2011,2 vehicles available
+2502773090,Warren,B08201_005,225,98,2011,3 vehicles available
+2502773090,Warren,B08201_006,69,41,2011,4 or more vehicles available
+2502773895,Webster,B08201_002,818,183,2011,No vehicle available
+2502773895,Webster,B08201_003,3033,339,2011,1 vehicle available
+2502773895,Webster,B08201_004,2594,288,2011,2 vehicles available
+2502773895,Webster,B08201_005,635,154,2011,3 vehicles available
+2502773895,Webster,B08201_006,264,106,2011,4 or more vehicles available
+2502775015,Westborough,B08201_002,459,157,2011,No vehicle available
+2502775015,Westborough,B08201_003,2179,306,2011,1 vehicle available
+2502775015,Westborough,B08201_004,2867,245,2011,2 vehicles available
+2502775015,Westborough,B08201_005,862,139,2011,3 vehicles available
+2502775015,Westborough,B08201_006,353,115,2011,4 or more vehicles available
+2502775155,West Boylston,B08201_002,43,39,2011,No vehicle available
+2502775155,West Boylston,B08201_003,946,197,2011,1 vehicle available
+2502775155,West Boylston,B08201_004,823,180,2011,2 vehicles available
+2502775155,West Boylston,B08201_005,381,98,2011,3 vehicles available
+2502775155,West Boylston,B08201_006,115,47,2011,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,81,49,2011,No vehicle available
+2502775400,West Brookfield,B08201_003,500,136,2011,1 vehicle available
+2502775400,West Brookfield,B08201_004,614,107,2011,2 vehicles available
+2502775400,West Brookfield,B08201_005,235,76,2011,3 vehicles available
+2502775400,West Brookfield,B08201_006,58,31,2011,4 or more vehicles available
+2502702760,Auburn,B08201_002,312,94,2012,No vehicle available
+2502702760,Auburn,B08201_003,1907,214,2012,1 vehicle available
+2502702760,Auburn,B08201_004,2584,243,2012,2 vehicles available
+2502702760,Auburn,B08201_005,924,151,2012,3 vehicles available
+2502702760,Auburn,B08201_006,388,93,2012,4 or more vehicles available
+2502703740,Barre,B08201_002,102,74,2012,No vehicle available
+2502703740,Barre,B08201_003,535,133,2012,1 vehicle available
+2502703740,Barre,B08201_004,710,148,2012,2 vehicles available
+2502703740,Barre,B08201_005,414,113,2012,3 vehicles available
+2502703740,Barre,B08201_006,176,88,2012,4 or more vehicles available
+2502705490,Berlin,B08201_002,23,24,2012,No vehicle available
+2502705490,Berlin,B08201_003,225,63,2012,1 vehicle available
+2502705490,Berlin,B08201_004,475,87,2012,2 vehicles available
+2502705490,Berlin,B08201_005,279,64,2012,3 vehicles available
+2502705490,Berlin,B08201_006,70,36,2012,4 or more vehicles available
+2502706015,Blackstone,B08201_002,114,59,2012,No vehicle available
+2502706015,Blackstone,B08201_003,878,166,2012,1 vehicle available
+2502706015,Blackstone,B08201_004,1526,202,2012,2 vehicles available
+2502706015,Blackstone,B08201_005,527,151,2012,3 vehicles available
+2502706015,Blackstone,B08201_006,322,99,2012,4 or more vehicles available
+2502707525,Boylston,B08201_002,11,17,2012,No vehicle available
+2502707525,Boylston,B08201_003,427,112,2012,1 vehicle available
+2502707525,Boylston,B08201_004,729,109,2012,2 vehicles available
+2502707525,Boylston,B08201_005,387,76,2012,3 vehicles available
+2502707525,Boylston,B08201_006,64,39,2012,4 or more vehicles available
+2502709105,Brookfield,B08201_002,42,32,2012,No vehicle available
+2502709105,Brookfield,B08201_003,453,106,2012,1 vehicle available
+2502709105,Brookfield,B08201_004,659,94,2012,2 vehicles available
+2502709105,Brookfield,B08201_005,120,55,2012,3 vehicles available
+2502709105,Brookfield,B08201_006,68,38,2012,4 or more vehicles available
+2502712715,Charlton,B08201_002,190,86,2012,No vehicle available
+2502712715,Charlton,B08201_003,938,199,2012,1 vehicle available
+2502712715,Charlton,B08201_004,2001,229,2012,2 vehicles available
+2502712715,Charlton,B08201_005,948,204,2012,3 vehicles available
+2502712715,Charlton,B08201_006,334,99,2012,4 or more vehicles available
+2502717300,Douglas,B08201_002,67,94,2012,No vehicle available
+2502717300,Douglas,B08201_003,702,206,2012,1 vehicle available
+2502717300,Douglas,B08201_004,1285,229,2012,2 vehicles available
+2502717300,Douglas,B08201_005,741,169,2012,3 vehicles available
+2502717300,Douglas,B08201_006,326,119,2012,4 or more vehicles available
+2502717685,Dudley,B08201_002,171,98,2012,No vehicle available
+2502717685,Dudley,B08201_003,1066,234,2012,1 vehicle available
+2502717685,Dudley,B08201_004,1752,200,2012,2 vehicles available
+2502717685,Dudley,B08201_005,654,142,2012,3 vehicles available
+2502717685,Dudley,B08201_006,308,117,2012,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,7,10,2012,No vehicle available
+2502718560,East Brookfield,B08201_003,189,59,2012,1 vehicle available
+2502718560,East Brookfield,B08201_004,359,67,2012,2 vehicles available
+2502718560,East Brookfield,B08201_005,140,52,2012,3 vehicles available
+2502718560,East Brookfield,B08201_006,65,26,2012,4 or more vehicles available
+2502726430,Grafton,B08201_002,196,85,2012,No vehicle available
+2502726430,Grafton,B08201_003,1760,238,2012,1 vehicle available
+2502726430,Grafton,B08201_004,3272,302,2012,2 vehicles available
+2502726430,Grafton,B08201_005,720,157,2012,3 vehicles available
+2502726430,Grafton,B08201_006,437,117,2012,4 or more vehicles available
+2502728740,Hardwick,B08201_002,65,50,2012,No vehicle available
+2502728740,Hardwick,B08201_003,354,91,2012,1 vehicle available
+2502728740,Hardwick,B08201_004,463,100,2012,2 vehicles available
+2502728740,Hardwick,B08201_005,127,51,2012,3 vehicles available
+2502728740,Hardwick,B08201_006,121,51,2012,4 or more vehicles available
+2502730560,Holden,B08201_002,199,78,2012,No vehicle available
+2502730560,Holden,B08201_003,1615,184,2012,1 vehicle available
+2502730560,Holden,B08201_004,3261,192,2012,2 vehicles available
+2502730560,Holden,B08201_005,861,132,2012,3 vehicles available
+2502730560,Holden,B08201_006,372,89,2012,4 or more vehicles available
+2502730945,Hopedale,B08201_002,155,77,2012,No vehicle available
+2502730945,Hopedale,B08201_003,465,113,2012,1 vehicle available
+2502730945,Hopedale,B08201_004,1166,170,2012,2 vehicles available
+2502730945,Hopedale,B08201_005,267,100,2012,3 vehicles available
+2502730945,Hopedale,B08201_006,121,78,2012,4 or more vehicles available
+2502734795,Leicester,B08201_002,195,113,2012,No vehicle available
+2502734795,Leicester,B08201_003,1104,204,2012,1 vehicle available
+2502734795,Leicester,B08201_004,1852,208,2012,2 vehicles available
+2502734795,Leicester,B08201_005,614,143,2012,3 vehicles available
+2502734795,Leicester,B08201_006,251,74,2012,4 or more vehicles available
+2502740255,Mendon,B08201_002,7,12,2012,No vehicle available
+2502740255,Mendon,B08201_003,424,131,2012,1 vehicle available
+2502740255,Mendon,B08201_004,974,142,2012,2 vehicles available
+2502740255,Mendon,B08201_005,477,114,2012,3 vehicles available
+2502740255,Mendon,B08201_006,152,64,2012,4 or more vehicles available
+2502741340,Millbury,B08201_002,227,73,2012,No vehicle available
+2502741340,Millbury,B08201_003,1467,259,2012,1 vehicle available
+2502741340,Millbury,B08201_004,2367,262,2012,2 vehicles available
+2502741340,Millbury,B08201_005,786,173,2012,3 vehicles available
+2502741340,Millbury,B08201_006,298,99,2012,4 or more vehicles available
+2502741585,Millville,B08201_002,40,26,2012,No vehicle available
+2502741585,Millville,B08201_003,216,61,2012,1 vehicle available
+2502741585,Millville,B08201_004,452,90,2012,2 vehicles available
+2502741585,Millville,B08201_005,213,47,2012,3 vehicles available
+2502741585,Millville,B08201_006,83,34,2012,4 or more vehicles available
+2502745105,New Braintree,B08201_002,5,5,2012,No vehicle available
+2502745105,New Braintree,B08201_003,60,23,2012,1 vehicle available
+2502745105,New Braintree,B08201_004,166,33,2012,2 vehicles available
+2502745105,New Braintree,B08201_005,79,28,2012,3 vehicles available
+2502745105,New Braintree,B08201_006,64,32,2012,4 or more vehicles available
+2502746820,Northborough,B08201_002,170,85,2012,No vehicle available
+2502746820,Northborough,B08201_003,1088,167,2012,1 vehicle available
+2502746820,Northborough,B08201_004,2790,235,2012,2 vehicles available
+2502746820,Northborough,B08201_005,987,175,2012,3 vehicles available
+2502746820,Northborough,B08201_006,160,54,2012,4 or more vehicles available
+2502746925,Northbridge,B08201_002,330,116,2012,No vehicle available
+2502746925,Northbridge,B08201_003,1653,291,2012,1 vehicle available
+2502746925,Northbridge,B08201_004,2653,239,2012,2 vehicles available
+2502746925,Northbridge,B08201_005,877,174,2012,3 vehicles available
+2502746925,Northbridge,B08201_006,334,115,2012,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,79,45,2012,No vehicle available
+2502747135,North Brookfield,B08201_003,765,190,2012,1 vehicle available
+2502747135,North Brookfield,B08201_004,776,138,2012,2 vehicles available
+2502747135,North Brookfield,B08201_005,251,89,2012,3 vehicles available
+2502747135,North Brookfield,B08201_006,97,57,2012,4 or more vehicles available
+2502750670,Oakham,B08201_002,3,5,2012,No vehicle available
+2502750670,Oakham,B08201_003,160,38,2012,1 vehicle available
+2502750670,Oakham,B08201_004,273,38,2012,2 vehicles available
+2502750670,Oakham,B08201_005,142,35,2012,3 vehicles available
+2502750670,Oakham,B08201_006,72,23,2012,4 or more vehicles available
+2502751825,Oxford,B08201_002,206,102,2012,No vehicle available
+2502751825,Oxford,B08201_003,1785,272,2012,1 vehicle available
+2502751825,Oxford,B08201_004,2075,244,2012,2 vehicles available
+2502751825,Oxford,B08201_005,701,162,2012,3 vehicles available
+2502751825,Oxford,B08201_006,414,124,2012,4 or more vehicles available
+2502752420,Paxton,B08201_002,36,32,2012,No vehicle available
+2502752420,Paxton,B08201_003,294,87,2012,1 vehicle available
+2502752420,Paxton,B08201_004,801,141,2012,2 vehicles available
+2502752420,Paxton,B08201_005,280,75,2012,3 vehicles available
+2502752420,Paxton,B08201_006,127,64,2012,4 or more vehicles available
+2502755395,Princeton,B08201_002,21,24,2012,No vehicle available
+2502755395,Princeton,B08201_003,194,70,2012,1 vehicle available
+2502755395,Princeton,B08201_004,580,91,2012,2 vehicles available
+2502755395,Princeton,B08201_005,243,68,2012,3 vehicles available
+2502755395,Princeton,B08201_006,168,70,2012,4 or more vehicles available
+2502758825,Rutland,B08201_002,30,34,2012,No vehicle available
+2502758825,Rutland,B08201_003,590,159,2012,1 vehicle available
+2502758825,Rutland,B08201_004,1348,179,2012,2 vehicles available
+2502758825,Rutland,B08201_005,436,130,2012,3 vehicles available
+2502758825,Rutland,B08201_006,235,75,2012,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,628,181,2012,No vehicle available
+2502761800,Shrewsbury,B08201_003,4010,373,2012,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6389,370,2012,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1593,242,2012,3 vehicles available
+2502761800,Shrewsbury,B08201_006,499,117,2012,4 or more vehicles available
+2502766105,Spencer,B08201_002,363,136,2012,No vehicle available
+2502766105,Spencer,B08201_003,1681,280,2012,1 vehicle available
+2502766105,Spencer,B08201_004,1848,249,2012,2 vehicles available
+2502766105,Spencer,B08201_005,478,165,2012,3 vehicles available
+2502766105,Spencer,B08201_006,308,114,2012,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,89,57,2012,No vehicle available
+2502768155,Sturbridge,B08201_003,1189,200,2012,1 vehicle available
+2502768155,Sturbridge,B08201_004,1636,219,2012,2 vehicles available
+2502768155,Sturbridge,B08201_005,554,150,2012,3 vehicles available
+2502768155,Sturbridge,B08201_006,126,74,2012,4 or more vehicles available
+2502768610,Sutton,B08201_002,17,21,2012,No vehicle available
+2502768610,Sutton,B08201_003,589,128,2012,1 vehicle available
+2502768610,Sutton,B08201_004,1531,175,2012,2 vehicles available
+2502768610,Sutton,B08201_005,574,146,2012,3 vehicles available
+2502768610,Sutton,B08201_006,340,83,2012,4 or more vehicles available
+2502771480,Upton,B08201_002,135,100,2012,No vehicle available
+2502771480,Upton,B08201_003,528,164,2012,1 vehicle available
+2502771480,Upton,B08201_004,1302,183,2012,2 vehicles available
+2502771480,Upton,B08201_005,521,126,2012,3 vehicles available
+2502771480,Upton,B08201_006,153,77,2012,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,150,78,2012,No vehicle available
+2502771620,Uxbridge,B08201_003,1176,209,2012,1 vehicle available
+2502771620,Uxbridge,B08201_004,2348,273,2012,2 vehicles available
+2502771620,Uxbridge,B08201_005,903,166,2012,3 vehicles available
+2502771620,Uxbridge,B08201_006,328,117,2012,4 or more vehicles available
+2502773090,Warren,B08201_002,151,84,2012,No vehicle available
+2502773090,Warren,B08201_003,869,212,2012,1 vehicle available
+2502773090,Warren,B08201_004,858,211,2012,2 vehicles available
+2502773090,Warren,B08201_005,130,75,2012,3 vehicles available
+2502773090,Warren,B08201_006,108,69,2012,4 or more vehicles available
+2502773895,Webster,B08201_002,833,165,2012,No vehicle available
+2502773895,Webster,B08201_003,2749,286,2012,1 vehicle available
+2502773895,Webster,B08201_004,2656,210,2012,2 vehicles available
+2502773895,Webster,B08201_005,557,144,2012,3 vehicles available
+2502773895,Webster,B08201_006,282,105,2012,4 or more vehicles available
+2502775015,Westborough,B08201_002,515,156,2012,No vehicle available
+2502775015,Westborough,B08201_003,2391,308,2012,1 vehicle available
+2502775015,Westborough,B08201_004,2924,246,2012,2 vehicles available
+2502775015,Westborough,B08201_005,806,161,2012,3 vehicles available
+2502775015,Westborough,B08201_006,307,89,2012,4 or more vehicles available
+2502775155,West Boylston,B08201_002,51,39,2012,No vehicle available
+2502775155,West Boylston,B08201_003,912,137,2012,1 vehicle available
+2502775155,West Boylston,B08201_004,897,159,2012,2 vehicles available
+2502775155,West Boylston,B08201_005,382,97,2012,3 vehicles available
+2502775155,West Boylston,B08201_006,99,44,2012,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,74,48,2012,No vehicle available
+2502775400,West Brookfield,B08201_003,389,106,2012,1 vehicle available
+2502775400,West Brookfield,B08201_004,664,94,2012,2 vehicles available
+2502775400,West Brookfield,B08201_005,238,71,2012,3 vehicles available
+2502775400,West Brookfield,B08201_006,68,43,2012,4 or more vehicles available
+2502702760,Auburn,B08201_002,371,108,2013,No vehicle available
+2502702760,Auburn,B08201_003,1999,219,2013,1 vehicle available
+2502702760,Auburn,B08201_004,2559,213,2013,2 vehicles available
+2502702760,Auburn,B08201_005,922,141,2013,3 vehicles available
+2502702760,Auburn,B08201_006,394,84,2013,4 or more vehicles available
+2502703740,Barre,B08201_002,90,70,2013,No vehicle available
+2502703740,Barre,B08201_003,617,159,2013,1 vehicle available
+2502703740,Barre,B08201_004,788,160,2013,2 vehicles available
+2502703740,Barre,B08201_005,320,126,2013,3 vehicles available
+2502703740,Barre,B08201_006,152,86,2013,4 or more vehicles available
+2502705490,Berlin,B08201_002,19,20,2013,No vehicle available
+2502705490,Berlin,B08201_003,173,43,2013,1 vehicle available
+2502705490,Berlin,B08201_004,485,72,2013,2 vehicles available
+2502705490,Berlin,B08201_005,243,57,2013,3 vehicles available
+2502705490,Berlin,B08201_006,118,41,2013,4 or more vehicles available
+2502706015,Blackstone,B08201_002,166,82,2013,No vehicle available
+2502706015,Blackstone,B08201_003,862,200,2013,1 vehicle available
+2502706015,Blackstone,B08201_004,1567,189,2013,2 vehicles available
+2502706015,Blackstone,B08201_005,503,129,2013,3 vehicles available
+2502706015,Blackstone,B08201_006,276,95,2013,4 or more vehicles available
+2502707525,Boylston,B08201_002,18,20,2013,No vehicle available
+2502707525,Boylston,B08201_003,384,104,2013,1 vehicle available
+2502707525,Boylston,B08201_004,714,100,2013,2 vehicles available
+2502707525,Boylston,B08201_005,370,95,2013,3 vehicles available
+2502707525,Boylston,B08201_006,125,57,2013,4 or more vehicles available
+2502709105,Brookfield,B08201_002,45,33,2013,No vehicle available
+2502709105,Brookfield,B08201_003,441,117,2013,1 vehicle available
+2502709105,Brookfield,B08201_004,639,117,2013,2 vehicles available
+2502709105,Brookfield,B08201_005,143,64,2013,3 vehicles available
+2502709105,Brookfield,B08201_006,78,42,2013,4 or more vehicles available
+2502712715,Charlton,B08201_002,158,71,2013,No vehicle available
+2502712715,Charlton,B08201_003,1047,193,2013,1 vehicle available
+2502712715,Charlton,B08201_004,1967,242,2013,2 vehicles available
+2502712715,Charlton,B08201_005,1067,164,2013,3 vehicles available
+2502712715,Charlton,B08201_006,337,110,2013,4 or more vehicles available
+2502717300,Douglas,B08201_002,54,83,2013,No vehicle available
+2502717300,Douglas,B08201_003,843,213,2013,1 vehicle available
+2502717300,Douglas,B08201_004,1349,191,2013,2 vehicles available
+2502717300,Douglas,B08201_005,665,182,2013,3 vehicles available
+2502717300,Douglas,B08201_006,319,136,2013,4 or more vehicles available
+2502717685,Dudley,B08201_002,143,85,2013,No vehicle available
+2502717685,Dudley,B08201_003,1151,260,2013,1 vehicle available
+2502717685,Dudley,B08201_004,1704,203,2013,2 vehicles available
+2502717685,Dudley,B08201_005,678,173,2013,3 vehicles available
+2502717685,Dudley,B08201_006,256,124,2013,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,12,13,2013,No vehicle available
+2502718560,East Brookfield,B08201_003,205,58,2013,1 vehicle available
+2502718560,East Brookfield,B08201_004,365,63,2013,2 vehicles available
+2502718560,East Brookfield,B08201_005,139,49,2013,3 vehicles available
+2502718560,East Brookfield,B08201_006,80,32,2013,4 or more vehicles available
+2502726430,Grafton,B08201_002,219,100,2013,No vehicle available
+2502726430,Grafton,B08201_003,1750,223,2013,1 vehicle available
+2502726430,Grafton,B08201_004,3320,223,2013,2 vehicles available
+2502726430,Grafton,B08201_005,701,143,2013,3 vehicles available
+2502726430,Grafton,B08201_006,457,112,2013,4 or more vehicles available
+2502728740,Hardwick,B08201_002,54,44,2013,No vehicle available
+2502728740,Hardwick,B08201_003,413,105,2013,1 vehicle available
+2502728740,Hardwick,B08201_004,537,116,2013,2 vehicles available
+2502728740,Hardwick,B08201_005,140,49,2013,3 vehicles available
+2502728740,Hardwick,B08201_006,95,55,2013,4 or more vehicles available
+2502730560,Holden,B08201_002,169,61,2013,No vehicle available
+2502730560,Holden,B08201_003,1429,175,2013,1 vehicle available
+2502730560,Holden,B08201_004,3361,232,2013,2 vehicles available
+2502730560,Holden,B08201_005,898,144,2013,3 vehicles available
+2502730560,Holden,B08201_006,411,91,2013,4 or more vehicles available
+2502730945,Hopedale,B08201_002,164,75,2013,No vehicle available
+2502730945,Hopedale,B08201_003,631,114,2013,1 vehicle available
+2502730945,Hopedale,B08201_004,1017,162,2013,2 vehicles available
+2502730945,Hopedale,B08201_005,256,105,2013,3 vehicles available
+2502730945,Hopedale,B08201_006,151,68,2013,4 or more vehicles available
+2502734795,Leicester,B08201_002,204,111,2013,No vehicle available
+2502734795,Leicester,B08201_003,1281,219,2013,1 vehicle available
+2502734795,Leicester,B08201_004,1771,199,2013,2 vehicles available
+2502734795,Leicester,B08201_005,596,132,2013,3 vehicles available
+2502734795,Leicester,B08201_006,234,74,2013,4 or more vehicles available
+2502740255,Mendon,B08201_002,19,22,2013,No vehicle available
+2502740255,Mendon,B08201_003,434,127,2013,1 vehicle available
+2502740255,Mendon,B08201_004,972,149,2013,2 vehicles available
+2502740255,Mendon,B08201_005,475,117,2013,3 vehicles available
+2502740255,Mendon,B08201_006,163,68,2013,4 or more vehicles available
+2502741340,Millbury,B08201_002,185,74,2013,No vehicle available
+2502741340,Millbury,B08201_003,1601,266,2013,1 vehicle available
+2502741340,Millbury,B08201_004,2273,255,2013,2 vehicles available
+2502741340,Millbury,B08201_005,812,192,2013,3 vehicles available
+2502741340,Millbury,B08201_006,333,133,2013,4 or more vehicles available
+2502741585,Millville,B08201_002,35,24,2013,No vehicle available
+2502741585,Millville,B08201_003,228,51,2013,1 vehicle available
+2502741585,Millville,B08201_004,451,67,2013,2 vehicles available
+2502741585,Millville,B08201_005,197,42,2013,3 vehicles available
+2502741585,Millville,B08201_006,93,31,2013,4 or more vehicles available
+2502745105,New Braintree,B08201_002,5,5,2013,No vehicle available
+2502745105,New Braintree,B08201_003,62,22,2013,1 vehicle available
+2502745105,New Braintree,B08201_004,165,30,2013,2 vehicles available
+2502745105,New Braintree,B08201_005,63,22,2013,3 vehicles available
+2502745105,New Braintree,B08201_006,66,26,2013,4 or more vehicles available
+2502746820,Northborough,B08201_002,205,95,2013,No vehicle available
+2502746820,Northborough,B08201_003,1109,188,2013,1 vehicle available
+2502746820,Northborough,B08201_004,2643,211,2013,2 vehicles available
+2502746820,Northborough,B08201_005,937,167,2013,3 vehicles available
+2502746820,Northborough,B08201_006,185,69,2013,4 or more vehicles available
+2502746925,Northbridge,B08201_002,379,125,2013,No vehicle available
+2502746925,Northbridge,B08201_003,1812,297,2013,1 vehicle available
+2502746925,Northbridge,B08201_004,2437,289,2013,2 vehicles available
+2502746925,Northbridge,B08201_005,905,181,2013,3 vehicles available
+2502746925,Northbridge,B08201_006,324,113,2013,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,83,40,2013,No vehicle available
+2502747135,North Brookfield,B08201_003,690,149,2013,1 vehicle available
+2502747135,North Brookfield,B08201_004,654,123,2013,2 vehicles available
+2502747135,North Brookfield,B08201_005,274,118,2013,3 vehicles available
+2502747135,North Brookfield,B08201_006,143,64,2013,4 or more vehicles available
+2502750670,Oakham,B08201_002,2,5,2013,No vehicle available
+2502750670,Oakham,B08201_003,155,31,2013,1 vehicle available
+2502750670,Oakham,B08201_004,273,44,2013,2 vehicles available
+2502750670,Oakham,B08201_005,143,32,2013,3 vehicles available
+2502750670,Oakham,B08201_006,83,27,2013,4 or more vehicles available
+2502751825,Oxford,B08201_002,227,98,2013,No vehicle available
+2502751825,Oxford,B08201_003,1532,284,2013,1 vehicle available
+2502751825,Oxford,B08201_004,2115,240,2013,2 vehicles available
+2502751825,Oxford,B08201_005,799,190,2013,3 vehicles available
+2502751825,Oxford,B08201_006,405,122,2013,4 or more vehicles available
+2502752420,Paxton,B08201_002,32,32,2013,No vehicle available
+2502752420,Paxton,B08201_003,258,92,2013,1 vehicle available
+2502752420,Paxton,B08201_004,778,153,2013,2 vehicles available
+2502752420,Paxton,B08201_005,292,87,2013,3 vehicles available
+2502752420,Paxton,B08201_006,143,66,2013,4 or more vehicles available
+2502755395,Princeton,B08201_002,23,26,2013,No vehicle available
+2502755395,Princeton,B08201_003,170,65,2013,1 vehicle available
+2502755395,Princeton,B08201_004,636,86,2013,2 vehicles available
+2502755395,Princeton,B08201_005,264,79,2013,3 vehicles available
+2502755395,Princeton,B08201_006,100,43,2013,4 or more vehicles available
+2502758825,Rutland,B08201_002,67,53,2013,No vehicle available
+2502758825,Rutland,B08201_003,623,164,2013,1 vehicle available
+2502758825,Rutland,B08201_004,1344,174,2013,2 vehicles available
+2502758825,Rutland,B08201_005,474,135,2013,3 vehicles available
+2502758825,Rutland,B08201_006,219,73,2013,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,597,152,2013,No vehicle available
+2502761800,Shrewsbury,B08201_003,3924,375,2013,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6360,398,2013,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1627,197,2013,3 vehicles available
+2502761800,Shrewsbury,B08201_006,506,134,2013,4 or more vehicles available
+2502766105,Spencer,B08201_002,367,143,2013,No vehicle available
+2502766105,Spencer,B08201_003,1492,248,2013,1 vehicle available
+2502766105,Spencer,B08201_004,1987,236,2013,2 vehicles available
+2502766105,Spencer,B08201_005,472,116,2013,3 vehicles available
+2502766105,Spencer,B08201_006,216,108,2013,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,106,54,2013,No vehicle available
+2502768155,Sturbridge,B08201_003,1044,213,2013,1 vehicle available
+2502768155,Sturbridge,B08201_004,1772,210,2013,2 vehicles available
+2502768155,Sturbridge,B08201_005,555,175,2013,3 vehicles available
+2502768155,Sturbridge,B08201_006,170,79,2013,4 or more vehicles available
+2502768610,Sutton,B08201_002,11,19,2013,No vehicle available
+2502768610,Sutton,B08201_003,647,147,2013,1 vehicle available
+2502768610,Sutton,B08201_004,1577,200,2013,2 vehicles available
+2502768610,Sutton,B08201_005,569,141,2013,3 vehicles available
+2502768610,Sutton,B08201_006,293,95,2013,4 or more vehicles available
+2502771480,Upton,B08201_002,149,127,2013,No vehicle available
+2502771480,Upton,B08201_003,533,170,2013,1 vehicle available
+2502771480,Upton,B08201_004,1287,177,2013,2 vehicles available
+2502771480,Upton,B08201_005,518,123,2013,3 vehicles available
+2502771480,Upton,B08201_006,172,80,2013,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,147,88,2013,No vehicle available
+2502771620,Uxbridge,B08201_003,1249,235,2013,1 vehicle available
+2502771620,Uxbridge,B08201_004,2238,253,2013,2 vehicles available
+2502771620,Uxbridge,B08201_005,828,166,2013,3 vehicles available
+2502771620,Uxbridge,B08201_006,495,166,2013,4 or more vehicles available
+2502773090,Warren,B08201_002,135,73,2013,No vehicle available
+2502773090,Warren,B08201_003,726,203,2013,1 vehicle available
+2502773090,Warren,B08201_004,947,188,2013,2 vehicles available
+2502773090,Warren,B08201_005,175,110,2013,3 vehicles available
+2502773090,Warren,B08201_006,83,52,2013,4 or more vehicles available
+2502773895,Webster,B08201_002,771,199,2013,No vehicle available
+2502773895,Webster,B08201_003,2999,308,2013,1 vehicle available
+2502773895,Webster,B08201_004,2340,248,2013,2 vehicles available
+2502773895,Webster,B08201_005,499,131,2013,3 vehicles available
+2502773895,Webster,B08201_006,321,115,2013,4 or more vehicles available
+2502775015,Westborough,B08201_002,435,131,2013,No vehicle available
+2502775015,Westborough,B08201_003,2428,277,2013,1 vehicle available
+2502775015,Westborough,B08201_004,2966,245,2013,2 vehicles available
+2502775015,Westborough,B08201_005,813,170,2013,3 vehicles available
+2502775015,Westborough,B08201_006,338,99,2013,4 or more vehicles available
+2502775155,West Boylston,B08201_002,39,35,2013,No vehicle available
+2502775155,West Boylston,B08201_003,845,121,2013,1 vehicle available
+2502775155,West Boylston,B08201_004,991,150,2013,2 vehicles available
+2502775155,West Boylston,B08201_005,374,82,2013,3 vehicles available
+2502775155,West Boylston,B08201_006,103,40,2013,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,93,64,2013,No vehicle available
+2502775400,West Brookfield,B08201_003,403,119,2013,1 vehicle available
+2502775400,West Brookfield,B08201_004,656,99,2013,2 vehicles available
+2502775400,West Brookfield,B08201_005,247,77,2013,3 vehicles available
+2502775400,West Brookfield,B08201_006,57,44,2013,4 or more vehicles available
+2502702760,Auburn,B08201_002,410,97,2014,No vehicle available
+2502702760,Auburn,B08201_003,1974,221,2014,1 vehicle available
+2502702760,Auburn,B08201_004,2663,214,2014,2 vehicles available
+2502702760,Auburn,B08201_005,963,129,2014,3 vehicles available
+2502702760,Auburn,B08201_006,336,80,2014,4 or more vehicles available
+2502703740,Barre,B08201_002,105,77,2014,No vehicle available
+2502703740,Barre,B08201_003,591,143,2014,1 vehicle available
+2502703740,Barre,B08201_004,771,153,2014,2 vehicles available
+2502703740,Barre,B08201_005,315,120,2014,3 vehicles available
+2502703740,Barre,B08201_006,161,91,2014,4 or more vehicles available
+2502705490,Berlin,B08201_002,11,13,2014,No vehicle available
+2502705490,Berlin,B08201_003,175,48,2014,1 vehicle available
+2502705490,Berlin,B08201_004,485,83,2014,2 vehicles available
+2502705490,Berlin,B08201_005,246,55,2014,3 vehicles available
+2502705490,Berlin,B08201_006,135,47,2014,4 or more vehicles available
+2502706015,Blackstone,B08201_002,180,73,2014,No vehicle available
+2502706015,Blackstone,B08201_003,955,190,2014,1 vehicle available
+2502706015,Blackstone,B08201_004,1549,193,2014,2 vehicles available
+2502706015,Blackstone,B08201_005,437,107,2014,3 vehicles available
+2502706015,Blackstone,B08201_006,330,106,2014,4 or more vehicles available
+2502707525,Boylston,B08201_002,27,26,2014,No vehicle available
+2502707525,Boylston,B08201_003,310,80,2014,1 vehicle available
+2502707525,Boylston,B08201_004,783,121,2014,2 vehicles available
+2502707525,Boylston,B08201_005,329,85,2014,3 vehicles available
+2502707525,Boylston,B08201_006,162,65,2014,4 or more vehicles available
+2502709105,Brookfield,B08201_002,47,32,2014,No vehicle available
+2502709105,Brookfield,B08201_003,416,105,2014,1 vehicle available
+2502709105,Brookfield,B08201_004,661,111,2014,2 vehicles available
+2502709105,Brookfield,B08201_005,136,60,2014,3 vehicles available
+2502709105,Brookfield,B08201_006,108,49,2014,4 or more vehicles available
+2502712715,Charlton,B08201_002,143,66,2014,No vehicle available
+2502712715,Charlton,B08201_003,1157,214,2014,1 vehicle available
+2502712715,Charlton,B08201_004,1840,235,2014,2 vehicles available
+2502712715,Charlton,B08201_005,1108,203,2014,3 vehicles available
+2502712715,Charlton,B08201_006,369,121,2014,4 or more vehicles available
+2502717300,Douglas,B08201_002,54,65,2014,No vehicle available
+2502717300,Douglas,B08201_003,875,197,2014,1 vehicle available
+2502717300,Douglas,B08201_004,1345,187,2014,2 vehicles available
+2502717300,Douglas,B08201_005,612,152,2014,3 vehicles available
+2502717300,Douglas,B08201_006,215,105,2014,4 or more vehicles available
+2502717685,Dudley,B08201_002,161,81,2014,No vehicle available
+2502717685,Dudley,B08201_003,1267,290,2014,1 vehicle available
+2502717685,Dudley,B08201_004,1840,250,2014,2 vehicles available
+2502717685,Dudley,B08201_005,685,160,2014,3 vehicles available
+2502717685,Dudley,B08201_006,182,87,2014,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,11,12,2014,No vehicle available
+2502718560,East Brookfield,B08201_003,218,55,2014,1 vehicle available
+2502718560,East Brookfield,B08201_004,412,67,2014,2 vehicles available
+2502718560,East Brookfield,B08201_005,131,45,2014,3 vehicles available
+2502718560,East Brookfield,B08201_006,61,26,2014,4 or more vehicles available
+2502726430,Grafton,B08201_002,226,82,2014,No vehicle available
+2502726430,Grafton,B08201_003,2070,229,2014,1 vehicle available
+2502726430,Grafton,B08201_004,3220,221,2014,2 vehicles available
+2502726430,Grafton,B08201_005,714,125,2014,3 vehicles available
+2502726430,Grafton,B08201_006,503,112,2014,4 or more vehicles available
+2502728740,Hardwick,B08201_002,42,37,2014,No vehicle available
+2502728740,Hardwick,B08201_003,390,92,2014,1 vehicle available
+2502728740,Hardwick,B08201_004,582,86,2014,2 vehicles available
+2502728740,Hardwick,B08201_005,110,46,2014,3 vehicles available
+2502728740,Hardwick,B08201_006,97,52,2014,4 or more vehicles available
+2502730560,Holden,B08201_002,253,68,2014,No vehicle available
+2502730560,Holden,B08201_003,1363,164,2014,1 vehicle available
+2502730560,Holden,B08201_004,3248,178,2014,2 vehicles available
+2502730560,Holden,B08201_005,983,152,2014,3 vehicles available
+2502730560,Holden,B08201_006,452,101,2014,4 or more vehicles available
+2502730945,Hopedale,B08201_002,199,94,2014,No vehicle available
+2502730945,Hopedale,B08201_003,632,154,2014,1 vehicle available
+2502730945,Hopedale,B08201_004,945,173,2014,2 vehicles available
+2502730945,Hopedale,B08201_005,350,123,2014,3 vehicles available
+2502730945,Hopedale,B08201_006,114,60,2014,4 or more vehicles available
+2502734795,Leicester,B08201_002,179,120,2014,No vehicle available
+2502734795,Leicester,B08201_003,1308,257,2014,1 vehicle available
+2502734795,Leicester,B08201_004,1792,206,2014,2 vehicles available
+2502734795,Leicester,B08201_005,638,147,2014,3 vehicles available
+2502734795,Leicester,B08201_006,283,88,2014,4 or more vehicles available
+2502740255,Mendon,B08201_002,35,33,2014,No vehicle available
+2502740255,Mendon,B08201_003,316,104,2014,1 vehicle available
+2502740255,Mendon,B08201_004,1086,152,2014,2 vehicles available
+2502740255,Mendon,B08201_005,425,128,2014,3 vehicles available
+2502740255,Mendon,B08201_006,183,79,2014,4 or more vehicles available
+2502741340,Millbury,B08201_002,113,56,2014,No vehicle available
+2502741340,Millbury,B08201_003,1505,267,2014,1 vehicle available
+2502741340,Millbury,B08201_004,2134,224,2014,2 vehicles available
+2502741340,Millbury,B08201_005,953,217,2014,3 vehicles available
+2502741340,Millbury,B08201_006,436,138,2014,4 or more vehicles available
+2502741585,Millville,B08201_002,24,14,2014,No vehicle available
+2502741585,Millville,B08201_003,237,65,2014,1 vehicle available
+2502741585,Millville,B08201_004,469,78,2014,2 vehicles available
+2502741585,Millville,B08201_005,214,44,2014,3 vehicles available
+2502741585,Millville,B08201_006,112,32,2014,4 or more vehicles available
+2502745105,New Braintree,B08201_002,6,7,2014,No vehicle available
+2502745105,New Braintree,B08201_003,63,22,2014,1 vehicle available
+2502745105,New Braintree,B08201_004,162,31,2014,2 vehicles available
+2502745105,New Braintree,B08201_005,81,27,2014,3 vehicles available
+2502745105,New Braintree,B08201_006,64,26,2014,4 or more vehicles available
+2502746820,Northborough,B08201_002,196,70,2014,No vehicle available
+2502746820,Northborough,B08201_003,1130,152,2014,1 vehicle available
+2502746820,Northborough,B08201_004,2544,203,2014,2 vehicles available
+2502746820,Northborough,B08201_005,1028,160,2014,3 vehicles available
+2502746820,Northborough,B08201_006,258,74,2014,4 or more vehicles available
+2502746925,Northbridge,B08201_002,324,129,2014,No vehicle available
+2502746925,Northbridge,B08201_003,1854,317,2014,1 vehicle available
+2502746925,Northbridge,B08201_004,2422,259,2014,2 vehicles available
+2502746925,Northbridge,B08201_005,1008,212,2014,3 vehicles available
+2502746925,Northbridge,B08201_006,305,101,2014,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,63,39,2014,No vehicle available
+2502747135,North Brookfield,B08201_003,647,143,2014,1 vehicle available
+2502747135,North Brookfield,B08201_004,689,125,2014,2 vehicles available
+2502747135,North Brookfield,B08201_005,274,90,2014,3 vehicles available
+2502747135,North Brookfield,B08201_006,142,57,2014,4 or more vehicles available
+2502750670,Oakham,B08201_002,8,7,2014,No vehicle available
+2502750670,Oakham,B08201_003,176,35,2014,1 vehicle available
+2502750670,Oakham,B08201_004,240,38,2014,2 vehicles available
+2502750670,Oakham,B08201_005,143,29,2014,3 vehicles available
+2502750670,Oakham,B08201_006,73,21,2014,4 or more vehicles available
+2502751825,Oxford,B08201_002,203,89,2014,No vehicle available
+2502751825,Oxford,B08201_003,1563,281,2014,1 vehicle available
+2502751825,Oxford,B08201_004,2084,221,2014,2 vehicles available
+2502751825,Oxford,B08201_005,1040,218,2014,3 vehicles available
+2502751825,Oxford,B08201_006,280,121,2014,4 or more vehicles available
+2502752420,Paxton,B08201_002,38,33,2014,No vehicle available
+2502752420,Paxton,B08201_003,315,98,2014,1 vehicle available
+2502752420,Paxton,B08201_004,669,106,2014,2 vehicles available
+2502752420,Paxton,B08201_005,331,91,2014,3 vehicles available
+2502752420,Paxton,B08201_006,160,75,2014,4 or more vehicles available
+2502755395,Princeton,B08201_002,9,15,2014,No vehicle available
+2502755395,Princeton,B08201_003,176,72,2014,1 vehicle available
+2502755395,Princeton,B08201_004,652,92,2014,2 vehicles available
+2502755395,Princeton,B08201_005,289,77,2014,3 vehicles available
+2502755395,Princeton,B08201_006,108,48,2014,4 or more vehicles available
+2502758825,Rutland,B08201_002,89,64,2014,No vehicle available
+2502758825,Rutland,B08201_003,619,169,2014,1 vehicle available
+2502758825,Rutland,B08201_004,1392,192,2014,2 vehicles available
+2502758825,Rutland,B08201_005,492,158,2014,3 vehicles available
+2502758825,Rutland,B08201_006,251,82,2014,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,514,160,2014,No vehicle available
+2502761800,Shrewsbury,B08201_003,3835,391,2014,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6156,423,2014,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1902,263,2014,3 vehicles available
+2502761800,Shrewsbury,B08201_006,561,137,2014,4 or more vehicles available
+2502766105,Spencer,B08201_002,353,135,2014,No vehicle available
+2502766105,Spencer,B08201_003,1617,250,2014,1 vehicle available
+2502766105,Spencer,B08201_004,1955,224,2014,2 vehicles available
+2502766105,Spencer,B08201_005,490,151,2014,3 vehicles available
+2502766105,Spencer,B08201_006,247,103,2014,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,132,68,2014,No vehicle available
+2502768155,Sturbridge,B08201_003,1009,189,2014,1 vehicle available
+2502768155,Sturbridge,B08201_004,1674,184,2014,2 vehicles available
+2502768155,Sturbridge,B08201_005,586,193,2014,3 vehicles available
+2502768155,Sturbridge,B08201_006,177,94,2014,4 or more vehicles available
+2502768610,Sutton,B08201_002,9,14,2014,No vehicle available
+2502768610,Sutton,B08201_003,567,124,2014,1 vehicle available
+2502768610,Sutton,B08201_004,1642,185,2014,2 vehicles available
+2502768610,Sutton,B08201_005,566,122,2014,3 vehicles available
+2502768610,Sutton,B08201_006,320,87,2014,4 or more vehicles available
+2502771480,Upton,B08201_002,121,69,2014,No vehicle available
+2502771480,Upton,B08201_003,527,155,2014,1 vehicle available
+2502771480,Upton,B08201_004,1347,153,2014,2 vehicles available
+2502771480,Upton,B08201_005,456,105,2014,3 vehicles available
+2502771480,Upton,B08201_006,229,85,2014,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,89,47,2014,No vehicle available
+2502771620,Uxbridge,B08201_003,1242,245,2014,1 vehicle available
+2502771620,Uxbridge,B08201_004,2096,259,2014,2 vehicles available
+2502771620,Uxbridge,B08201_005,849,188,2014,3 vehicles available
+2502771620,Uxbridge,B08201_006,476,139,2014,4 or more vehicles available
+2502773090,Warren,B08201_002,98,60,2014,No vehicle available
+2502773090,Warren,B08201_003,705,220,2014,1 vehicle available
+2502773090,Warren,B08201_004,1005,197,2014,2 vehicles available
+2502773090,Warren,B08201_005,130,96,2014,3 vehicles available
+2502773090,Warren,B08201_006,106,70,2014,4 or more vehicles available
+2502773895,Webster,B08201_002,766,185,2014,No vehicle available
+2502773895,Webster,B08201_003,2860,315,2014,1 vehicle available
+2502773895,Webster,B08201_004,2243,248,2014,2 vehicles available
+2502773895,Webster,B08201_005,520,122,2014,3 vehicles available
+2502773895,Webster,B08201_006,345,111,2014,4 or more vehicles available
+2502775015,Westborough,B08201_002,501,139,2014,No vehicle available
+2502775015,Westborough,B08201_003,2534,299,2014,1 vehicle available
+2502775015,Westborough,B08201_004,2894,256,2014,2 vehicles available
+2502775015,Westborough,B08201_005,744,162,2014,3 vehicles available
+2502775015,Westborough,B08201_006,412,114,2014,4 or more vehicles available
+2502775155,West Boylston,B08201_002,72,48,2014,No vehicle available
+2502775155,West Boylston,B08201_003,763,136,2014,1 vehicle available
+2502775155,West Boylston,B08201_004,915,160,2014,2 vehicles available
+2502775155,West Boylston,B08201_005,340,90,2014,3 vehicles available
+2502775155,West Boylston,B08201_006,123,54,2014,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,85,66,2014,No vehicle available
+2502775400,West Brookfield,B08201_003,468,107,2014,1 vehicle available
+2502775400,West Brookfield,B08201_004,700,123,2014,2 vehicles available
+2502775400,West Brookfield,B08201_005,190,79,2014,3 vehicles available
+2502775400,West Brookfield,B08201_006,79,44,2014,4 or more vehicles available
+2502702760,Auburn,B08201_002,380,95,2015,No vehicle available
+2502702760,Auburn,B08201_003,2043,214,2015,1 vehicle available
+2502702760,Auburn,B08201_004,2704,216,2015,2 vehicles available
+2502702760,Auburn,B08201_005,876,136,2015,3 vehicles available
+2502702760,Auburn,B08201_006,347,81,2015,4 or more vehicles available
+2502703740,Barre,B08201_002,132,87,2015,No vehicle available
+2502703740,Barre,B08201_003,607,163,2015,1 vehicle available
+2502703740,Barre,B08201_004,656,137,2015,2 vehicles available
+2502703740,Barre,B08201_005,313,90,2015,3 vehicles available
+2502703740,Barre,B08201_006,187,88,2015,4 or more vehicles available
+2502705490,Berlin,B08201_002,5,8,2015,No vehicle available
+2502705490,Berlin,B08201_003,216,47,2015,1 vehicle available
+2502705490,Berlin,B08201_004,476,58,2015,2 vehicles available
+2502705490,Berlin,B08201_005,236,47,2015,3 vehicles available
+2502705490,Berlin,B08201_006,145,43,2015,4 or more vehicles available
+2502706015,Blackstone,B08201_002,138,72,2015,No vehicle available
+2502706015,Blackstone,B08201_003,871,144,2015,1 vehicle available
+2502706015,Blackstone,B08201_004,1560,184,2015,2 vehicles available
+2502706015,Blackstone,B08201_005,498,125,2015,3 vehicles available
+2502706015,Blackstone,B08201_006,266,97,2015,4 or more vehicles available
+2502707525,Boylston,B08201_002,17,19,2015,No vehicle available
+2502707525,Boylston,B08201_003,298,77,2015,1 vehicle available
+2502707525,Boylston,B08201_004,819,107,2015,2 vehicles available
+2502707525,Boylston,B08201_005,313,84,2015,3 vehicles available
+2502707525,Boylston,B08201_006,171,69,2015,4 or more vehicles available
+2502709105,Brookfield,B08201_002,40,25,2015,No vehicle available
+2502709105,Brookfield,B08201_003,440,95,2015,1 vehicle available
+2502709105,Brookfield,B08201_004,707,102,2015,2 vehicles available
+2502709105,Brookfield,B08201_005,120,57,2015,3 vehicles available
+2502709105,Brookfield,B08201_006,83,43,2015,4 or more vehicles available
+2502712715,Charlton,B08201_002,148,67,2015,No vehicle available
+2502712715,Charlton,B08201_003,1152,203,2015,1 vehicle available
+2502712715,Charlton,B08201_004,2029,254,2015,2 vehicles available
+2502712715,Charlton,B08201_005,1024,172,2015,3 vehicles available
+2502712715,Charlton,B08201_006,391,138,2015,4 or more vehicles available
+2502717300,Douglas,B08201_002,27,29,2015,No vehicle available
+2502717300,Douglas,B08201_003,846,175,2015,1 vehicle available
+2502717300,Douglas,B08201_004,1373,227,2015,2 vehicles available
+2502717300,Douglas,B08201_005,638,133,2015,3 vehicles available
+2502717300,Douglas,B08201_006,202,73,2015,4 or more vehicles available
+2502717685,Dudley,B08201_002,167,87,2015,No vehicle available
+2502717685,Dudley,B08201_003,1240,244,2015,1 vehicle available
+2502717685,Dudley,B08201_004,1737,244,2015,2 vehicles available
+2502717685,Dudley,B08201_005,684,138,2015,3 vehicles available
+2502717685,Dudley,B08201_006,209,80,2015,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,11,12,2015,No vehicle available
+2502718560,East Brookfield,B08201_003,205,50,2015,1 vehicle available
+2502718560,East Brookfield,B08201_004,413,62,2015,2 vehicles available
+2502718560,East Brookfield,B08201_005,114,37,2015,3 vehicles available
+2502718560,East Brookfield,B08201_006,84,33,2015,4 or more vehicles available
+2502726430,Grafton,B08201_002,204,104,2015,No vehicle available
+2502726430,Grafton,B08201_003,2088,216,2015,1 vehicle available
+2502726430,Grafton,B08201_004,3207,241,2015,2 vehicles available
+2502726430,Grafton,B08201_005,759,164,2015,3 vehicles available
+2502726430,Grafton,B08201_006,550,116,2015,4 or more vehicles available
+2502728740,Hardwick,B08201_002,86,53,2015,No vehicle available
+2502728740,Hardwick,B08201_003,352,85,2015,1 vehicle available
+2502728740,Hardwick,B08201_004,604,90,2015,2 vehicles available
+2502728740,Hardwick,B08201_005,99,43,2015,3 vehicles available
+2502728740,Hardwick,B08201_006,90,44,2015,4 or more vehicles available
+2502730560,Holden,B08201_002,239,75,2015,No vehicle available
+2502730560,Holden,B08201_003,1284,191,2015,1 vehicle available
+2502730560,Holden,B08201_004,3171,201,2015,2 vehicles available
+2502730560,Holden,B08201_005,1131,133,2015,3 vehicles available
+2502730560,Holden,B08201_006,501,100,2015,4 or more vehicles available
+2502730945,Hopedale,B08201_002,207,95,2015,No vehicle available
+2502730945,Hopedale,B08201_003,681,153,2015,1 vehicle available
+2502730945,Hopedale,B08201_004,987,159,2015,2 vehicles available
+2502730945,Hopedale,B08201_005,278,85,2015,3 vehicles available
+2502730945,Hopedale,B08201_006,84,49,2015,4 or more vehicles available
+2502734795,Leicester,B08201_002,138,80,2015,No vehicle available
+2502734795,Leicester,B08201_003,1459,234,2015,1 vehicle available
+2502734795,Leicester,B08201_004,1815,206,2015,2 vehicles available
+2502734795,Leicester,B08201_005,568,135,2015,3 vehicles available
+2502734795,Leicester,B08201_006,271,87,2015,4 or more vehicles available
+2502740255,Mendon,B08201_002,35,33,2015,No vehicle available
+2502740255,Mendon,B08201_003,298,84,2015,1 vehicle available
+2502740255,Mendon,B08201_004,1118,123,2015,2 vehicles available
+2502740255,Mendon,B08201_005,367,103,2015,3 vehicles available
+2502740255,Mendon,B08201_006,175,73,2015,4 or more vehicles available
+2502741340,Millbury,B08201_002,69,35,2015,No vehicle available
+2502741340,Millbury,B08201_003,1544,248,2015,1 vehicle available
+2502741340,Millbury,B08201_004,2297,272,2015,2 vehicles available
+2502741340,Millbury,B08201_005,907,181,2015,3 vehicles available
+2502741340,Millbury,B08201_006,345,125,2015,4 or more vehicles available
+2502741585,Millville,B08201_002,28,16,2015,No vehicle available
+2502741585,Millville,B08201_003,281,56,2015,1 vehicle available
+2502741585,Millville,B08201_004,420,68,2015,2 vehicles available
+2502741585,Millville,B08201_005,219,49,2015,3 vehicles available
+2502741585,Millville,B08201_006,113,36,2015,4 or more vehicles available
+2502745105,New Braintree,B08201_002,8,7,2015,No vehicle available
+2502745105,New Braintree,B08201_003,61,21,2015,1 vehicle available
+2502745105,New Braintree,B08201_004,184,33,2015,2 vehicles available
+2502745105,New Braintree,B08201_005,78,20,2015,3 vehicles available
+2502745105,New Braintree,B08201_006,61,22,2015,4 or more vehicles available
+2502746820,Northborough,B08201_002,166,63,2015,No vehicle available
+2502746820,Northborough,B08201_003,1149,173,2015,1 vehicle available
+2502746820,Northborough,B08201_004,2555,207,2015,2 vehicles available
+2502746820,Northborough,B08201_005,926,160,2015,3 vehicles available
+2502746820,Northborough,B08201_006,312,87,2015,4 or more vehicles available
+2502746925,Northbridge,B08201_002,379,121,2015,No vehicle available
+2502746925,Northbridge,B08201_003,1933,254,2015,1 vehicle available
+2502746925,Northbridge,B08201_004,2430,273,2015,2 vehicles available
+2502746925,Northbridge,B08201_005,1053,229,2015,3 vehicles available
+2502746925,Northbridge,B08201_006,256,85,2015,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,64,39,2015,No vehicle available
+2502747135,North Brookfield,B08201_003,634,150,2015,1 vehicle available
+2502747135,North Brookfield,B08201_004,688,112,2015,2 vehicles available
+2502747135,North Brookfield,B08201_005,240,84,2015,3 vehicles available
+2502747135,North Brookfield,B08201_006,194,71,2015,4 or more vehicles available
+2502750670,Oakham,B08201_002,16,11,2015,No vehicle available
+2502750670,Oakham,B08201_003,189,41,2015,1 vehicle available
+2502750670,Oakham,B08201_004,251,37,2015,2 vehicles available
+2502750670,Oakham,B08201_005,144,28,2015,3 vehicles available
+2502750670,Oakham,B08201_006,68,21,2015,4 or more vehicles available
+2502751825,Oxford,B08201_002,129,68,2015,No vehicle available
+2502751825,Oxford,B08201_003,1742,238,2015,1 vehicle available
+2502751825,Oxford,B08201_004,2017,261,2015,2 vehicles available
+2502751825,Oxford,B08201_005,957,249,2015,3 vehicles available
+2502751825,Oxford,B08201_006,275,113,2015,4 or more vehicles available
+2502752420,Paxton,B08201_002,39,32,2015,No vehicle available
+2502752420,Paxton,B08201_003,361,102,2015,1 vehicle available
+2502752420,Paxton,B08201_004,633,129,2015,2 vehicles available
+2502752420,Paxton,B08201_005,305,83,2015,3 vehicles available
+2502752420,Paxton,B08201_006,161,67,2015,4 or more vehicles available
+2502755395,Princeton,B08201_002,0,12,2015,No vehicle available
+2502755395,Princeton,B08201_003,200,67,2015,1 vehicle available
+2502755395,Princeton,B08201_004,669,102,2015,2 vehicles available
+2502755395,Princeton,B08201_005,297,61,2015,3 vehicles available
+2502755395,Princeton,B08201_006,86,45,2015,4 or more vehicles available
+2502758825,Rutland,B08201_002,77,55,2015,No vehicle available
+2502758825,Rutland,B08201_003,593,174,2015,1 vehicle available
+2502758825,Rutland,B08201_004,1440,198,2015,2 vehicles available
+2502758825,Rutland,B08201_005,549,143,2015,3 vehicles available
+2502758825,Rutland,B08201_006,239,95,2015,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,525,200,2015,No vehicle available
+2502761800,Shrewsbury,B08201_003,3725,323,2015,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6227,402,2015,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1815,290,2015,3 vehicles available
+2502761800,Shrewsbury,B08201_006,596,145,2015,4 or more vehicles available
+2502766105,Spencer,B08201_002,364,126,2015,No vehicle available
+2502766105,Spencer,B08201_003,1616,238,2015,1 vehicle available
+2502766105,Spencer,B08201_004,1856,243,2015,2 vehicles available
+2502766105,Spencer,B08201_005,554,130,2015,3 vehicles available
+2502766105,Spencer,B08201_006,266,109,2015,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,106,54,2015,No vehicle available
+2502768155,Sturbridge,B08201_003,953,191,2015,1 vehicle available
+2502768155,Sturbridge,B08201_004,1823,202,2015,2 vehicles available
+2502768155,Sturbridge,B08201_005,569,158,2015,3 vehicles available
+2502768155,Sturbridge,B08201_006,158,70,2015,4 or more vehicles available
+2502768610,Sutton,B08201_002,59,47,2015,No vehicle available
+2502768610,Sutton,B08201_003,582,169,2015,1 vehicle available
+2502768610,Sutton,B08201_004,1576,201,2015,2 vehicles available
+2502768610,Sutton,B08201_005,503,135,2015,3 vehicles available
+2502768610,Sutton,B08201_006,395,112,2015,4 or more vehicles available
+2502771480,Upton,B08201_002,107,76,2015,No vehicle available
+2502771480,Upton,B08201_003,550,163,2015,1 vehicle available
+2502771480,Upton,B08201_004,1293,172,2015,2 vehicles available
+2502771480,Upton,B08201_005,468,114,2015,3 vehicles available
+2502771480,Upton,B08201_006,266,90,2015,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,185,94,2015,No vehicle available
+2502771620,Uxbridge,B08201_003,1209,231,2015,1 vehicle available
+2502771620,Uxbridge,B08201_004,2133,240,2015,2 vehicles available
+2502771620,Uxbridge,B08201_005,731,156,2015,3 vehicles available
+2502771620,Uxbridge,B08201_006,469,133,2015,4 or more vehicles available
+2502773090,Warren,B08201_002,90,59,2015,No vehicle available
+2502773090,Warren,B08201_003,645,197,2015,1 vehicle available
+2502773090,Warren,B08201_004,1000,225,2015,2 vehicles available
+2502773090,Warren,B08201_005,182,124,2015,3 vehicles available
+2502773090,Warren,B08201_006,143,82,2015,4 or more vehicles available
+2502773895,Webster,B08201_002,764,170,2015,No vehicle available
+2502773895,Webster,B08201_003,2812,279,2015,1 vehicle available
+2502773895,Webster,B08201_004,2250,240,2015,2 vehicles available
+2502773895,Webster,B08201_005,563,147,2015,3 vehicles available
+2502773895,Webster,B08201_006,280,91,2015,4 or more vehicles available
+2502775015,Westborough,B08201_002,412,114,2015,No vehicle available
+2502775015,Westborough,B08201_003,2345,279,2015,1 vehicle available
+2502775015,Westborough,B08201_004,3079,262,2015,2 vehicles available
+2502775015,Westborough,B08201_005,769,160,2015,3 vehicles available
+2502775015,Westborough,B08201_006,387,95,2015,4 or more vehicles available
+2502775155,West Boylston,B08201_002,87,47,2015,No vehicle available
+2502775155,West Boylston,B08201_003,753,176,2015,1 vehicle available
+2502775155,West Boylston,B08201_004,952,205,2015,2 vehicles available
+2502775155,West Boylston,B08201_005,295,81,2015,3 vehicles available
+2502775155,West Boylston,B08201_006,91,44,2015,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,108,67,2015,No vehicle available
+2502775400,West Brookfield,B08201_003,440,120,2015,1 vehicle available
+2502775400,West Brookfield,B08201_004,713,116,2015,2 vehicles available
+2502775400,West Brookfield,B08201_005,219,76,2015,3 vehicles available
+2502775400,West Brookfield,B08201_006,80,41,2015,4 or more vehicles available
+2502702760,Auburn,B08201_002,449,99,2016,No vehicle available
+2502702760,Auburn,B08201_003,2078,244,2016,1 vehicle available
+2502702760,Auburn,B08201_004,2810,181,2016,2 vehicles available
+2502702760,Auburn,B08201_005,885,128,2016,3 vehicles available
+2502702760,Auburn,B08201_006,311,79,2016,4 or more vehicles available
+2502703740,Barre,B08201_002,137,105,2016,No vehicle available
+2502703740,Barre,B08201_003,586,157,2016,1 vehicle available
+2502703740,Barre,B08201_004,680,170,2016,2 vehicles available
+2502703740,Barre,B08201_005,288,118,2016,3 vehicles available
+2502703740,Barre,B08201_006,227,108,2016,4 or more vehicles available
+2502705490,Berlin,B08201_002,10,11,2016,No vehicle available
+2502705490,Berlin,B08201_003,229,58,2016,1 vehicle available
+2502705490,Berlin,B08201_004,508,69,2016,2 vehicles available
+2502705490,Berlin,B08201_005,225,53,2016,3 vehicles available
+2502705490,Berlin,B08201_006,157,47,2016,4 or more vehicles available
+2502706015,Blackstone,B08201_002,120,71,2016,No vehicle available
+2502706015,Blackstone,B08201_003,920,176,2016,1 vehicle available
+2502706015,Blackstone,B08201_004,1507,163,2016,2 vehicles available
+2502706015,Blackstone,B08201_005,475,105,2016,3 vehicles available
+2502706015,Blackstone,B08201_006,321,87,2016,4 or more vehicles available
+2502707525,Boylston,B08201_002,37,29,2016,No vehicle available
+2502707525,Boylston,B08201_003,426,99,2016,1 vehicle available
+2502707525,Boylston,B08201_004,790,133,2016,2 vehicles available
+2502707525,Boylston,B08201_005,306,92,2016,3 vehicles available
+2502707525,Boylston,B08201_006,164,73,2016,4 or more vehicles available
+2502709105,Brookfield,B08201_002,29,24,2016,No vehicle available
+2502709105,Brookfield,B08201_003,515,102,2016,1 vehicle available
+2502709105,Brookfield,B08201_004,653,101,2016,2 vehicles available
+2502709105,Brookfield,B08201_005,132,67,2016,3 vehicles available
+2502709105,Brookfield,B08201_006,90,39,2016,4 or more vehicles available
+2502712715,Charlton,B08201_002,104,45,2016,No vehicle available
+2502712715,Charlton,B08201_003,1242,236,2016,1 vehicle available
+2502712715,Charlton,B08201_004,2051,263,2016,2 vehicles available
+2502712715,Charlton,B08201_005,1027,168,2016,3 vehicles available
+2502712715,Charlton,B08201_006,410,144,2016,4 or more vehicles available
+2502717300,Douglas,B08201_002,89,61,2016,No vehicle available
+2502717300,Douglas,B08201_003,857,200,2016,1 vehicle available
+2502717300,Douglas,B08201_004,1370,195,2016,2 vehicles available
+2502717300,Douglas,B08201_005,637,158,2016,3 vehicles available
+2502717300,Douglas,B08201_006,199,78,2016,4 or more vehicles available
+2502717685,Dudley,B08201_002,174,77,2016,No vehicle available
+2502717685,Dudley,B08201_003,1150,220,2016,1 vehicle available
+2502717685,Dudley,B08201_004,1673,222,2016,2 vehicles available
+2502717685,Dudley,B08201_005,641,156,2016,3 vehicles available
+2502717685,Dudley,B08201_006,307,103,2016,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,14,13,2016,No vehicle available
+2502718560,East Brookfield,B08201_003,206,53,2016,1 vehicle available
+2502718560,East Brookfield,B08201_004,372,64,2016,2 vehicles available
+2502718560,East Brookfield,B08201_005,143,50,2016,3 vehicles available
+2502718560,East Brookfield,B08201_006,91,35,2016,4 or more vehicles available
+2502726430,Grafton,B08201_002,212,108,2016,No vehicle available
+2502726430,Grafton,B08201_003,1995,201,2016,1 vehicle available
+2502726430,Grafton,B08201_004,3368,224,2016,2 vehicles available
+2502726430,Grafton,B08201_005,733,154,2016,3 vehicles available
+2502726430,Grafton,B08201_006,499,113,2016,4 or more vehicles available
+2502728740,Hardwick,B08201_002,90,49,2016,No vehicle available
+2502728740,Hardwick,B08201_003,345,84,2016,1 vehicle available
+2502728740,Hardwick,B08201_004,587,82,2016,2 vehicles available
+2502728740,Hardwick,B08201_005,119,39,2016,3 vehicles available
+2502728740,Hardwick,B08201_006,81,39,2016,4 or more vehicles available
+2502730560,Holden,B08201_002,262,90,2016,No vehicle available
+2502730560,Holden,B08201_003,1374,162,2016,1 vehicle available
+2502730560,Holden,B08201_004,3176,174,2016,2 vehicles available
+2502730560,Holden,B08201_005,1094,134,2016,3 vehicles available
+2502730560,Holden,B08201_006,573,115,2016,4 or more vehicles available
+2502730945,Hopedale,B08201_002,155,90,2016,No vehicle available
+2502730945,Hopedale,B08201_003,709,178,2016,1 vehicle available
+2502730945,Hopedale,B08201_004,1056,164,2016,2 vehicles available
+2502730945,Hopedale,B08201_005,257,101,2016,3 vehicles available
+2502730945,Hopedale,B08201_006,103,66,2016,4 or more vehicles available
+2502734795,Leicester,B08201_002,93,61,2016,No vehicle available
+2502734795,Leicester,B08201_003,1638,244,2016,1 vehicle available
+2502734795,Leicester,B08201_004,1730,195,2016,2 vehicles available
+2502734795,Leicester,B08201_005,593,147,2016,3 vehicles available
+2502734795,Leicester,B08201_006,327,108,2016,4 or more vehicles available
+2502740255,Mendon,B08201_002,72,49,2016,No vehicle available
+2502740255,Mendon,B08201_003,233,84,2016,1 vehicle available
+2502740255,Mendon,B08201_004,1125,143,2016,2 vehicles available
+2502740255,Mendon,B08201_005,385,114,2016,3 vehicles available
+2502740255,Mendon,B08201_006,197,92,2016,4 or more vehicles available
+2502741340,Millbury,B08201_002,121,74,2016,No vehicle available
+2502741340,Millbury,B08201_003,1510,269,2016,1 vehicle available
+2502741340,Millbury,B08201_004,2386,294,2016,2 vehicles available
+2502741340,Millbury,B08201_005,897,216,2016,3 vehicles available
+2502741340,Millbury,B08201_006,353,142,2016,4 or more vehicles available
+2502741585,Millville,B08201_002,34,24,2016,No vehicle available
+2502741585,Millville,B08201_003,261,69,2016,1 vehicle available
+2502741585,Millville,B08201_004,485,72,2016,2 vehicles available
+2502741585,Millville,B08201_005,183,49,2016,3 vehicles available
+2502741585,Millville,B08201_006,110,39,2016,4 or more vehicles available
+2502745105,New Braintree,B08201_002,10,8,2016,No vehicle available
+2502745105,New Braintree,B08201_003,60,20,2016,1 vehicle available
+2502745105,New Braintree,B08201_004,197,33,2016,2 vehicles available
+2502745105,New Braintree,B08201_005,81,24,2016,3 vehicles available
+2502745105,New Braintree,B08201_006,38,18,2016,4 or more vehicles available
+2502746820,Northborough,B08201_002,135,50,2016,No vehicle available
+2502746820,Northborough,B08201_003,1086,193,2016,1 vehicle available
+2502746820,Northborough,B08201_004,2584,225,2016,2 vehicles available
+2502746820,Northborough,B08201_005,914,174,2016,3 vehicles available
+2502746820,Northborough,B08201_006,398,102,2016,4 or more vehicles available
+2502746925,Northbridge,B08201_002,417,136,2016,No vehicle available
+2502746925,Northbridge,B08201_003,1995,285,2016,1 vehicle available
+2502746925,Northbridge,B08201_004,2422,309,2016,2 vehicles available
+2502746925,Northbridge,B08201_005,966,193,2016,3 vehicles available
+2502746925,Northbridge,B08201_006,293,108,2016,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,54,35,2016,No vehicle available
+2502747135,North Brookfield,B08201_003,617,137,2016,1 vehicle available
+2502747135,North Brookfield,B08201_004,764,128,2016,2 vehicles available
+2502747135,North Brookfield,B08201_005,216,86,2016,3 vehicles available
+2502747135,North Brookfield,B08201_006,173,60,2016,4 or more vehicles available
+2502750670,Oakham,B08201_002,16,11,2016,No vehicle available
+2502750670,Oakham,B08201_003,144,33,2016,1 vehicle available
+2502750670,Oakham,B08201_004,261,34,2016,2 vehicles available
+2502750670,Oakham,B08201_005,149,31,2016,3 vehicles available
+2502750670,Oakham,B08201_006,77,19,2016,4 or more vehicles available
+2502751825,Oxford,B08201_002,177,74,2016,No vehicle available
+2502751825,Oxford,B08201_003,1847,316,2016,1 vehicle available
+2502751825,Oxford,B08201_004,2067,304,2016,2 vehicles available
+2502751825,Oxford,B08201_005,1014,259,2016,3 vehicles available
+2502751825,Oxford,B08201_006,230,95,2016,4 or more vehicles available
+2502752420,Paxton,B08201_002,64,49,2016,No vehicle available
+2502752420,Paxton,B08201_003,343,90,2016,1 vehicle available
+2502752420,Paxton,B08201_004,674,105,2016,2 vehicles available
+2502752420,Paxton,B08201_005,260,65,2016,3 vehicles available
+2502752420,Paxton,B08201_006,161,56,2016,4 or more vehicles available
+2502755395,Princeton,B08201_002,34,44,2016,No vehicle available
+2502755395,Princeton,B08201_003,183,74,2016,1 vehicle available
+2502755395,Princeton,B08201_004,635,99,2016,2 vehicles available
+2502755395,Princeton,B08201_005,275,76,2016,3 vehicles available
+2502755395,Princeton,B08201_006,99,49,2016,4 or more vehicles available
+2502758825,Rutland,B08201_002,82,60,2016,No vehicle available
+2502758825,Rutland,B08201_003,554,167,2016,1 vehicle available
+2502758825,Rutland,B08201_004,1441,165,2016,2 vehicles available
+2502758825,Rutland,B08201_005,613,144,2016,3 vehicles available
+2502758825,Rutland,B08201_006,183,75,2016,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,497,172,2016,No vehicle available
+2502761800,Shrewsbury,B08201_003,3778,361,2016,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6047,379,2016,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1904,241,2016,3 vehicles available
+2502761800,Shrewsbury,B08201_006,683,141,2016,4 or more vehicles available
+2502766105,Spencer,B08201_002,406,157,2016,No vehicle available
+2502766105,Spencer,B08201_003,1565,257,2016,1 vehicle available
+2502766105,Spencer,B08201_004,1828,231,2016,2 vehicles available
+2502766105,Spencer,B08201_005,639,142,2016,3 vehicles available
+2502766105,Spencer,B08201_006,297,110,2016,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,116,64,2016,No vehicle available
+2502768155,Sturbridge,B08201_003,1146,212,2016,1 vehicle available
+2502768155,Sturbridge,B08201_004,1578,204,2016,2 vehicles available
+2502768155,Sturbridge,B08201_005,560,143,2016,3 vehicles available
+2502768155,Sturbridge,B08201_006,202,77,2016,4 or more vehicles available
+2502768610,Sutton,B08201_002,77,55,2016,No vehicle available
+2502768610,Sutton,B08201_003,649,160,2016,1 vehicle available
+2502768610,Sutton,B08201_004,1551,195,2016,2 vehicles available
+2502768610,Sutton,B08201_005,557,127,2016,3 vehicles available
+2502768610,Sutton,B08201_006,379,111,2016,4 or more vehicles available
+2502771480,Upton,B08201_002,60,51,2016,No vehicle available
+2502771480,Upton,B08201_003,620,167,2016,1 vehicle available
+2502771480,Upton,B08201_004,1321,214,2016,2 vehicles available
+2502771480,Upton,B08201_005,458,103,2016,3 vehicles available
+2502771480,Upton,B08201_006,244,92,2016,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,193,101,2016,No vehicle available
+2502771620,Uxbridge,B08201_003,1163,204,2016,1 vehicle available
+2502771620,Uxbridge,B08201_004,2077,235,2016,2 vehicles available
+2502771620,Uxbridge,B08201_005,753,154,2016,3 vehicles available
+2502771620,Uxbridge,B08201_006,474,141,2016,4 or more vehicles available
+2502773090,Warren,B08201_002,72,61,2016,No vehicle available
+2502773090,Warren,B08201_003,520,180,2016,1 vehicle available
+2502773090,Warren,B08201_004,1021,191,2016,2 vehicles available
+2502773090,Warren,B08201_005,169,122,2016,3 vehicles available
+2502773090,Warren,B08201_006,146,99,2016,4 or more vehicles available
+2502773895,Webster,B08201_002,573,140,2016,No vehicle available
+2502773895,Webster,B08201_003,2770,278,2016,1 vehicle available
+2502773895,Webster,B08201_004,2251,246,2016,2 vehicles available
+2502773895,Webster,B08201_005,693,153,2016,3 vehicles available
+2502773895,Webster,B08201_006,233,81,2016,4 or more vehicles available
+2502775015,Westborough,B08201_002,360,110,2016,No vehicle available
+2502775015,Westborough,B08201_003,2203,243,2016,1 vehicle available
+2502775015,Westborough,B08201_004,2927,227,2016,2 vehicles available
+2502775015,Westborough,B08201_005,888,161,2016,3 vehicles available
+2502775015,Westborough,B08201_006,379,102,2016,4 or more vehicles available
+2502775155,West Boylston,B08201_002,77,47,2016,No vehicle available
+2502775155,West Boylston,B08201_003,685,178,2016,1 vehicle available
+2502775155,West Boylston,B08201_004,937,216,2016,2 vehicles available
+2502775155,West Boylston,B08201_005,250,73,2016,3 vehicles available
+2502775155,West Boylston,B08201_006,107,44,2016,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,99,64,2016,No vehicle available
+2502775400,West Brookfield,B08201_003,421,117,2016,1 vehicle available
+2502775400,West Brookfield,B08201_004,696,133,2016,2 vehicles available
+2502775400,West Brookfield,B08201_005,229,75,2016,3 vehicles available
+2502775400,West Brookfield,B08201_006,92,49,2016,4 or more vehicles available
+2502702760,Auburn,B08201_002,445,110,2017,No vehicle available
+2502702760,Auburn,B08201_003,2165,172,2017,1 vehicle available
+2502702760,Auburn,B08201_004,2899,175,2017,2 vehicles available
+2502702760,Auburn,B08201_005,903,115,2017,3 vehicles available
+2502702760,Auburn,B08201_006,304,73,2017,4 or more vehicles available
+2502703740,Barre,B08201_002,84,84,2017,No vehicle available
+2502703740,Barre,B08201_003,668,159,2017,1 vehicle available
+2502703740,Barre,B08201_004,689,185,2017,2 vehicles available
+2502703740,Barre,B08201_005,265,119,2017,3 vehicles available
+2502703740,Barre,B08201_006,213,85,2017,4 or more vehicles available
+2502705490,Berlin,B08201_002,22,17,2017,No vehicle available
+2502705490,Berlin,B08201_003,223,49,2017,1 vehicle available
+2502705490,Berlin,B08201_004,533,73,2017,2 vehicles available
+2502705490,Berlin,B08201_005,218,56,2017,3 vehicles available
+2502705490,Berlin,B08201_006,155,43,2017,4 or more vehicles available
+2502706015,Blackstone,B08201_002,180,92,2017,No vehicle available
+2502706015,Blackstone,B08201_003,879,182,2017,1 vehicle available
+2502706015,Blackstone,B08201_004,1488,187,2017,2 vehicles available
+2502706015,Blackstone,B08201_005,536,113,2017,3 vehicles available
+2502706015,Blackstone,B08201_006,355,97,2017,4 or more vehicles available
+2502707525,Boylston,B08201_002,43,32,2017,No vehicle available
+2502707525,Boylston,B08201_003,418,100,2017,1 vehicle available
+2502707525,Boylston,B08201_004,781,131,2017,2 vehicles available
+2502707525,Boylston,B08201_005,278,65,2017,3 vehicles available
+2502707525,Boylston,B08201_006,193,78,2017,4 or more vehicles available
+2502709105,Brookfield,B08201_002,26,29,2017,No vehicle available
+2502709105,Brookfield,B08201_003,506,109,2017,1 vehicle available
+2502709105,Brookfield,B08201_004,651,102,2017,2 vehicles available
+2502709105,Brookfield,B08201_005,162,68,2017,3 vehicles available
+2502709105,Brookfield,B08201_006,76,30,2017,4 or more vehicles available
+2502712715,Charlton,B08201_002,123,54,2017,No vehicle available
+2502712715,Charlton,B08201_003,1383,240,2017,1 vehicle available
+2502712715,Charlton,B08201_004,1896,251,2017,2 vehicles available
+2502712715,Charlton,B08201_005,1044,198,2017,3 vehicles available
+2502712715,Charlton,B08201_006,443,147,2017,4 or more vehicles available
+2502717300,Douglas,B08201_002,81,63,2017,No vehicle available
+2502717300,Douglas,B08201_003,774,208,2017,1 vehicle available
+2502717300,Douglas,B08201_004,1473,216,2017,2 vehicles available
+2502717300,Douglas,B08201_005,552,179,2017,3 vehicles available
+2502717300,Douglas,B08201_006,259,80,2017,4 or more vehicles available
+2502717685,Dudley,B08201_002,153,75,2017,No vehicle available
+2502717685,Dudley,B08201_003,1079,223,2017,1 vehicle available
+2502717685,Dudley,B08201_004,1755,214,2017,2 vehicles available
+2502717685,Dudley,B08201_005,582,136,2017,3 vehicles available
+2502717685,Dudley,B08201_006,304,93,2017,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,17,14,2017,No vehicle available
+2502718560,East Brookfield,B08201_003,214,51,2017,1 vehicle available
+2502718560,East Brookfield,B08201_004,389,68,2017,2 vehicles available
+2502718560,East Brookfield,B08201_005,126,45,2017,3 vehicles available
+2502718560,East Brookfield,B08201_006,82,34,2017,4 or more vehicles available
+2502726430,Grafton,B08201_002,231,109,2017,No vehicle available
+2502726430,Grafton,B08201_003,1992,250,2017,1 vehicle available
+2502726430,Grafton,B08201_004,3420,268,2017,2 vehicles available
+2502726430,Grafton,B08201_005,807,153,2017,3 vehicles available
+2502726430,Grafton,B08201_006,489,131,2017,4 or more vehicles available
+2502728740,Hardwick,B08201_002,85,54,2017,No vehicle available
+2502728740,Hardwick,B08201_003,350,114,2017,1 vehicle available
+2502728740,Hardwick,B08201_004,586,93,2017,2 vehicles available
+2502728740,Hardwick,B08201_005,132,44,2017,3 vehicles available
+2502728740,Hardwick,B08201_006,69,30,2017,4 or more vehicles available
+2502730560,Holden,B08201_002,258,95,2017,No vehicle available
+2502730560,Holden,B08201_003,1403,173,2017,1 vehicle available
+2502730560,Holden,B08201_004,3279,219,2017,2 vehicles available
+2502730560,Holden,B08201_005,1090,169,2017,3 vehicles available
+2502730560,Holden,B08201_006,629,140,2017,4 or more vehicles available
+2502730945,Hopedale,B08201_002,187,92,2017,No vehicle available
+2502730945,Hopedale,B08201_003,731,173,2017,1 vehicle available
+2502730945,Hopedale,B08201_004,872,199,2017,2 vehicles available
+2502730945,Hopedale,B08201_005,337,118,2017,3 vehicles available
+2502730945,Hopedale,B08201_006,105,77,2017,4 or more vehicles available
+2502734795,Leicester,B08201_002,141,77,2017,No vehicle available
+2502734795,Leicester,B08201_003,1444,218,2017,1 vehicle available
+2502734795,Leicester,B08201_004,1657,218,2017,2 vehicles available
+2502734795,Leicester,B08201_005,610,122,2017,3 vehicles available
+2502734795,Leicester,B08201_006,395,118,2017,4 or more vehicles available
+2502740255,Mendon,B08201_002,68,43,2017,No vehicle available
+2502740255,Mendon,B08201_003,298,90,2017,1 vehicle available
+2502740255,Mendon,B08201_004,1027,132,2017,2 vehicles available
+2502740255,Mendon,B08201_005,448,129,2017,3 vehicles available
+2502740255,Mendon,B08201_006,223,90,2017,4 or more vehicles available
+2502741340,Millbury,B08201_002,144,76,2017,No vehicle available
+2502741340,Millbury,B08201_003,1575,242,2017,1 vehicle available
+2502741340,Millbury,B08201_004,2392,266,2017,2 vehicles available
+2502741340,Millbury,B08201_005,883,196,2017,3 vehicles available
+2502741340,Millbury,B08201_006,336,129,2017,4 or more vehicles available
+2502741585,Millville,B08201_002,40,27,2017,No vehicle available
+2502741585,Millville,B08201_003,292,78,2017,1 vehicle available
+2502741585,Millville,B08201_004,497,77,2017,2 vehicles available
+2502741585,Millville,B08201_005,207,60,2017,3 vehicles available
+2502741585,Millville,B08201_006,122,42,2017,4 or more vehicles available
+2502745105,New Braintree,B08201_002,12,9,2017,No vehicle available
+2502745105,New Braintree,B08201_003,73,23,2017,1 vehicle available
+2502745105,New Braintree,B08201_004,205,33,2017,2 vehicles available
+2502745105,New Braintree,B08201_005,83,27,2017,3 vehicles available
+2502745105,New Braintree,B08201_006,52,23,2017,4 or more vehicles available
+2502746820,Northborough,B08201_002,138,59,2017,No vehicle available
+2502746820,Northborough,B08201_003,1190,211,2017,1 vehicle available
+2502746820,Northborough,B08201_004,2558,208,2017,2 vehicles available
+2502746820,Northborough,B08201_005,964,157,2017,3 vehicles available
+2502746820,Northborough,B08201_006,428,125,2017,4 or more vehicles available
+2502746925,Northbridge,B08201_002,441,156,2017,No vehicle available
+2502746925,Northbridge,B08201_003,1899,279,2017,1 vehicle available
+2502746925,Northbridge,B08201_004,2501,316,2017,2 vehicles available
+2502746925,Northbridge,B08201_005,983,203,2017,3 vehicles available
+2502746925,Northbridge,B08201_006,317,117,2017,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,48,35,2017,No vehicle available
+2502747135,North Brookfield,B08201_003,579,123,2017,1 vehicle available
+2502747135,North Brookfield,B08201_004,828,129,2017,2 vehicles available
+2502747135,North Brookfield,B08201_005,187,72,2017,3 vehicles available
+2502747135,North Brookfield,B08201_006,176,60,2017,4 or more vehicles available
+2502750670,Oakham,B08201_002,19,10,2017,No vehicle available
+2502750670,Oakham,B08201_003,141,36,2017,1 vehicle available
+2502750670,Oakham,B08201_004,268,42,2017,2 vehicles available
+2502750670,Oakham,B08201_005,159,35,2017,3 vehicles available
+2502750670,Oakham,B08201_006,92,22,2017,4 or more vehicles available
+2502751825,Oxford,B08201_002,182,81,2017,No vehicle available
+2502751825,Oxford,B08201_003,1849,323,2017,1 vehicle available
+2502751825,Oxford,B08201_004,1877,304,2017,2 vehicles available
+2502751825,Oxford,B08201_005,965,217,2017,3 vehicles available
+2502751825,Oxford,B08201_006,385,138,2017,4 or more vehicles available
+2502752420,Paxton,B08201_002,74,54,2017,No vehicle available
+2502752420,Paxton,B08201_003,378,97,2017,1 vehicle available
+2502752420,Paxton,B08201_004,670,109,2017,2 vehicles available
+2502752420,Paxton,B08201_005,285,77,2017,3 vehicles available
+2502752420,Paxton,B08201_006,151,52,2017,4 or more vehicles available
+2502755395,Princeton,B08201_002,57,56,2017,No vehicle available
+2502755395,Princeton,B08201_003,159,81,2017,1 vehicle available
+2502755395,Princeton,B08201_004,615,96,2017,2 vehicles available
+2502755395,Princeton,B08201_005,321,84,2017,3 vehicles available
+2502755395,Princeton,B08201_006,127,48,2017,4 or more vehicles available
+2502758825,Rutland,B08201_002,69,54,2017,No vehicle available
+2502758825,Rutland,B08201_003,535,165,2017,1 vehicle available
+2502758825,Rutland,B08201_004,1526,191,2017,2 vehicles available
+2502758825,Rutland,B08201_005,643,142,2017,3 vehicles available
+2502758825,Rutland,B08201_006,131,76,2017,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,587,217,2017,No vehicle available
+2502761800,Shrewsbury,B08201_003,3576,443,2017,1 vehicle available
+2502761800,Shrewsbury,B08201_004,5982,420,2017,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1912,283,2017,3 vehicles available
+2502761800,Shrewsbury,B08201_006,853,168,2017,4 or more vehicles available
+2502766105,Spencer,B08201_002,569,171,2017,No vehicle available
+2502766105,Spencer,B08201_003,1623,253,2017,1 vehicle available
+2502766105,Spencer,B08201_004,1755,231,2017,2 vehicles available
+2502766105,Spencer,B08201_005,714,154,2017,3 vehicles available
+2502766105,Spencer,B08201_006,308,114,2017,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,95,57,2017,No vehicle available
+2502768155,Sturbridge,B08201_003,1105,184,2017,1 vehicle available
+2502768155,Sturbridge,B08201_004,1735,209,2017,2 vehicles available
+2502768155,Sturbridge,B08201_005,513,122,2017,3 vehicles available
+2502768155,Sturbridge,B08201_006,169,85,2017,4 or more vehicles available
+2502768610,Sutton,B08201_002,86,54,2017,No vehicle available
+2502768610,Sutton,B08201_003,741,181,2017,1 vehicle available
+2502768610,Sutton,B08201_004,1631,231,2017,2 vehicles available
+2502768610,Sutton,B08201_005,543,124,2017,3 vehicles available
+2502768610,Sutton,B08201_006,340,111,2017,4 or more vehicles available
+2502771480,Upton,B08201_002,54,42,2017,No vehicle available
+2502771480,Upton,B08201_003,513,157,2017,1 vehicle available
+2502771480,Upton,B08201_004,1390,217,2017,2 vehicles available
+2502771480,Upton,B08201_005,489,130,2017,3 vehicles available
+2502771480,Upton,B08201_006,295,112,2017,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,190,86,2017,No vehicle available
+2502771620,Uxbridge,B08201_003,1197,235,2017,1 vehicle available
+2502771620,Uxbridge,B08201_004,2073,252,2017,2 vehicles available
+2502771620,Uxbridge,B08201_005,829,198,2017,3 vehicles available
+2502771620,Uxbridge,B08201_006,468,139,2017,4 or more vehicles available
+2502773090,Warren,B08201_002,76,67,2017,No vehicle available
+2502773090,Warren,B08201_003,456,147,2017,1 vehicle available
+2502773090,Warren,B08201_004,1038,223,2017,2 vehicles available
+2502773090,Warren,B08201_005,236,141,2017,3 vehicles available
+2502773090,Warren,B08201_006,120,82,2017,4 or more vehicles available
+2502773895,Webster,B08201_002,628,127,2017,No vehicle available
+2502773895,Webster,B08201_003,2854,285,2017,1 vehicle available
+2502773895,Webster,B08201_004,2236,300,2017,2 vehicles available
+2502773895,Webster,B08201_005,834,191,2017,3 vehicles available
+2502773895,Webster,B08201_006,182,81,2017,4 or more vehicles available
+2502775015,Westborough,B08201_002,401,135,2017,No vehicle available
+2502775015,Westborough,B08201_003,2008,278,2017,1 vehicle available
+2502775015,Westborough,B08201_004,2974,277,2017,2 vehicles available
+2502775015,Westborough,B08201_005,927,143,2017,3 vehicles available
+2502775015,Westborough,B08201_006,372,95,2017,4 or more vehicles available
+2502775155,West Boylston,B08201_002,84,39,2017,No vehicle available
+2502775155,West Boylston,B08201_003,681,169,2017,1 vehicle available
+2502775155,West Boylston,B08201_004,922,215,2017,2 vehicles available
+2502775155,West Boylston,B08201_005,284,92,2017,3 vehicles available
+2502775155,West Boylston,B08201_006,111,47,2017,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,101,51,2017,No vehicle available
+2502775400,West Brookfield,B08201_003,429,117,2017,1 vehicle available
+2502775400,West Brookfield,B08201_004,634,128,2017,2 vehicles available
+2502775400,West Brookfield,B08201_005,229,64,2017,3 vehicles available
+2502775400,West Brookfield,B08201_006,128,60,2017,4 or more vehicles available
+2502702760,Auburn,B08201_002,416,95,2018,No vehicle available
+2502702760,Auburn,B08201_003,2169,239,2018,1 vehicle available
+2502702760,Auburn,B08201_004,3001,202,2018,2 vehicles available
+2502702760,Auburn,B08201_005,869,113,2018,3 vehicles available
+2502702760,Auburn,B08201_006,302,83,2018,4 or more vehicles available
+2502703740,Barre,B08201_002,81,100,2018,No vehicle available
+2502703740,Barre,B08201_003,607,176,2018,1 vehicle available
+2502703740,Barre,B08201_004,717,171,2018,2 vehicles available
+2502703740,Barre,B08201_005,300,121,2018,3 vehicles available
+2502703740,Barre,B08201_006,244,101,2018,4 or more vehicles available
+2502705490,Berlin,B08201_002,28,18,2018,No vehicle available
+2502705490,Berlin,B08201_003,221,55,2018,1 vehicle available
+2502705490,Berlin,B08201_004,573,82,2018,2 vehicles available
+2502705490,Berlin,B08201_005,168,47,2018,3 vehicles available
+2502705490,Berlin,B08201_006,135,40,2018,4 or more vehicles available
+2502706015,Blackstone,B08201_002,189,84,2018,No vehicle available
+2502706015,Blackstone,B08201_003,890,180,2018,1 vehicle available
+2502706015,Blackstone,B08201_004,1354,160,2018,2 vehicles available
+2502706015,Blackstone,B08201_005,576,128,2018,3 vehicles available
+2502706015,Blackstone,B08201_006,419,116,2018,4 or more vehicles available
+2502707525,Boylston,B08201_002,50,37,2018,No vehicle available
+2502707525,Boylston,B08201_003,476,102,2018,1 vehicle available
+2502707525,Boylston,B08201_004,824,117,2018,2 vehicles available
+2502707525,Boylston,B08201_005,285,76,2018,3 vehicles available
+2502707525,Boylston,B08201_006,136,70,2018,4 or more vehicles available
+2502709105,Brookfield,B08201_002,25,23,2018,No vehicle available
+2502709105,Brookfield,B08201_003,576,114,2018,1 vehicle available
+2502709105,Brookfield,B08201_004,563,113,2018,2 vehicles available
+2502709105,Brookfield,B08201_005,180,73,2018,3 vehicles available
+2502709105,Brookfield,B08201_006,123,66,2018,4 or more vehicles available
+2502712715,Charlton,B08201_002,164,73,2018,No vehicle available
+2502712715,Charlton,B08201_003,1368,272,2018,1 vehicle available
+2502712715,Charlton,B08201_004,1959,309,2018,2 vehicles available
+2502712715,Charlton,B08201_005,1027,200,2018,3 vehicles available
+2502712715,Charlton,B08201_006,368,130,2018,4 or more vehicles available
+2502717300,Douglas,B08201_002,107,81,2018,No vehicle available
+2502717300,Douglas,B08201_003,716,147,2018,1 vehicle available
+2502717300,Douglas,B08201_004,1373,223,2018,2 vehicles available
+2502717300,Douglas,B08201_005,631,186,2018,3 vehicles available
+2502717300,Douglas,B08201_006,319,118,2018,4 or more vehicles available
+2502717685,Dudley,B08201_002,186,72,2018,No vehicle available
+2502717685,Dudley,B08201_003,1143,200,2018,1 vehicle available
+2502717685,Dudley,B08201_004,1650,257,2018,2 vehicles available
+2502717685,Dudley,B08201_005,562,142,2018,3 vehicles available
+2502717685,Dudley,B08201_006,337,96,2018,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,19,21,2018,No vehicle available
+2502718560,East Brookfield,B08201_003,211,49,2018,1 vehicle available
+2502718560,East Brookfield,B08201_004,376,64,2018,2 vehicles available
+2502718560,East Brookfield,B08201_005,148,44,2018,3 vehicles available
+2502718560,East Brookfield,B08201_006,68,29,2018,4 or more vehicles available
+2502726430,Grafton,B08201_002,227,103,2018,No vehicle available
+2502726430,Grafton,B08201_003,2046,251,2018,1 vehicle available
+2502726430,Grafton,B08201_004,3322,238,2018,2 vehicles available
+2502726430,Grafton,B08201_005,848,156,2018,3 vehicles available
+2502726430,Grafton,B08201_006,543,123,2018,4 or more vehicles available
+2502728740,Hardwick,B08201_002,107,61,2018,No vehicle available
+2502728740,Hardwick,B08201_003,305,92,2018,1 vehicle available
+2502728740,Hardwick,B08201_004,543,87,2018,2 vehicles available
+2502728740,Hardwick,B08201_005,159,52,2018,3 vehicles available
+2502728740,Hardwick,B08201_006,57,31,2018,4 or more vehicles available
+2502730560,Holden,B08201_002,263,83,2018,No vehicle available
+2502730560,Holden,B08201_003,1499,173,2018,1 vehicle available
+2502730560,Holden,B08201_004,3395,224,2018,2 vehicles available
+2502730560,Holden,B08201_005,1135,140,2018,3 vehicles available
+2502730560,Holden,B08201_006,550,91,2018,4 or more vehicles available
+2502730945,Hopedale,B08201_002,173,103,2018,No vehicle available
+2502730945,Hopedale,B08201_003,695,169,2018,1 vehicle available
+2502730945,Hopedale,B08201_004,983,195,2018,2 vehicles available
+2502730945,Hopedale,B08201_005,379,111,2018,3 vehicles available
+2502730945,Hopedale,B08201_006,33,38,2018,4 or more vehicles available
+2502734795,Leicester,B08201_002,121,70,2018,No vehicle available
+2502734795,Leicester,B08201_003,1275,186,2018,1 vehicle available
+2502734795,Leicester,B08201_004,1578,221,2018,2 vehicles available
+2502734795,Leicester,B08201_005,621,149,2018,3 vehicles available
+2502734795,Leicester,B08201_006,449,114,2018,4 or more vehicles available
+2502740255,Mendon,B08201_002,47,40,2018,No vehicle available
+2502740255,Mendon,B08201_003,278,87,2018,1 vehicle available
+2502740255,Mendon,B08201_004,980,147,2018,2 vehicles available
+2502740255,Mendon,B08201_005,467,137,2018,3 vehicles available
+2502740255,Mendon,B08201_006,251,94,2018,4 or more vehicles available
+2502741340,Millbury,B08201_002,182,96,2018,No vehicle available
+2502741340,Millbury,B08201_003,1463,225,2018,1 vehicle available
+2502741340,Millbury,B08201_004,2454,282,2018,2 vehicles available
+2502741340,Millbury,B08201_005,770,207,2018,3 vehicles available
+2502741340,Millbury,B08201_006,365,139,2018,4 or more vehicles available
+2502741585,Millville,B08201_002,61,38,2018,No vehicle available
+2502741585,Millville,B08201_003,343,75,2018,1 vehicle available
+2502741585,Millville,B08201_004,523,72,2018,2 vehicles available
+2502741585,Millville,B08201_005,188,58,2018,3 vehicles available
+2502741585,Millville,B08201_006,111,41,2018,4 or more vehicles available
+2502745105,New Braintree,B08201_002,14,10,2018,No vehicle available
+2502745105,New Braintree,B08201_003,90,27,2018,1 vehicle available
+2502745105,New Braintree,B08201_004,212,33,2018,2 vehicles available
+2502745105,New Braintree,B08201_005,91,27,2018,3 vehicles available
+2502745105,New Braintree,B08201_006,53,22,2018,4 or more vehicles available
+2502746820,Northborough,B08201_002,111,55,2018,No vehicle available
+2502746820,Northborough,B08201_003,1288,229,2018,1 vehicle available
+2502746820,Northborough,B08201_004,2540,196,2018,2 vehicles available
+2502746820,Northborough,B08201_005,1062,177,2018,3 vehicles available
+2502746820,Northborough,B08201_006,428,119,2018,4 or more vehicles available
+2502746925,Northbridge,B08201_002,473,176,2018,No vehicle available
+2502746925,Northbridge,B08201_003,1812,363,2018,1 vehicle available
+2502746925,Northbridge,B08201_004,2393,287,2018,2 vehicles available
+2502746925,Northbridge,B08201_005,930,209,2018,3 vehicles available
+2502746925,Northbridge,B08201_006,432,161,2018,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,36,32,2018,No vehicle available
+2502747135,North Brookfield,B08201_003,558,126,2018,1 vehicle available
+2502747135,North Brookfield,B08201_004,839,141,2018,2 vehicles available
+2502747135,North Brookfield,B08201_005,213,87,2018,3 vehicles available
+2502747135,North Brookfield,B08201_006,175,59,2018,4 or more vehicles available
+2502750670,Oakham,B08201_002,22,13,2018,No vehicle available
+2502750670,Oakham,B08201_003,119,32,2018,1 vehicle available
+2502750670,Oakham,B08201_004,290,45,2018,2 vehicles available
+2502750670,Oakham,B08201_005,153,30,2018,3 vehicles available
+2502750670,Oakham,B08201_006,86,26,2018,4 or more vehicles available
+2502751825,Oxford,B08201_002,175,77,2018,No vehicle available
+2502751825,Oxford,B08201_003,1990,264,2018,1 vehicle available
+2502751825,Oxford,B08201_004,1824,293,2018,2 vehicles available
+2502751825,Oxford,B08201_005,903,191,2018,3 vehicles available
+2502751825,Oxford,B08201_006,431,156,2018,4 or more vehicles available
+2502752420,Paxton,B08201_002,68,54,2018,No vehicle available
+2502752420,Paxton,B08201_003,444,94,2018,1 vehicle available
+2502752420,Paxton,B08201_004,583,101,2018,2 vehicles available
+2502752420,Paxton,B08201_005,277,71,2018,3 vehicles available
+2502752420,Paxton,B08201_006,198,57,2018,4 or more vehicles available
+2502755395,Princeton,B08201_002,54,46,2018,No vehicle available
+2502755395,Princeton,B08201_003,172,70,2018,1 vehicle available
+2502755395,Princeton,B08201_004,546,87,2018,2 vehicles available
+2502755395,Princeton,B08201_005,343,74,2018,3 vehicles available
+2502755395,Princeton,B08201_006,125,45,2018,4 or more vehicles available
+2502758825,Rutland,B08201_002,49,47,2018,No vehicle available
+2502758825,Rutland,B08201_003,534,166,2018,1 vehicle available
+2502758825,Rutland,B08201_004,1496,240,2018,2 vehicles available
+2502758825,Rutland,B08201_005,671,138,2018,3 vehicles available
+2502758825,Rutland,B08201_006,206,100,2018,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,631,225,2018,No vehicle available
+2502761800,Shrewsbury,B08201_003,3745,401,2018,1 vehicle available
+2502761800,Shrewsbury,B08201_004,5978,407,2018,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1908,256,2018,3 vehicles available
+2502761800,Shrewsbury,B08201_006,899,197,2018,4 or more vehicles available
+2502766105,Spencer,B08201_002,525,181,2018,No vehicle available
+2502766105,Spencer,B08201_003,1417,232,2018,1 vehicle available
+2502766105,Spencer,B08201_004,1820,259,2018,2 vehicles available
+2502766105,Spencer,B08201_005,762,186,2018,3 vehicles available
+2502766105,Spencer,B08201_006,341,152,2018,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,94,53,2018,No vehicle available
+2502768155,Sturbridge,B08201_003,1154,160,2018,1 vehicle available
+2502768155,Sturbridge,B08201_004,1752,228,2018,2 vehicles available
+2502768155,Sturbridge,B08201_005,500,116,2018,3 vehicles available
+2502768155,Sturbridge,B08201_006,95,58,2018,4 or more vehicles available
+2502768610,Sutton,B08201_002,112,68,2018,No vehicle available
+2502768610,Sutton,B08201_003,837,175,2018,1 vehicle available
+2502768610,Sutton,B08201_004,1536,207,2018,2 vehicles available
+2502768610,Sutton,B08201_005,546,121,2018,3 vehicles available
+2502768610,Sutton,B08201_006,410,127,2018,4 or more vehicles available
+2502771480,Upton,B08201_002,49,41,2018,No vehicle available
+2502771480,Upton,B08201_003,486,143,2018,1 vehicle available
+2502771480,Upton,B08201_004,1283,242,2018,2 vehicles available
+2502771480,Upton,B08201_005,508,128,2018,3 vehicles available
+2502771480,Upton,B08201_006,301,109,2018,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,210,110,2018,No vehicle available
+2502771620,Uxbridge,B08201_003,1105,223,2018,1 vehicle available
+2502771620,Uxbridge,B08201_004,2223,247,2018,2 vehicles available
+2502771620,Uxbridge,B08201_005,938,178,2018,3 vehicles available
+2502771620,Uxbridge,B08201_006,293,102,2018,4 or more vehicles available
+2502773090,Warren,B08201_002,87,72,2018,No vehicle available
+2502773090,Warren,B08201_003,531,194,2018,1 vehicle available
+2502773090,Warren,B08201_004,954,195,2018,2 vehicles available
+2502773090,Warren,B08201_005,219,138,2018,3 vehicles available
+2502773090,Warren,B08201_006,200,103,2018,4 or more vehicles available
+2502773895,Webster,B08201_002,715,143,2018,No vehicle available
+2502773895,Webster,B08201_003,2643,301,2018,1 vehicle available
+2502773895,Webster,B08201_004,2380,281,2018,2 vehicles available
+2502773895,Webster,B08201_005,891,222,2018,3 vehicles available
+2502773895,Webster,B08201_006,255,88,2018,4 or more vehicles available
+2502775015,Westborough,B08201_002,451,160,2018,No vehicle available
+2502775015,Westborough,B08201_003,2006,245,2018,1 vehicle available
+2502775015,Westborough,B08201_004,2988,268,2018,2 vehicles available
+2502775015,Westborough,B08201_005,948,144,2018,3 vehicles available
+2502775015,Westborough,B08201_006,401,105,2018,4 or more vehicles available
+2502775155,West Boylston,B08201_002,107,54,2018,No vehicle available
+2502775155,West Boylston,B08201_003,717,143,2018,1 vehicle available
+2502775155,West Boylston,B08201_004,876,174,2018,2 vehicles available
+2502775155,West Boylston,B08201_005,257,77,2018,3 vehicles available
+2502775155,West Boylston,B08201_006,134,46,2018,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,95,53,2018,No vehicle available
+2502775400,West Brookfield,B08201_003,418,114,2018,1 vehicle available
+2502775400,West Brookfield,B08201_004,629,120,2018,2 vehicles available
+2502775400,West Brookfield,B08201_005,252,81,2018,3 vehicles available
+2502775400,West Brookfield,B08201_006,142,58,2018,4 or more vehicles available
+2502702760,Auburn,B08201_002,420,120,2019,No vehicle available
+2502702760,Auburn,B08201_003,2185,260,2019,1 vehicle available
+2502702760,Auburn,B08201_004,2925,249,2019,2 vehicles available
+2502702760,Auburn,B08201_005,810,146,2019,3 vehicles available
+2502702760,Auburn,B08201_006,332,89,2019,4 or more vehicles available
+2502703740,Barre,B08201_002,88,124,2019,No vehicle available
+2502703740,Barre,B08201_003,685,192,2019,1 vehicle available
+2502703740,Barre,B08201_004,728,165,2019,2 vehicles available
+2502703740,Barre,B08201_005,307,143,2019,3 vehicles available
+2502703740,Barre,B08201_006,231,122,2019,4 or more vehicles available
+2502705490,Berlin,B08201_002,30,25,2019,No vehicle available
+2502705490,Berlin,B08201_003,237,75,2019,1 vehicle available
+2502705490,Berlin,B08201_004,602,96,2019,2 vehicles available
+2502705490,Berlin,B08201_005,196,58,2019,3 vehicles available
+2502705490,Berlin,B08201_006,114,34,2019,4 or more vehicles available
+2502706015,Blackstone,B08201_002,171,71,2019,No vehicle available
+2502706015,Blackstone,B08201_003,976,170,2019,1 vehicle available
+2502706015,Blackstone,B08201_004,1430,187,2019,2 vehicles available
+2502706015,Blackstone,B08201_005,614,137,2019,3 vehicles available
+2502706015,Blackstone,B08201_006,335,104,2019,4 or more vehicles available
+2502707525,Boylston,B08201_002,42,34,2019,No vehicle available
+2502707525,Boylston,B08201_003,512,107,2019,1 vehicle available
+2502707525,Boylston,B08201_004,863,107,2019,2 vehicles available
+2502707525,Boylston,B08201_005,295,82,2019,3 vehicles available
+2502707525,Boylston,B08201_006,87,47,2019,4 or more vehicles available
+2502709105,Brookfield,B08201_002,34,27,2019,No vehicle available
+2502709105,Brookfield,B08201_003,531,99,2019,1 vehicle available
+2502709105,Brookfield,B08201_004,475,96,2019,2 vehicles available
+2502709105,Brookfield,B08201_005,233,76,2019,3 vehicles available
+2502709105,Brookfield,B08201_006,131,60,2019,4 or more vehicles available
+2502712715,Charlton,B08201_002,231,103,2019,No vehicle available
+2502712715,Charlton,B08201_003,1423,266,2019,1 vehicle available
+2502712715,Charlton,B08201_004,2193,309,2019,2 vehicles available
+2502712715,Charlton,B08201_005,889,190,2019,3 vehicles available
+2502712715,Charlton,B08201_006,328,107,2019,4 or more vehicles available
+2502717300,Douglas,B08201_002,104,91,2019,No vehicle available
+2502717300,Douglas,B08201_003,697,182,2019,1 vehicle available
+2502717300,Douglas,B08201_004,1347,205,2019,2 vehicles available
+2502717300,Douglas,B08201_005,664,171,2019,3 vehicles available
+2502717300,Douglas,B08201_006,422,125,2019,4 or more vehicles available
+2502717685,Dudley,B08201_002,214,91,2019,No vehicle available
+2502717685,Dudley,B08201_003,1140,203,2019,1 vehicle available
+2502717685,Dudley,B08201_004,1577,215,2019,2 vehicles available
+2502717685,Dudley,B08201_005,634,146,2019,3 vehicles available
+2502717685,Dudley,B08201_006,340,121,2019,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,29,29,2019,No vehicle available
+2502718560,East Brookfield,B08201_003,205,54,2019,1 vehicle available
+2502718560,East Brookfield,B08201_004,333,61,2019,2 vehicles available
+2502718560,East Brookfield,B08201_005,163,57,2019,3 vehicles available
+2502718560,East Brookfield,B08201_006,65,33,2019,4 or more vehicles available
+2502726430,Grafton,B08201_002,356,143,2019,No vehicle available
+2502726430,Grafton,B08201_003,1870,198,2019,1 vehicle available
+2502726430,Grafton,B08201_004,3368,238,2019,2 vehicles available
+2502726430,Grafton,B08201_005,978,175,2019,3 vehicles available
+2502726430,Grafton,B08201_006,462,110,2019,4 or more vehicles available
+2502728740,Hardwick,B08201_002,99,63,2019,No vehicle available
+2502728740,Hardwick,B08201_003,387,106,2019,1 vehicle available
+2502728740,Hardwick,B08201_004,442,75,2019,2 vehicles available
+2502728740,Hardwick,B08201_005,206,56,2019,3 vehicles available
+2502728740,Hardwick,B08201_006,82,36,2019,4 or more vehicles available
+2502730560,Holden,B08201_002,211,67,2019,No vehicle available
+2502730560,Holden,B08201_003,1627,193,2019,1 vehicle available
+2502730560,Holden,B08201_004,3549,228,2019,2 vehicles available
+2502730560,Holden,B08201_005,1074,153,2019,3 vehicles available
+2502730560,Holden,B08201_006,585,107,2019,4 or more vehicles available
+2502730945,Hopedale,B08201_002,146,64,2019,No vehicle available
+2502730945,Hopedale,B08201_003,603,154,2019,1 vehicle available
+2502730945,Hopedale,B08201_004,956,186,2019,2 vehicles available
+2502730945,Hopedale,B08201_005,426,126,2019,3 vehicles available
+2502730945,Hopedale,B08201_006,50,38,2019,4 or more vehicles available
+2502734795,Leicester,B08201_002,143,86,2019,No vehicle available
+2502734795,Leicester,B08201_003,1426,213,2019,1 vehicle available
+2502734795,Leicester,B08201_004,1468,213,2019,2 vehicles available
+2502734795,Leicester,B08201_005,584,155,2019,3 vehicles available
+2502734795,Leicester,B08201_006,449,103,2019,4 or more vehicles available
+2502740255,Mendon,B08201_002,34,35,2019,No vehicle available
+2502740255,Mendon,B08201_003,328,119,2019,1 vehicle available
+2502740255,Mendon,B08201_004,964,144,2019,2 vehicles available
+2502740255,Mendon,B08201_005,452,135,2019,3 vehicles available
+2502740255,Mendon,B08201_006,281,98,2019,4 or more vehicles available
+2502741340,Millbury,B08201_002,245,105,2019,No vehicle available
+2502741340,Millbury,B08201_003,1474,216,2019,1 vehicle available
+2502741340,Millbury,B08201_004,2672,314,2019,2 vehicles available
+2502741340,Millbury,B08201_005,608,165,2019,3 vehicles available
+2502741340,Millbury,B08201_006,276,123,2019,4 or more vehicles available
+2502741585,Millville,B08201_002,82,44,2019,No vehicle available
+2502741585,Millville,B08201_003,350,73,2019,1 vehicle available
+2502741585,Millville,B08201_004,515,90,2019,2 vehicles available
+2502741585,Millville,B08201_005,176,57,2019,3 vehicles available
+2502741585,Millville,B08201_006,118,46,2019,4 or more vehicles available
+2502745105,New Braintree,B08201_002,9,9,2019,No vehicle available
+2502745105,New Braintree,B08201_003,93,34,2019,1 vehicle available
+2502745105,New Braintree,B08201_004,232,41,2019,2 vehicles available
+2502745105,New Braintree,B08201_005,77,23,2019,3 vehicles available
+2502745105,New Braintree,B08201_006,49,20,2019,4 or more vehicles available
+2502746820,Northborough,B08201_002,131,78,2019,No vehicle available
+2502746820,Northborough,B08201_003,1209,210,2019,1 vehicle available
+2502746820,Northborough,B08201_004,2631,210,2019,2 vehicles available
+2502746820,Northborough,B08201_005,1026,191,2019,3 vehicles available
+2502746820,Northborough,B08201_006,402,103,2019,4 or more vehicles available
+2502746925,Northbridge,B08201_002,566,160,2019,No vehicle available
+2502746925,Northbridge,B08201_003,1747,278,2019,1 vehicle available
+2502746925,Northbridge,B08201_004,2508,338,2019,2 vehicles available
+2502746925,Northbridge,B08201_005,925,177,2019,3 vehicles available
+2502746925,Northbridge,B08201_006,420,156,2019,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,36,30,2019,No vehicle available
+2502747135,North Brookfield,B08201_003,535,128,2019,1 vehicle available
+2502747135,North Brookfield,B08201_004,825,123,2019,2 vehicles available
+2502747135,North Brookfield,B08201_005,263,97,2019,3 vehicles available
+2502747135,North Brookfield,B08201_006,182,54,2019,4 or more vehicles available
+2502750670,Oakham,B08201_002,24,14,2019,No vehicle available
+2502750670,Oakham,B08201_003,85,25,2019,1 vehicle available
+2502750670,Oakham,B08201_004,297,40,2019,2 vehicles available
+2502750670,Oakham,B08201_005,167,36,2019,3 vehicles available
+2502750670,Oakham,B08201_006,115,27,2019,4 or more vehicles available
+2502751825,Oxford,B08201_002,138,72,2019,No vehicle available
+2502751825,Oxford,B08201_003,1816,291,2019,1 vehicle available
+2502751825,Oxford,B08201_004,1977,261,2019,2 vehicles available
+2502751825,Oxford,B08201_005,733,151,2019,3 vehicles available
+2502751825,Oxford,B08201_006,536,183,2019,4 or more vehicles available
+2502752420,Paxton,B08201_002,48,38,2019,No vehicle available
+2502752420,Paxton,B08201_003,400,101,2019,1 vehicle available
+2502752420,Paxton,B08201_004,558,107,2019,2 vehicles available
+2502752420,Paxton,B08201_005,300,78,2019,3 vehicles available
+2502752420,Paxton,B08201_006,193,57,2019,4 or more vehicles available
+2502755395,Princeton,B08201_002,57,50,2019,No vehicle available
+2502755395,Princeton,B08201_003,153,56,2019,1 vehicle available
+2502755395,Princeton,B08201_004,572,105,2019,2 vehicles available
+2502755395,Princeton,B08201_005,369,95,2019,3 vehicles available
+2502755395,Princeton,B08201_006,120,50,2019,4 or more vehicles available
+2502758825,Rutland,B08201_002,105,91,2019,No vehicle available
+2502758825,Rutland,B08201_003,503,145,2019,1 vehicle available
+2502758825,Rutland,B08201_004,1446,184,2019,2 vehicles available
+2502758825,Rutland,B08201_005,585,151,2019,3 vehicles available
+2502758825,Rutland,B08201_006,246,107,2019,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,670,231,2019,No vehicle available
+2502761800,Shrewsbury,B08201_003,3888,387,2019,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6204,425,2019,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1822,243,2019,3 vehicles available
+2502761800,Shrewsbury,B08201_006,977,175,2019,4 or more vehicles available
+2502766105,Spencer,B08201_002,561,172,2019,No vehicle available
+2502766105,Spencer,B08201_003,1271,294,2019,1 vehicle available
+2502766105,Spencer,B08201_004,1892,258,2019,2 vehicles available
+2502766105,Spencer,B08201_005,822,188,2019,3 vehicles available
+2502766105,Spencer,B08201_006,337,124,2019,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,175,148,2019,No vehicle available
+2502768155,Sturbridge,B08201_003,1088,213,2019,1 vehicle available
+2502768155,Sturbridge,B08201_004,1733,201,2019,2 vehicles available
+2502768155,Sturbridge,B08201_005,508,130,2019,3 vehicles available
+2502768155,Sturbridge,B08201_006,115,59,2019,4 or more vehicles available
+2502768610,Sutton,B08201_002,124,80,2019,No vehicle available
+2502768610,Sutton,B08201_003,840,191,2019,1 vehicle available
+2502768610,Sutton,B08201_004,1298,239,2019,2 vehicles available
+2502768610,Sutton,B08201_005,732,153,2019,3 vehicles available
+2502768610,Sutton,B08201_006,432,125,2019,4 or more vehicles available
+2502771480,Upton,B08201_002,47,43,2019,No vehicle available
+2502771480,Upton,B08201_003,525,161,2019,1 vehicle available
+2502771480,Upton,B08201_004,1341,241,2019,2 vehicles available
+2502771480,Upton,B08201_005,510,154,2019,3 vehicles available
+2502771480,Upton,B08201_006,293,130,2019,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,215,106,2019,No vehicle available
+2502771620,Uxbridge,B08201_003,1045,212,2019,1 vehicle available
+2502771620,Uxbridge,B08201_004,2458,247,2019,2 vehicles available
+2502771620,Uxbridge,B08201_005,1022,203,2019,3 vehicles available
+2502771620,Uxbridge,B08201_006,284,128,2019,4 or more vehicles available
+2502773090,Warren,B08201_002,98,74,2019,No vehicle available
+2502773090,Warren,B08201_003,448,214,2019,1 vehicle available
+2502773090,Warren,B08201_004,892,209,2019,2 vehicles available
+2502773090,Warren,B08201_005,248,128,2019,3 vehicles available
+2502773090,Warren,B08201_006,173,85,2019,4 or more vehicles available
+2502773895,Webster,B08201_002,719,143,2019,No vehicle available
+2502773895,Webster,B08201_003,2644,295,2019,1 vehicle available
+2502773895,Webster,B08201_004,2398,244,2019,2 vehicles available
+2502773895,Webster,B08201_005,897,209,2019,3 vehicles available
+2502773895,Webster,B08201_006,288,92,2019,4 or more vehicles available
+2502775015,Westborough,B08201_002,407,153,2019,No vehicle available
+2502775015,Westborough,B08201_003,2192,279,2019,1 vehicle available
+2502775015,Westborough,B08201_004,3261,265,2019,2 vehicles available
+2502775015,Westborough,B08201_005,935,167,2019,3 vehicles available
+2502775015,Westborough,B08201_006,274,83,2019,4 or more vehicles available
+2502775155,West Boylston,B08201_002,133,70,2019,No vehicle available
+2502775155,West Boylston,B08201_003,792,157,2019,1 vehicle available
+2502775155,West Boylston,B08201_004,973,208,2019,2 vehicles available
+2502775155,West Boylston,B08201_005,279,83,2019,3 vehicles available
+2502775155,West Boylston,B08201_006,159,51,2019,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,111,69,2019,No vehicle available
+2502775400,West Brookfield,B08201_003,442,163,2019,1 vehicle available
+2502775400,West Brookfield,B08201_004,552,118,2019,2 vehicles available
+2502775400,West Brookfield,B08201_005,248,95,2019,3 vehicles available
+2502775400,West Brookfield,B08201_006,157,71,2019,4 or more vehicles available
+2502702760,Auburn,B08201_002,462,116,2020,No vehicle available
+2502702760,Auburn,B08201_003,2106,245,2020,1 vehicle available
+2502702760,Auburn,B08201_004,2862,229,2020,2 vehicles available
+2502702760,Auburn,B08201_005,888,140,2020,3 vehicles available
+2502702760,Auburn,B08201_006,338,100,2020,4 or more vehicles available
+2502703740,Barre,B08201_002,21,36,2020,No vehicle available
+2502703740,Barre,B08201_003,582,167,2020,1 vehicle available
+2502703740,Barre,B08201_004,748,232,2020,2 vehicles available
+2502703740,Barre,B08201_005,352,183,2020,3 vehicles available
+2502703740,Barre,B08201_006,274,141,2020,4 or more vehicles available
+2502705490,Berlin,B08201_002,28,23,2020,No vehicle available
+2502705490,Berlin,B08201_003,340,113,2020,1 vehicle available
+2502705490,Berlin,B08201_004,627,103,2020,2 vehicles available
+2502705490,Berlin,B08201_005,204,61,2020,3 vehicles available
+2502705490,Berlin,B08201_006,92,30,2020,4 or more vehicles available
+2502706015,Blackstone,B08201_002,142,65,2020,No vehicle available
+2502706015,Blackstone,B08201_003,1300,363,2020,1 vehicle available
+2502706015,Blackstone,B08201_004,1279,198,2020,2 vehicles available
+2502706015,Blackstone,B08201_005,635,146,2020,3 vehicles available
+2502706015,Blackstone,B08201_006,411,175,2020,4 or more vehicles available
+2502707525,Boylston,B08201_002,47,33,2020,No vehicle available
+2502707525,Boylston,B08201_003,450,107,2020,1 vehicle available
+2502707525,Boylston,B08201_004,934,136,2020,2 vehicles available
+2502707525,Boylston,B08201_005,269,84,2020,3 vehicles available
+2502707525,Boylston,B08201_006,118,69,2020,4 or more vehicles available
+2502709105,Brookfield,B08201_002,37,38,2020,No vehicle available
+2502709105,Brookfield,B08201_003,494,109,2020,1 vehicle available
+2502709105,Brookfield,B08201_004,446,109,2020,2 vehicles available
+2502709105,Brookfield,B08201_005,246,86,2020,3 vehicles available
+2502709105,Brookfield,B08201_006,145,66,2020,4 or more vehicles available
+2502712715,Charlton,B08201_002,216,98,2020,No vehicle available
+2502712715,Charlton,B08201_003,1398,298,2020,1 vehicle available
+2502712715,Charlton,B08201_004,2149,285,2020,2 vehicles available
+2502712715,Charlton,B08201_005,706,162,2020,3 vehicles available
+2502712715,Charlton,B08201_006,392,129,2020,4 or more vehicles available
+2502717300,Douglas,B08201_002,150,129,2020,No vehicle available
+2502717300,Douglas,B08201_003,745,221,2020,1 vehicle available
+2502717300,Douglas,B08201_004,1121,239,2020,2 vehicles available
+2502717300,Douglas,B08201_005,543,158,2020,3 vehicles available
+2502717300,Douglas,B08201_006,562,189,2020,4 or more vehicles available
+2502717685,Dudley,B08201_002,418,216,2020,No vehicle available
+2502717685,Dudley,B08201_003,1107,224,2020,1 vehicle available
+2502717685,Dudley,B08201_004,1553,232,2020,2 vehicles available
+2502717685,Dudley,B08201_005,535,164,2020,3 vehicles available
+2502717685,Dudley,B08201_006,490,159,2020,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,34,29,2020,No vehicle available
+2502718560,East Brookfield,B08201_003,255,109,2020,1 vehicle available
+2502718560,East Brookfield,B08201_004,331,69,2020,2 vehicles available
+2502718560,East Brookfield,B08201_005,146,49,2020,3 vehicles available
+2502718560,East Brookfield,B08201_006,77,40,2020,4 or more vehicles available
+2502726430,Grafton,B08201_002,430,207,2020,No vehicle available
+2502726430,Grafton,B08201_003,1973,291,2020,1 vehicle available
+2502726430,Grafton,B08201_004,3257,311,2020,2 vehicles available
+2502726430,Grafton,B08201_005,922,187,2020,3 vehicles available
+2502726430,Grafton,B08201_006,587,145,2020,4 or more vehicles available
+2502728740,Hardwick,B08201_002,54,53,2020,No vehicle available
+2502728740,Hardwick,B08201_003,316,110,2020,1 vehicle available
+2502728740,Hardwick,B08201_004,320,80,2020,2 vehicles available
+2502728740,Hardwick,B08201_005,267,84,2020,3 vehicles available
+2502728740,Hardwick,B08201_006,144,85,2020,4 or more vehicles available
+2502730560,Holden,B08201_002,216,81,2020,No vehicle available
+2502730560,Holden,B08201_003,1782,239,2020,1 vehicle available
+2502730560,Holden,B08201_004,3470,310,2020,2 vehicles available
+2502730560,Holden,B08201_005,1028,162,2020,3 vehicles available
+2502730560,Holden,B08201_006,580,131,2020,4 or more vehicles available
+2502730945,Hopedale,B08201_002,136,75,2020,No vehicle available
+2502730945,Hopedale,B08201_003,532,197,2020,1 vehicle available
+2502730945,Hopedale,B08201_004,834,204,2020,2 vehicles available
+2502730945,Hopedale,B08201_005,427,136,2020,3 vehicles available
+2502730945,Hopedale,B08201_006,144,128,2020,4 or more vehicles available
+2502734795,Leicester,B08201_002,122,93,2020,No vehicle available
+2502734795,Leicester,B08201_003,1264,285,2020,1 vehicle available
+2502734795,Leicester,B08201_004,1681,242,2020,2 vehicles available
+2502734795,Leicester,B08201_005,606,165,2020,3 vehicles available
+2502734795,Leicester,B08201_006,395,112,2020,4 or more vehicles available
+2502740255,Mendon,B08201_002,42,34,2020,No vehicle available
+2502740255,Mendon,B08201_003,246,102,2020,1 vehicle available
+2502740255,Mendon,B08201_004,857,185,2020,2 vehicles available
+2502740255,Mendon,B08201_005,687,181,2020,3 vehicles available
+2502740255,Mendon,B08201_006,227,107,2020,4 or more vehicles available
+2502741340,Millbury,B08201_002,319,133,2020,No vehicle available
+2502741340,Millbury,B08201_003,1273,226,2020,1 vehicle available
+2502741340,Millbury,B08201_004,2740,299,2020,2 vehicles available
+2502741340,Millbury,B08201_005,601,162,2020,3 vehicles available
+2502741340,Millbury,B08201_006,214,116,2020,4 or more vehicles available
+2502741585,Millville,B08201_002,69,39,2020,No vehicle available
+2502741585,Millville,B08201_003,303,76,2020,1 vehicle available
+2502741585,Millville,B08201_004,492,108,2020,2 vehicles available
+2502741585,Millville,B08201_005,322,156,2020,3 vehicles available
+2502741585,Millville,B08201_006,119,43,2020,4 or more vehicles available
+2502745105,New Braintree,B08201_002,8,7,2020,No vehicle available
+2502745105,New Braintree,B08201_003,98,37,2020,1 vehicle available
+2502745105,New Braintree,B08201_004,223,45,2020,2 vehicles available
+2502745105,New Braintree,B08201_005,78,27,2020,3 vehicles available
+2502745105,New Braintree,B08201_006,42,16,2020,4 or more vehicles available
+2502746820,Northborough,B08201_002,160,94,2020,No vehicle available
+2502746820,Northborough,B08201_003,1213,217,2020,1 vehicle available
+2502746820,Northborough,B08201_004,2538,265,2020,2 vehicles available
+2502746820,Northborough,B08201_005,1231,223,2020,3 vehicles available
+2502746820,Northborough,B08201_006,302,108,2020,4 or more vehicles available
+2502746925,Northbridge,B08201_002,468,159,2020,No vehicle available
+2502746925,Northbridge,B08201_003,1759,290,2020,1 vehicle available
+2502746925,Northbridge,B08201_004,2888,359,2020,2 vehicles available
+2502746925,Northbridge,B08201_005,793,185,2020,3 vehicles available
+2502746925,Northbridge,B08201_006,527,189,2020,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,30,22,2020,No vehicle available
+2502747135,North Brookfield,B08201_003,638,199,2020,1 vehicle available
+2502747135,North Brookfield,B08201_004,759,146,2020,2 vehicles available
+2502747135,North Brookfield,B08201_005,291,88,2020,3 vehicles available
+2502747135,North Brookfield,B08201_006,156,69,2020,4 or more vehicles available
+2502750670,Oakham,B08201_002,18,12,2020,No vehicle available
+2502750670,Oakham,B08201_003,85,34,2020,1 vehicle available
+2502750670,Oakham,B08201_004,261,41,2020,2 vehicles available
+2502750670,Oakham,B08201_005,149,40,2020,3 vehicles available
+2502750670,Oakham,B08201_006,107,27,2020,4 or more vehicles available
+2502751825,Oxford,B08201_002,201,108,2020,No vehicle available
+2502751825,Oxford,B08201_003,1354,325,2020,1 vehicle available
+2502751825,Oxford,B08201_004,2090,369,2020,2 vehicles available
+2502751825,Oxford,B08201_005,720,223,2020,3 vehicles available
+2502751825,Oxford,B08201_006,677,236,2020,4 or more vehicles available
+2502752420,Paxton,B08201_002,48,41,2020,No vehicle available
+2502752420,Paxton,B08201_003,422,168,2020,1 vehicle available
+2502752420,Paxton,B08201_004,588,123,2020,2 vehicles available
+2502752420,Paxton,B08201_005,331,114,2020,3 vehicles available
+2502752420,Paxton,B08201_006,232,83,2020,4 or more vehicles available
+2502755395,Princeton,B08201_002,54,46,2020,No vehicle available
+2502755395,Princeton,B08201_003,122,57,2020,1 vehicle available
+2502755395,Princeton,B08201_004,603,100,2020,2 vehicles available
+2502755395,Princeton,B08201_005,385,101,2020,3 vehicles available
+2502755395,Princeton,B08201_006,103,41,2020,4 or more vehicles available
+2502758825,Rutland,B08201_002,118,98,2020,No vehicle available
+2502758825,Rutland,B08201_003,503,159,2020,1 vehicle available
+2502758825,Rutland,B08201_004,1510,219,2020,2 vehicles available
+2502758825,Rutland,B08201_005,524,165,2020,3 vehicles available
+2502758825,Rutland,B08201_006,224,91,2020,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,613,218,2020,No vehicle available
+2502761800,Shrewsbury,B08201_003,4034,432,2020,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6156,569,2020,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1999,302,2020,3 vehicles available
+2502761800,Shrewsbury,B08201_006,951,217,2020,4 or more vehicles available
+2502766105,Spencer,B08201_002,621,263,2020,No vehicle available
+2502766105,Spencer,B08201_003,1370,380,2020,1 vehicle available
+2502766105,Spencer,B08201_004,1871,320,2020,2 vehicles available
+2502766105,Spencer,B08201_005,931,245,2020,3 vehicles available
+2502766105,Spencer,B08201_006,321,127,2020,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,119,107,2020,No vehicle available
+2502768155,Sturbridge,B08201_003,1076,234,2020,1 vehicle available
+2502768155,Sturbridge,B08201_004,1857,229,2020,2 vehicles available
+2502768155,Sturbridge,B08201_005,560,158,2020,3 vehicles available
+2502768155,Sturbridge,B08201_006,114,81,2020,4 or more vehicles available
+2502768610,Sutton,B08201_002,126,89,2020,No vehicle available
+2502768610,Sutton,B08201_003,730,206,2020,1 vehicle available
+2502768610,Sutton,B08201_004,1375,254,2020,2 vehicles available
+2502768610,Sutton,B08201_005,775,227,2020,3 vehicles available
+2502768610,Sutton,B08201_006,343,137,2020,4 or more vehicles available
+2502771480,Upton,B08201_002,48,46,2020,No vehicle available
+2502771480,Upton,B08201_003,578,218,2020,1 vehicle available
+2502771480,Upton,B08201_004,1288,260,2020,2 vehicles available
+2502771480,Upton,B08201_005,570,163,2020,3 vehicles available
+2502771480,Upton,B08201_006,269,120,2020,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,245,120,2020,No vehicle available
+2502771620,Uxbridge,B08201_003,890,141,2020,1 vehicle available
+2502771620,Uxbridge,B08201_004,2921,381,2020,2 vehicles available
+2502771620,Uxbridge,B08201_005,1060,265,2020,3 vehicles available
+2502771620,Uxbridge,B08201_006,266,140,2020,4 or more vehicles available
+2502773090,Warren,B08201_002,118,92,2020,No vehicle available
+2502773090,Warren,B08201_003,706,257,2020,1 vehicle available
+2502773090,Warren,B08201_004,730,204,2020,2 vehicles available
+2502773090,Warren,B08201_005,161,106,2020,3 vehicles available
+2502773090,Warren,B08201_006,256,131,2020,4 or more vehicles available
+2502773895,Webster,B08201_002,700,202,2020,No vehicle available
+2502773895,Webster,B08201_003,2600,357,2020,1 vehicle available
+2502773895,Webster,B08201_004,2512,349,2020,2 vehicles available
+2502773895,Webster,B08201_005,810,238,2020,3 vehicles available
+2502773895,Webster,B08201_006,365,133,2020,4 or more vehicles available
+2502775015,Westborough,B08201_002,453,158,2020,No vehicle available
+2502775015,Westborough,B08201_003,2230,312,2020,1 vehicle available
+2502775015,Westborough,B08201_004,3169,298,2020,2 vehicles available
+2502775015,Westborough,B08201_005,866,174,2020,3 vehicles available
+2502775015,Westborough,B08201_006,243,75,2020,4 or more vehicles available
+2502775155,West Boylston,B08201_002,130,67,2020,No vehicle available
+2502775155,West Boylston,B08201_003,892,205,2020,1 vehicle available
+2502775155,West Boylston,B08201_004,1134,235,2020,2 vehicles available
+2502775155,West Boylston,B08201_005,309,91,2020,3 vehicles available
+2502775155,West Boylston,B08201_006,180,57,2020,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,79,61,2020,No vehicle available
+2502775400,West Brookfield,B08201_003,497,159,2020,1 vehicle available
+2502775400,West Brookfield,B08201_004,505,134,2020,2 vehicles available
+2502775400,West Brookfield,B08201_005,303,158,2020,3 vehicles available
+2502775400,West Brookfield,B08201_006,117,60,2020,4 or more vehicles available
+2502702760,Auburn,B08201_002,377,115,2021,No vehicle available
+2502702760,Auburn,B08201_003,2108,257,2021,1 vehicle available
+2502702760,Auburn,B08201_004,2813,277,2021,2 vehicles available
+2502702760,Auburn,B08201_005,904,173,2021,3 vehicles available
+2502702760,Auburn,B08201_006,393,110,2021,4 or more vehicles available
+2502703740,Barre,B08201_002,59,60,2021,No vehicle available
+2502703740,Barre,B08201_003,454,159,2021,1 vehicle available
+2502703740,Barre,B08201_004,805,222,2021,2 vehicles available
+2502703740,Barre,B08201_005,301,159,2021,3 vehicles available
+2502703740,Barre,B08201_006,299,139,2021,4 or more vehicles available
+2502705490,Berlin,B08201_002,26,24,2021,No vehicle available
+2502705490,Berlin,B08201_003,388,136,2021,1 vehicle available
+2502705490,Berlin,B08201_004,597,104,2021,2 vehicles available
+2502705490,Berlin,B08201_005,228,70,2021,3 vehicles available
+2502705490,Berlin,B08201_006,72,38,2021,4 or more vehicles available
+2502706015,Blackstone,B08201_002,202,92,2021,No vehicle available
+2502706015,Blackstone,B08201_003,1333,350,2021,1 vehicle available
+2502706015,Blackstone,B08201_004,1391,179,2021,2 vehicles available
+2502706015,Blackstone,B08201_005,539,144,2021,3 vehicles available
+2502706015,Blackstone,B08201_006,409,186,2021,4 or more vehicles available
+2502707525,Boylston,B08201_002,41,28,2021,No vehicle available
+2502707525,Boylston,B08201_003,347,98,2021,1 vehicle available
+2502707525,Boylston,B08201_004,969,155,2021,2 vehicles available
+2502707525,Boylston,B08201_005,335,90,2021,3 vehicles available
+2502707525,Boylston,B08201_006,142,77,2021,4 or more vehicles available
+2502709105,Brookfield,B08201_002,28,35,2021,No vehicle available
+2502709105,Brookfield,B08201_003,437,130,2021,1 vehicle available
+2502709105,Brookfield,B08201_004,508,121,2021,2 vehicles available
+2502709105,Brookfield,B08201_005,279,89,2021,3 vehicles available
+2502709105,Brookfield,B08201_006,143,62,2021,4 or more vehicles available
+2502712715,Charlton,B08201_002,225,103,2021,No vehicle available
+2502712715,Charlton,B08201_003,1290,299,2021,1 vehicle available
+2502712715,Charlton,B08201_004,2083,259,2021,2 vehicles available
+2502712715,Charlton,B08201_005,712,191,2021,3 vehicles available
+2502712715,Charlton,B08201_006,466,142,2021,4 or more vehicles available
+2502717300,Douglas,B08201_002,103,117,2021,No vehicle available
+2502717300,Douglas,B08201_003,653,205,2021,1 vehicle available
+2502717300,Douglas,B08201_004,1215,226,2021,2 vehicles available
+2502717300,Douglas,B08201_005,556,166,2021,3 vehicles available
+2502717300,Douglas,B08201_006,606,196,2021,4 or more vehicles available
+2502717685,Dudley,B08201_002,467,262,2021,No vehicle available
+2502717685,Dudley,B08201_003,1222,260,2021,1 vehicle available
+2502717685,Dudley,B08201_004,1521,251,2021,2 vehicles available
+2502717685,Dudley,B08201_005,564,155,2021,3 vehicles available
+2502717685,Dudley,B08201_006,425,176,2021,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,43,33,2021,No vehicle available
+2502718560,East Brookfield,B08201_003,219,115,2021,1 vehicle available
+2502718560,East Brookfield,B08201_004,357,80,2021,2 vehicles available
+2502718560,East Brookfield,B08201_005,139,44,2021,3 vehicles available
+2502718560,East Brookfield,B08201_006,77,37,2021,4 or more vehicles available
+2502726430,Grafton,B08201_002,473,209,2021,No vehicle available
+2502726430,Grafton,B08201_003,2137,339,2021,1 vehicle available
+2502726430,Grafton,B08201_004,3163,434,2021,2 vehicles available
+2502726430,Grafton,B08201_005,1024,209,2021,3 vehicles available
+2502726430,Grafton,B08201_006,671,207,2021,4 or more vehicles available
+2502728740,Hardwick,B08201_002,46,43,2021,No vehicle available
+2502728740,Hardwick,B08201_003,277,94,2021,1 vehicle available
+2502728740,Hardwick,B08201_004,308,95,2021,2 vehicles available
+2502728740,Hardwick,B08201_005,259,102,2021,3 vehicles available
+2502728740,Hardwick,B08201_006,138,75,2021,4 or more vehicles available
+2502730560,Holden,B08201_002,198,76,2021,No vehicle available
+2502730560,Holden,B08201_003,1888,272,2021,1 vehicle available
+2502730560,Holden,B08201_004,3417,259,2021,2 vehicles available
+2502730560,Holden,B08201_005,1140,185,2021,3 vehicles available
+2502730560,Holden,B08201_006,537,107,2021,4 or more vehicles available
+2502730945,Hopedale,B08201_002,166,82,2021,No vehicle available
+2502730945,Hopedale,B08201_003,512,206,2021,1 vehicle available
+2502730945,Hopedale,B08201_004,832,225,2021,2 vehicles available
+2502730945,Hopedale,B08201_005,422,120,2021,3 vehicles available
+2502730945,Hopedale,B08201_006,184,136,2021,4 or more vehicles available
+2502734795,Leicester,B08201_002,175,104,2021,No vehicle available
+2502734795,Leicester,B08201_003,1193,302,2021,1 vehicle available
+2502734795,Leicester,B08201_004,1679,236,2021,2 vehicles available
+2502734795,Leicester,B08201_005,500,165,2021,3 vehicles available
+2502734795,Leicester,B08201_006,377,104,2021,4 or more vehicles available
+2502740255,Mendon,B08201_002,43,37,2021,No vehicle available
+2502740255,Mendon,B08201_003,318,126,2021,1 vehicle available
+2502740255,Mendon,B08201_004,798,206,2021,2 vehicles available
+2502740255,Mendon,B08201_005,721,205,2021,3 vehicles available
+2502740255,Mendon,B08201_006,196,105,2021,4 or more vehicles available
+2502741340,Millbury,B08201_002,325,145,2021,No vehicle available
+2502741340,Millbury,B08201_003,1227,214,2021,1 vehicle available
+2502741340,Millbury,B08201_004,2524,326,2021,2 vehicles available
+2502741340,Millbury,B08201_005,748,168,2021,3 vehicles available
+2502741340,Millbury,B08201_006,341,140,2021,4 or more vehicles available
+2502741585,Millville,B08201_002,48,39,2021,No vehicle available
+2502741585,Millville,B08201_003,315,86,2021,1 vehicle available
+2502741585,Millville,B08201_004,436,100,2021,2 vehicles available
+2502741585,Millville,B08201_005,342,132,2021,3 vehicles available
+2502741585,Millville,B08201_006,134,38,2021,4 or more vehicles available
+2502745105,New Braintree,B08201_002,14,15,2021,No vehicle available
+2502745105,New Braintree,B08201_003,103,43,2021,1 vehicle available
+2502745105,New Braintree,B08201_004,211,36,2021,2 vehicles available
+2502745105,New Braintree,B08201_005,62,21,2021,3 vehicles available
+2502745105,New Braintree,B08201_006,40,16,2021,4 or more vehicles available
+2502746820,Northborough,B08201_002,183,137,2021,No vehicle available
+2502746820,Northborough,B08201_003,1245,205,2021,1 vehicle available
+2502746820,Northborough,B08201_004,2672,309,2021,2 vehicles available
+2502746820,Northborough,B08201_005,1276,250,2021,3 vehicles available
+2502746820,Northborough,B08201_006,286,94,2021,4 or more vehicles available
+2502746925,Northbridge,B08201_002,378,151,2021,No vehicle available
+2502746925,Northbridge,B08201_003,1850,363,2021,1 vehicle available
+2502746925,Northbridge,B08201_004,2722,325,2021,2 vehicles available
+2502746925,Northbridge,B08201_005,885,210,2021,3 vehicles available
+2502746925,Northbridge,B08201_006,529,190,2021,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,34,23,2021,No vehicle available
+2502747135,North Brookfield,B08201_003,621,217,2021,1 vehicle available
+2502747135,North Brookfield,B08201_004,758,163,2021,2 vehicles available
+2502747135,North Brookfield,B08201_005,264,80,2021,3 vehicles available
+2502747135,North Brookfield,B08201_006,206,54,2021,4 or more vehicles available
+2502750670,Oakham,B08201_002,12,9,2021,No vehicle available
+2502750670,Oakham,B08201_003,103,33,2021,1 vehicle available
+2502750670,Oakham,B08201_004,275,39,2021,2 vehicles available
+2502750670,Oakham,B08201_005,135,31,2021,3 vehicles available
+2502750670,Oakham,B08201_006,100,29,2021,4 or more vehicles available
+2502751825,Oxford,B08201_002,185,129,2021,No vehicle available
+2502751825,Oxford,B08201_003,1166,285,2021,1 vehicle available
+2502751825,Oxford,B08201_004,2167,376,2021,2 vehicles available
+2502751825,Oxford,B08201_005,618,202,2021,3 vehicles available
+2502751825,Oxford,B08201_006,664,217,2021,4 or more vehicles available
+2502752420,Paxton,B08201_002,28,23,2021,No vehicle available
+2502752420,Paxton,B08201_003,400,142,2021,1 vehicle available
+2502752420,Paxton,B08201_004,574,114,2021,2 vehicles available
+2502752420,Paxton,B08201_005,352,104,2021,3 vehicles available
+2502752420,Paxton,B08201_006,234,76,2021,4 or more vehicles available
+2502755395,Princeton,B08201_002,16,18,2021,No vehicle available
+2502755395,Princeton,B08201_003,155,62,2021,1 vehicle available
+2502755395,Princeton,B08201_004,658,105,2021,2 vehicles available
+2502755395,Princeton,B08201_005,373,84,2021,3 vehicles available
+2502755395,Princeton,B08201_006,96,35,2021,4 or more vehicles available
+2502758825,Rutland,B08201_002,127,104,2021,No vehicle available
+2502758825,Rutland,B08201_003,531,181,2021,1 vehicle available
+2502758825,Rutland,B08201_004,1638,245,2021,2 vehicles available
+2502758825,Rutland,B08201_005,480,181,2021,3 vehicles available
+2502758825,Rutland,B08201_006,276,126,2021,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,596,219,2021,No vehicle available
+2502761800,Shrewsbury,B08201_003,3818,484,2021,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6568,523,2021,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1898,317,2021,3 vehicles available
+2502761800,Shrewsbury,B08201_006,928,215,2021,4 or more vehicles available
+2502766105,Spencer,B08201_002,480,203,2021,No vehicle available
+2502766105,Spencer,B08201_003,1544,396,2021,1 vehicle available
+2502766105,Spencer,B08201_004,1975,337,2021,2 vehicles available
+2502766105,Spencer,B08201_005,873,276,2021,3 vehicles available
+2502766105,Spencer,B08201_006,314,116,2021,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,97,76,2021,No vehicle available
+2502768155,Sturbridge,B08201_003,1003,225,2021,1 vehicle available
+2502768155,Sturbridge,B08201_004,2101,240,2021,2 vehicles available
+2502768155,Sturbridge,B08201_005,585,193,2021,3 vehicles available
+2502768155,Sturbridge,B08201_006,104,82,2021,4 or more vehicles available
+2502768610,Sutton,B08201_002,99,81,2021,No vehicle available
+2502768610,Sutton,B08201_003,642,197,2021,1 vehicle available
+2502768610,Sutton,B08201_004,1652,302,2021,2 vehicles available
+2502768610,Sutton,B08201_005,665,205,2021,3 vehicles available
+2502768610,Sutton,B08201_006,313,138,2021,4 or more vehicles available
+2502771480,Upton,B08201_002,15,24,2021,No vehicle available
+2502771480,Upton,B08201_003,489,203,2021,1 vehicle available
+2502771480,Upton,B08201_004,1175,213,2021,2 vehicles available
+2502771480,Upton,B08201_005,690,166,2021,3 vehicles available
+2502771480,Upton,B08201_006,323,92,2021,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,204,124,2021,No vehicle available
+2502771620,Uxbridge,B08201_003,894,195,2021,1 vehicle available
+2502771620,Uxbridge,B08201_004,2963,460,2021,2 vehicles available
+2502771620,Uxbridge,B08201_005,1017,284,2021,3 vehicles available
+2502771620,Uxbridge,B08201_006,295,137,2021,4 or more vehicles available
+2502773090,Warren,B08201_002,173,107,2021,No vehicle available
+2502773090,Warren,B08201_003,696,265,2021,1 vehicle available
+2502773090,Warren,B08201_004,609,197,2021,2 vehicles available
+2502773090,Warren,B08201_005,210,133,2021,3 vehicles available
+2502773090,Warren,B08201_006,211,128,2021,4 or more vehicles available
+2502773895,Webster,B08201_002,749,212,2021,No vehicle available
+2502773895,Webster,B08201_003,2647,381,2021,1 vehicle available
+2502773895,Webster,B08201_004,2689,292,2021,2 vehicles available
+2502773895,Webster,B08201_005,947,219,2021,3 vehicles available
+2502773895,Webster,B08201_006,382,168,2021,4 or more vehicles available
+2502775015,Westborough,B08201_002,522,153,2021,No vehicle available
+2502775015,Westborough,B08201_003,2695,320,2021,1 vehicle available
+2502775015,Westborough,B08201_004,3544,336,2021,2 vehicles available
+2502775015,Westborough,B08201_005,964,198,2021,3 vehicles available
+2502775015,Westborough,B08201_006,255,77,2021,4 or more vehicles available
+2502775155,West Boylston,B08201_002,132,71,2021,No vehicle available
+2502775155,West Boylston,B08201_003,955,176,2021,1 vehicle available
+2502775155,West Boylston,B08201_004,1237,155,2021,2 vehicles available
+2502775155,West Boylston,B08201_005,323,99,2021,3 vehicles available
+2502775155,West Boylston,B08201_006,178,63,2021,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,96,73,2021,No vehicle available
+2502775400,West Brookfield,B08201_003,455,131,2021,1 vehicle available
+2502775400,West Brookfield,B08201_004,512,112,2021,2 vehicles available
+2502775400,West Brookfield,B08201_005,349,159,2021,3 vehicles available
+2502775400,West Brookfield,B08201_006,123,73,2021,4 or more vehicles available
+2502702760,Auburn,B08201_002,396,147,2022,No vehicle available
+2502702760,Auburn,B08201_003,2305,288,2022,1 vehicle available
+2502702760,Auburn,B08201_004,2720,224,2022,2 vehicles available
+2502702760,Auburn,B08201_005,849,144,2022,3 vehicles available
+2502702760,Auburn,B08201_006,440,121,2022,4 or more vehicles available
+2502703740,Barre,B08201_002,82,76,2022,No vehicle available
+2502703740,Barre,B08201_003,424,153,2022,1 vehicle available
+2502703740,Barre,B08201_004,760,189,2022,2 vehicles available
+2502703740,Barre,B08201_005,276,164,2022,3 vehicles available
+2502703740,Barre,B08201_006,319,159,2022,4 or more vehicles available
+2502705490,Berlin,B08201_002,17,20,2022,No vehicle available
+2502705490,Berlin,B08201_003,445,160,2022,1 vehicle available
+2502705490,Berlin,B08201_004,638,110,2022,2 vehicles available
+2502705490,Berlin,B08201_005,231,69,2022,3 vehicles available
+2502705490,Berlin,B08201_006,101,49,2022,4 or more vehicles available
+2502706015,Blackstone,B08201_002,191,100,2022,No vehicle available
+2502706015,Blackstone,B08201_003,1446,394,2022,1 vehicle available
+2502706015,Blackstone,B08201_004,1390,229,2022,2 vehicles available
+2502706015,Blackstone,B08201_005,435,153,2022,3 vehicles available
+2502706015,Blackstone,B08201_006,412,169,2022,4 or more vehicles available
+2502707525,Boylston,B08201_002,52,34,2022,No vehicle available
+2502707525,Boylston,B08201_003,342,98,2022,1 vehicle available
+2502707525,Boylston,B08201_004,1010,162,2022,2 vehicles available
+2502707525,Boylston,B08201_005,316,89,2022,3 vehicles available
+2502707525,Boylston,B08201_006,144,67,2022,4 or more vehicles available
+2502709105,Brookfield,B08201_002,44,41,2022,No vehicle available
+2502709105,Brookfield,B08201_003,445,131,2022,1 vehicle available
+2502709105,Brookfield,B08201_004,543,136,2022,2 vehicles available
+2502709105,Brookfield,B08201_005,282,117,2022,3 vehicles available
+2502709105,Brookfield,B08201_006,131,57,2022,4 or more vehicles available
+2502712715,Charlton,B08201_002,190,85,2022,No vehicle available
+2502712715,Charlton,B08201_003,1235,266,2022,1 vehicle available
+2502712715,Charlton,B08201_004,2101,275,2022,2 vehicles available
+2502712715,Charlton,B08201_005,737,176,2022,3 vehicles available
+2502712715,Charlton,B08201_006,570,173,2022,4 or more vehicles available
+2502717300,Douglas,B08201_002,109,124,2022,No vehicle available
+2502717300,Douglas,B08201_003,682,186,2022,1 vehicle available
+2502717300,Douglas,B08201_004,1112,239,2022,2 vehicles available
+2502717300,Douglas,B08201_005,662,169,2022,3 vehicles available
+2502717300,Douglas,B08201_006,556,214,2022,4 or more vehicles available
+2502717685,Dudley,B08201_002,441,245,2022,No vehicle available
+2502717685,Dudley,B08201_003,1236,258,2022,1 vehicle available
+2502717685,Dudley,B08201_004,1443,251,2022,2 vehicles available
+2502717685,Dudley,B08201_005,722,159,2022,3 vehicles available
+2502717685,Dudley,B08201_006,435,158,2022,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,45,38,2022,No vehicle available
+2502718560,East Brookfield,B08201_003,240,124,2022,1 vehicle available
+2502718560,East Brookfield,B08201_004,337,77,2022,2 vehicles available
+2502718560,East Brookfield,B08201_005,164,50,2022,3 vehicles available
+2502718560,East Brookfield,B08201_006,85,53,2022,4 or more vehicles available
+2502726430,Grafton,B08201_002,396,166,2022,No vehicle available
+2502726430,Grafton,B08201_003,2151,281,2022,1 vehicle available
+2502726430,Grafton,B08201_004,3193,335,2022,2 vehicles available
+2502726430,Grafton,B08201_005,1080,205,2022,3 vehicles available
+2502726430,Grafton,B08201_006,753,168,2022,4 or more vehicles available
+2502728740,Hardwick,B08201_002,50,42,2022,No vehicle available
+2502728740,Hardwick,B08201_003,320,104,2022,1 vehicle available
+2502728740,Hardwick,B08201_004,337,87,2022,2 vehicles available
+2502728740,Hardwick,B08201_005,222,93,2022,3 vehicles available
+2502728740,Hardwick,B08201_006,153,76,2022,4 or more vehicles available
+2502730560,Holden,B08201_002,169,89,2022,No vehicle available
+2502730560,Holden,B08201_003,1978,284,2022,1 vehicle available
+2502730560,Holden,B08201_004,3310,271,2022,2 vehicles available
+2502730560,Holden,B08201_005,1159,177,2022,3 vehicles available
+2502730560,Holden,B08201_006,502,128,2022,4 or more vehicles available
+2502730945,Hopedale,B08201_002,169,83,2022,No vehicle available
+2502730945,Hopedale,B08201_003,484,184,2022,1 vehicle available
+2502730945,Hopedale,B08201_004,903,217,2022,2 vehicles available
+2502730945,Hopedale,B08201_005,413,116,2022,3 vehicles available
+2502730945,Hopedale,B08201_006,202,127,2022,4 or more vehicles available
+2502734795,Leicester,B08201_002,113,86,2022,No vehicle available
+2502734795,Leicester,B08201_003,1304,326,2022,1 vehicle available
+2502734795,Leicester,B08201_004,1780,246,2022,2 vehicles available
+2502734795,Leicester,B08201_005,501,197,2022,3 vehicles available
+2502734795,Leicester,B08201_006,354,101,2022,4 or more vehicles available
+2502740255,Mendon,B08201_002,53,45,2022,No vehicle available
+2502740255,Mendon,B08201_003,372,182,2022,1 vehicle available
+2502740255,Mendon,B08201_004,718,205,2022,2 vehicles available
+2502740255,Mendon,B08201_005,724,175,2022,3 vehicles available
+2502740255,Mendon,B08201_006,187,96,2022,4 or more vehicles available
+2502741340,Millbury,B08201_002,325,130,2022,No vehicle available
+2502741340,Millbury,B08201_003,1189,270,2022,1 vehicle available
+2502741340,Millbury,B08201_004,2545,356,2022,2 vehicles available
+2502741340,Millbury,B08201_005,786,204,2022,3 vehicles available
+2502741340,Millbury,B08201_006,364,164,2022,4 or more vehicles available
+2502741585,Millville,B08201_002,43,38,2022,No vehicle available
+2502741585,Millville,B08201_003,301,74,2022,1 vehicle available
+2502741585,Millville,B08201_004,457,108,2022,2 vehicles available
+2502741585,Millville,B08201_005,336,140,2022,3 vehicles available
+2502741585,Millville,B08201_006,138,50,2022,4 or more vehicles available
+2502745105,New Braintree,B08201_002,13,15,2022,No vehicle available
+2502745105,New Braintree,B08201_003,96,42,2022,1 vehicle available
+2502745105,New Braintree,B08201_004,188,40,2022,2 vehicles available
+2502745105,New Braintree,B08201_005,73,24,2022,3 vehicles available
+2502745105,New Braintree,B08201_006,32,17,2022,4 or more vehicles available
+2502746820,Northborough,B08201_002,185,98,2022,No vehicle available
+2502746820,Northborough,B08201_003,1332,250,2022,1 vehicle available
+2502746820,Northborough,B08201_004,2614,265,2022,2 vehicles available
+2502746820,Northborough,B08201_005,1345,246,2022,3 vehicles available
+2502746820,Northborough,B08201_006,336,123,2022,4 or more vehicles available
+2502746925,Northbridge,B08201_002,309,126,2022,No vehicle available
+2502746925,Northbridge,B08201_003,2020,303,2022,1 vehicle available
+2502746925,Northbridge,B08201_004,2685,300,2022,2 vehicles available
+2502746925,Northbridge,B08201_005,1002,247,2022,3 vehicles available
+2502746925,Northbridge,B08201_006,450,162,2022,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,36,28,2022,No vehicle available
+2502747135,North Brookfield,B08201_003,712,199,2022,1 vehicle available
+2502747135,North Brookfield,B08201_004,706,145,2022,2 vehicles available
+2502747135,North Brookfield,B08201_005,233,89,2022,3 vehicles available
+2502747135,North Brookfield,B08201_006,184,61,2022,4 or more vehicles available
+2502750670,Oakham,B08201_002,12,9,2022,No vehicle available
+2502750670,Oakham,B08201_003,112,35,2022,1 vehicle available
+2502750670,Oakham,B08201_004,278,39,2022,2 vehicles available
+2502750670,Oakham,B08201_005,115,28,2022,3 vehicles available
+2502750670,Oakham,B08201_006,96,29,2022,4 or more vehicles available
+2502751825,Oxford,B08201_002,190,105,2022,No vehicle available
+2502751825,Oxford,B08201_003,1344,251,2022,1 vehicle available
+2502751825,Oxford,B08201_004,2090,363,2022,2 vehicles available
+2502751825,Oxford,B08201_005,580,226,2022,3 vehicles available
+2502751825,Oxford,B08201_006,680,197,2022,4 or more vehicles available
+2502752420,Paxton,B08201_002,25,23,2022,No vehicle available
+2502752420,Paxton,B08201_003,409,152,2022,1 vehicle available
+2502752420,Paxton,B08201_004,563,116,2022,2 vehicles available
+2502752420,Paxton,B08201_005,356,107,2022,3 vehicles available
+2502752420,Paxton,B08201_006,258,82,2022,4 or more vehicles available
+2502755395,Princeton,B08201_002,17,19,2022,No vehicle available
+2502755395,Princeton,B08201_003,164,67,2022,1 vehicle available
+2502755395,Princeton,B08201_004,665,122,2022,2 vehicles available
+2502755395,Princeton,B08201_005,394,109,2022,3 vehicles available
+2502755395,Princeton,B08201_006,76,38,2022,4 or more vehicles available
+2502758825,Rutland,B08201_002,130,111,2022,No vehicle available
+2502758825,Rutland,B08201_003,604,183,2022,1 vehicle available
+2502758825,Rutland,B08201_004,1543,254,2022,2 vehicles available
+2502758825,Rutland,B08201_005,430,161,2022,3 vehicles available
+2502758825,Rutland,B08201_006,351,126,2022,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,588,207,2022,No vehicle available
+2502761800,Shrewsbury,B08201_003,4333,486,2022,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6568,598,2022,2 vehicles available
+2502761800,Shrewsbury,B08201_005,2000,406,2022,3 vehicles available
+2502761800,Shrewsbury,B08201_006,935,225,2022,4 or more vehicles available
+2502766105,Spencer,B08201_002,382,218,2022,No vehicle available
+2502766105,Spencer,B08201_003,1476,413,2022,1 vehicle available
+2502766105,Spencer,B08201_004,2055,323,2022,2 vehicles available
+2502766105,Spencer,B08201_005,840,238,2022,3 vehicles available
+2502766105,Spencer,B08201_006,331,141,2022,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,111,81,2022,No vehicle available
+2502768155,Sturbridge,B08201_003,1027,215,2022,1 vehicle available
+2502768155,Sturbridge,B08201_004,2012,224,2022,2 vehicles available
+2502768155,Sturbridge,B08201_005,684,157,2022,3 vehicles available
+2502768155,Sturbridge,B08201_006,123,93,2022,4 or more vehicles available
+2502768610,Sutton,B08201_002,79,69,2022,No vehicle available
+2502768610,Sutton,B08201_003,520,132,2022,1 vehicle available
+2502768610,Sutton,B08201_004,1604,292,2022,2 vehicles available
+2502768610,Sutton,B08201_005,733,209,2022,3 vehicles available
+2502768610,Sutton,B08201_006,361,142,2022,4 or more vehicles available
+2502771480,Upton,B08201_002,13,22,2022,No vehicle available
+2502771480,Upton,B08201_003,555,213,2022,1 vehicle available
+2502771480,Upton,B08201_004,1056,187,2022,2 vehicles available
+2502771480,Upton,B08201_005,795,201,2022,3 vehicles available
+2502771480,Upton,B08201_006,314,100,2022,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,233,141,2022,No vehicle available
+2502771620,Uxbridge,B08201_003,868,209,2022,1 vehicle available
+2502771620,Uxbridge,B08201_004,3014,479,2022,2 vehicles available
+2502771620,Uxbridge,B08201_005,888,254,2022,3 vehicles available
+2502771620,Uxbridge,B08201_006,372,135,2022,4 or more vehicles available
+2502773090,Warren,B08201_002,145,120,2022,No vehicle available
+2502773090,Warren,B08201_003,913,316,2022,1 vehicle available
+2502773090,Warren,B08201_004,541,178,2022,2 vehicles available
+2502773090,Warren,B08201_005,176,101,2022,3 vehicles available
+2502773090,Warren,B08201_006,235,132,2022,4 or more vehicles available
+2502773895,Webster,B08201_002,771,202,2022,No vehicle available
+2502773895,Webster,B08201_003,2507,393,2022,1 vehicle available
+2502773895,Webster,B08201_004,2619,288,2022,2 vehicles available
+2502773895,Webster,B08201_005,933,231,2022,3 vehicles available
+2502773895,Webster,B08201_006,481,168,2022,4 or more vehicles available
+2502775015,Westborough,B08201_002,459,158,2022,No vehicle available
+2502775015,Westborough,B08201_003,2738,340,2022,1 vehicle available
+2502775015,Westborough,B08201_004,3480,306,2022,2 vehicles available
+2502775015,Westborough,B08201_005,1015,177,2022,3 vehicles available
+2502775015,Westborough,B08201_006,270,106,2022,4 or more vehicles available
+2502775155,West Boylston,B08201_002,125,74,2022,No vehicle available
+2502775155,West Boylston,B08201_003,940,207,2022,1 vehicle available
+2502775155,West Boylston,B08201_004,1366,167,2022,2 vehicles available
+2502775155,West Boylston,B08201_005,274,77,2022,3 vehicles available
+2502775155,West Boylston,B08201_006,157,70,2022,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,67,61,2022,No vehicle available
+2502775400,West Brookfield,B08201_003,444,153,2022,1 vehicle available
+2502775400,West Brookfield,B08201_004,601,135,2022,2 vehicles available
+2502775400,West Brookfield,B08201_005,357,146,2022,3 vehicles available
+2502775400,West Brookfield,B08201_006,70,50,2022,4 or more vehicles available
+2502702760,Auburn,B08201_002,447,165,2023,No vehicle available
+2502702760,Auburn,B08201_003,2443,312,2023,1 vehicle available
+2502702760,Auburn,B08201_004,2710,240,2023,2 vehicles available
+2502702760,Auburn,B08201_005,819,160,2023,3 vehicles available
+2502702760,Auburn,B08201_006,435,135,2023,4 or more vehicles available
+2502703740,Barre,B08201_002,204,122,2023,No vehicle available
+2502703740,Barre,B08201_003,466,178,2023,1 vehicle available
+2502703740,Barre,B08201_004,704,180,2023,2 vehicles available
+2502703740,Barre,B08201_005,253,125,2023,3 vehicles available
+2502703740,Barre,B08201_006,292,142,2023,4 or more vehicles available
+2502705490,Berlin,B08201_002,32,28,2023,No vehicle available
+2502705490,Berlin,B08201_003,472,137,2023,1 vehicle available
+2502705490,Berlin,B08201_004,616,131,2023,2 vehicles available
+2502705490,Berlin,B08201_005,202,68,2023,3 vehicles available
+2502705490,Berlin,B08201_006,125,83,2023,4 or more vehicles available
+2502706015,Blackstone,B08201_002,168,103,2023,No vehicle available
+2502706015,Blackstone,B08201_003,1509,370,2023,1 vehicle available
+2502706015,Blackstone,B08201_004,1379,234,2023,2 vehicles available
+2502706015,Blackstone,B08201_005,498,127,2023,3 vehicles available
+2502706015,Blackstone,B08201_006,415,186,2023,4 or more vehicles available
+2502707525,Boylston,B08201_002,52,33,2023,No vehicle available
+2502707525,Boylston,B08201_003,397,111,2023,1 vehicle available
+2502707525,Boylston,B08201_004,1011,132,2023,2 vehicles available
+2502707525,Boylston,B08201_005,301,102,2023,3 vehicles available
+2502707525,Boylston,B08201_006,171,68,2023,4 or more vehicles available
+2502709105,Brookfield,B08201_002,51,39,2023,No vehicle available
+2502709105,Brookfield,B08201_003,446,122,2023,1 vehicle available
+2502709105,Brookfield,B08201_004,630,118,2023,2 vehicles available
+2502709105,Brookfield,B08201_005,264,119,2023,3 vehicles available
+2502709105,Brookfield,B08201_006,82,42,2023,4 or more vehicles available
+2502712715,Charlton,B08201_002,152,80,2023,No vehicle available
+2502712715,Charlton,B08201_003,1430,295,2023,1 vehicle available
+2502712715,Charlton,B08201_004,2077,296,2023,2 vehicles available
+2502712715,Charlton,B08201_005,757,189,2023,3 vehicles available
+2502712715,Charlton,B08201_006,561,150,2023,4 or more vehicles available
+2502717300,Douglas,B08201_002,95,115,2023,No vehicle available
+2502717300,Douglas,B08201_003,810,256,2023,1 vehicle available
+2502717300,Douglas,B08201_004,1197,273,2023,2 vehicles available
+2502717300,Douglas,B08201_005,626,204,2023,3 vehicles available
+2502717300,Douglas,B08201_006,554,186,2023,4 or more vehicles available
+2502717685,Dudley,B08201_002,442,240,2023,No vehicle available
+2502717685,Dudley,B08201_003,1184,251,2023,1 vehicle available
+2502717685,Dudley,B08201_004,1452,239,2023,2 vehicles available
+2502717685,Dudley,B08201_005,745,158,2023,3 vehicles available
+2502717685,Dudley,B08201_006,432,151,2023,4 or more vehicles available
+2502718560,East Brookfield,B08201_002,21,18,2023,No vehicle available
+2502718560,East Brookfield,B08201_003,255,138,2023,1 vehicle available
+2502718560,East Brookfield,B08201_004,428,105,2023,2 vehicles available
+2502718560,East Brookfield,B08201_005,114,41,2023,3 vehicles available
+2502718560,East Brookfield,B08201_006,87,43,2023,4 or more vehicles available
+2502726430,Grafton,B08201_002,418,191,2023,No vehicle available
+2502726430,Grafton,B08201_003,2251,356,2023,1 vehicle available
+2502726430,Grafton,B08201_004,3231,336,2023,2 vehicles available
+2502726430,Grafton,B08201_005,1151,222,2023,3 vehicles available
+2502726430,Grafton,B08201_006,649,202,2023,4 or more vehicles available
+2502728740,Hardwick,B08201_002,43,31,2023,No vehicle available
+2502728740,Hardwick,B08201_003,384,110,2023,1 vehicle available
+2502728740,Hardwick,B08201_004,355,82,2023,2 vehicles available
+2502728740,Hardwick,B08201_005,188,83,2023,3 vehicles available
+2502728740,Hardwick,B08201_006,148,72,2023,4 or more vehicles available
+2502730560,Holden,B08201_002,178,93,2023,No vehicle available
+2502730560,Holden,B08201_003,2088,300,2023,1 vehicle available
+2502730560,Holden,B08201_004,3111,246,2023,2 vehicles available
+2502730560,Holden,B08201_005,1193,175,2023,3 vehicles available
+2502730560,Holden,B08201_006,554,123,2023,4 or more vehicles available
+2502730945,Hopedale,B08201_002,214,103,2023,No vehicle available
+2502730945,Hopedale,B08201_003,472,214,2023,1 vehicle available
+2502730945,Hopedale,B08201_004,857,220,2023,2 vehicles available
+2502730945,Hopedale,B08201_005,382,136,2023,3 vehicles available
+2502730945,Hopedale,B08201_006,246,160,2023,4 or more vehicles available
+2502734795,Leicester,B08201_002,128,94,2023,No vehicle available
+2502734795,Leicester,B08201_003,1251,299,2023,1 vehicle available
+2502734795,Leicester,B08201_004,1875,243,2023,2 vehicles available
+2502734795,Leicester,B08201_005,533,179,2023,3 vehicles available
+2502734795,Leicester,B08201_006,311,104,2023,4 or more vehicles available
+2502740255,Mendon,B08201_002,46,39,2023,No vehicle available
+2502740255,Mendon,B08201_003,433,176,2023,1 vehicle available
+2502740255,Mendon,B08201_004,749,239,2023,2 vehicles available
+2502740255,Mendon,B08201_005,712,196,2023,3 vehicles available
+2502740255,Mendon,B08201_006,163,105,2023,4 or more vehicles available
+2502741340,Millbury,B08201_002,326,137,2023,No vehicle available
+2502741340,Millbury,B08201_003,1250,268,2023,1 vehicle available
+2502741340,Millbury,B08201_004,2503,372,2023,2 vehicles available
+2502741340,Millbury,B08201_005,842,213,2023,3 vehicles available
+2502741340,Millbury,B08201_006,371,142,2023,4 or more vehicles available
+2502741585,Millville,B08201_002,29,34,2023,No vehicle available
+2502741585,Millville,B08201_003,204,69,2023,1 vehicle available
+2502741585,Millville,B08201_004,491,95,2023,2 vehicles available
+2502741585,Millville,B08201_005,336,128,2023,3 vehicles available
+2502741585,Millville,B08201_006,162,53,2023,4 or more vehicles available
+2502745105,New Braintree,B08201_002,13,16,2023,No vehicle available
+2502745105,New Braintree,B08201_003,80,34,2023,1 vehicle available
+2502745105,New Braintree,B08201_004,180,36,2023,2 vehicles available
+2502745105,New Braintree,B08201_005,76,26,2023,3 vehicles available
+2502745105,New Braintree,B08201_006,31,20,2023,4 or more vehicles available
+2502746820,Northborough,B08201_002,206,113,2023,No vehicle available
+2502746820,Northborough,B08201_003,1252,232,2023,1 vehicle available
+2502746820,Northborough,B08201_004,2560,247,2023,2 vehicles available
+2502746820,Northborough,B08201_005,1247,277,2023,3 vehicles available
+2502746820,Northborough,B08201_006,450,117,2023,4 or more vehicles available
+2502746925,Northbridge,B08201_002,278,111,2023,No vehicle available
+2502746925,Northbridge,B08201_003,2230,427,2023,1 vehicle available
+2502746925,Northbridge,B08201_004,2864,337,2023,2 vehicles available
+2502746925,Northbridge,B08201_005,1076,255,2023,3 vehicles available
+2502746925,Northbridge,B08201_006,282,142,2023,4 or more vehicles available
+2502747135,North Brookfield,B08201_002,30,28,2023,No vehicle available
+2502747135,North Brookfield,B08201_003,826,198,2023,1 vehicle available
+2502747135,North Brookfield,B08201_004,585,152,2023,2 vehicles available
+2502747135,North Brookfield,B08201_005,239,84,2023,3 vehicles available
+2502747135,North Brookfield,B08201_006,217,74,2023,4 or more vehicles available
+2502750670,Oakham,B08201_002,23,17,2023,No vehicle available
+2502750670,Oakham,B08201_003,127,38,2023,1 vehicle available
+2502750670,Oakham,B08201_004,267,42,2023,2 vehicles available
+2502750670,Oakham,B08201_005,128,36,2023,3 vehicles available
+2502750670,Oakham,B08201_006,95,30,2023,4 or more vehicles available
+2502751825,Oxford,B08201_002,209,138,2023,No vehicle available
+2502751825,Oxford,B08201_003,1216,278,2023,1 vehicle available
+2502751825,Oxford,B08201_004,2190,324,2023,2 vehicles available
+2502751825,Oxford,B08201_005,617,196,2023,3 vehicles available
+2502751825,Oxford,B08201_006,650,186,2023,4 or more vehicles available
+2502752420,Paxton,B08201_002,27,26,2023,No vehicle available
+2502752420,Paxton,B08201_003,367,168,2023,1 vehicle available
+2502752420,Paxton,B08201_004,684,130,2023,2 vehicles available
+2502752420,Paxton,B08201_005,341,100,2023,3 vehicles available
+2502752420,Paxton,B08201_006,214,88,2023,4 or more vehicles available
+2502755395,Princeton,B08201_002,10,16,2023,No vehicle available
+2502755395,Princeton,B08201_003,161,65,2023,1 vehicle available
+2502755395,Princeton,B08201_004,728,121,2023,2 vehicles available
+2502755395,Princeton,B08201_005,348,99,2023,3 vehicles available
+2502755395,Princeton,B08201_006,77,38,2023,4 or more vehicles available
+2502758825,Rutland,B08201_002,113,87,2023,No vehicle available
+2502758825,Rutland,B08201_003,640,192,2023,1 vehicle available
+2502758825,Rutland,B08201_004,1529,243,2023,2 vehicles available
+2502758825,Rutland,B08201_005,482,160,2023,3 vehicles available
+2502758825,Rutland,B08201_006,327,114,2023,4 or more vehicles available
+2502761800,Shrewsbury,B08201_002,577,189,2023,No vehicle available
+2502761800,Shrewsbury,B08201_003,4386,578,2023,1 vehicle available
+2502761800,Shrewsbury,B08201_004,6626,518,2023,2 vehicles available
+2502761800,Shrewsbury,B08201_005,1984,359,2023,3 vehicles available
+2502761800,Shrewsbury,B08201_006,935,239,2023,4 or more vehicles available
+2502766105,Spencer,B08201_002,486,241,2023,No vehicle available
+2502766105,Spencer,B08201_003,1644,358,2023,1 vehicle available
+2502766105,Spencer,B08201_004,2047,317,2023,2 vehicles available
+2502766105,Spencer,B08201_005,694,198,2023,3 vehicles available
+2502766105,Spencer,B08201_006,264,102,2023,4 or more vehicles available
+2502768155,Sturbridge,B08201_002,125,97,2023,No vehicle available
+2502768155,Sturbridge,B08201_003,921,196,2023,1 vehicle available
+2502768155,Sturbridge,B08201_004,2054,202,2023,2 vehicles available
+2502768155,Sturbridge,B08201_005,784,154,2023,3 vehicles available
+2502768155,Sturbridge,B08201_006,147,96,2023,4 or more vehicles available
+2502768610,Sutton,B08201_002,40,46,2023,No vehicle available
+2502768610,Sutton,B08201_003,537,159,2023,1 vehicle available
+2502768610,Sutton,B08201_004,1586,280,2023,2 vehicles available
+2502768610,Sutton,B08201_005,710,190,2023,3 vehicles available
+2502768610,Sutton,B08201_006,374,130,2023,4 or more vehicles available
+2502771480,Upton,B08201_002,80,104,2023,No vehicle available
+2502771480,Upton,B08201_003,563,226,2023,1 vehicle available
+2502771480,Upton,B08201_004,1092,246,2023,2 vehicles available
+2502771480,Upton,B08201_005,867,198,2023,3 vehicles available
+2502771480,Upton,B08201_006,352,133,2023,4 or more vehicles available
+2502771620,Uxbridge,B08201_002,218,143,2023,No vehicle available
+2502771620,Uxbridge,B08201_003,886,234,2023,1 vehicle available
+2502771620,Uxbridge,B08201_004,2994,421,2023,2 vehicles available
+2502771620,Uxbridge,B08201_005,848,253,2023,3 vehicles available
+2502771620,Uxbridge,B08201_006,529,144,2023,4 or more vehicles available
+2502773090,Warren,B08201_002,115,100,2023,No vehicle available
+2502773090,Warren,B08201_003,1105,349,2023,1 vehicle available
+2502773090,Warren,B08201_004,641,236,2023,2 vehicles available
+2502773090,Warren,B08201_005,201,107,2023,3 vehicles available
+2502773090,Warren,B08201_006,174,155,2023,4 or more vehicles available
+2502773895,Webster,B08201_002,804,233,2023,No vehicle available
+2502773895,Webster,B08201_003,2641,428,2023,1 vehicle available
+2502773895,Webster,B08201_004,2707,339,2023,2 vehicles available
+2502773895,Webster,B08201_005,866,226,2023,3 vehicles available
+2502773895,Webster,B08201_006,450,184,2023,4 or more vehicles available
+2502775015,Westborough,B08201_002,435,159,2023,No vehicle available
+2502775015,Westborough,B08201_003,2833,377,2023,1 vehicle available
+2502775015,Westborough,B08201_004,3459,321,2023,2 vehicles available
+2502775015,Westborough,B08201_005,1108,184,2023,3 vehicles available
+2502775015,Westborough,B08201_006,230,81,2023,4 or more vehicles available
+2502775155,West Boylston,B08201_002,127,77,2023,No vehicle available
+2502775155,West Boylston,B08201_003,974,165,2023,1 vehicle available
+2502775155,West Boylston,B08201_004,1354,146,2023,2 vehicles available
+2502775155,West Boylston,B08201_005,369,96,2023,3 vehicles available
+2502775155,West Boylston,B08201_006,116,56,2023,4 or more vehicles available
+2502775400,West Brookfield,B08201_002,61,58,2023,No vehicle available
+2502775400,West Brookfield,B08201_003,486,156,2023,1 vehicle available
+2502775400,West Brookfield,B08201_004,650,158,2023,2 vehicles available
+2502775400,West Brookfield,B08201_005,368,162,2023,3 vehicles available
+2502775400,West Brookfield,B08201_006,62,42,2023,4 or more vehicles available

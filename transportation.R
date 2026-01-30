@@ -15,8 +15,6 @@ library(writexl)
 communities <- c("Auburn", "Barre", "Berlin", "Blackstone", "Boylston", "Brookfield", "Charlton", "Douglas", "Dudley", "East Brookfield", "Grafton", "Hardwick", "Holden", "Hopedale", "Leicester", "Mendon", "Millbury", "Millville", "New Braintree", "North Brookfield", "Northborough", "Northbridge", "Oakham", "Oxford", "Paxton", "Princeton", "Rutland", "Shrewsbury", "Southbridge", "Spencer", "Sturbridge", "Sutton", "Upton", "Uxbridge", "Warren", "Webster", "West Boylston", "West Brookfield", "Westborough", "Worcester")
 
 
-
-####Initial setup to get consistent variable ids across time####
 ####Initial setup - var list, global vars####
 
 ##best to use detailecd tables for MA Towns. Can also use Data Profiles, but beware that variable ids may not be consistent between years.
@@ -84,3 +82,97 @@ write_csv(commute_mode_all, paste(csv_path, "commute_mode.csv", sep = ""))
 
 ####Vehicles available####
 
+#variables from ACS
+vehicle_avail_vars_all <- vars_2023 |> 
+  filter(str_detect(name, regex("B08201", ignore_case = TRUE ))) 
+
+#just the ones we want
+vehicle_avail_vars_select <- vehicle_avail_vars_all |> 
+  filter(
+    name %in% c("B08201_002", "B08201_003", "B08201_004", "B08201_005", "B08201_006")
+  )|> 
+  mutate(label_short = str_remove(label, "Estimate!!Total:!!"),
+         label_short = str_replace(label_short, ":!!", " - "),
+         label_short = str_remove(label_short, ":"))
+
+#just the ones we want in a vector for use in function
+vehicle_avail_vars_sub <- vehicle_avail_vars_select |> 
+  pull(name)
+
+#pull data - set up as a function
+
+pull_vehicle_avail <- function(yr) {
+  get_acs(
+    geography = "county subdivision",
+    variables = vehicle_avail_vars_sub,
+    state = "MA",
+    county = "Worcester",
+    year = yr,
+    survey = "acs5"
+  ) |> 
+    mutate(NAME = str_remove(NAME, " town, Worcester County, Massachusetts"),
+           year = yr) |> 
+    filter(NAME %in% communities)
+}
+
+#call function with years as input
+vehicle_avail_all <- map_dfr(years, pull_vehicle_avail)
+
+#join label from vars
+vehicle_avail_all <- vehicle_avail_all |> 
+  left_join(vehicle_avail_vars_select |> select(label_short, name), join_by(variable == name))
+
+#export to csv and excel
+write_xlsx(vehicle_avail_all, paste(xlsx_path,"vehicle_avail.xlsx", sep = ""))
+
+write_csv(vehicle_avail_all, paste(csv_path, "vehicle_avail.csv", sep = ""))
+
+
+
+####Travel time to work####
+#table B08303
+
+#variables from ACS
+travel_time_vars_all <- vars_2023 |> 
+  filter(str_detect(name, regex("B08303", ignore_case = TRUE ))) 
+
+#just the ones we want
+travel_time_vars_select <- travel_time_vars_all |> 
+  filter(
+    name %in% c("B08303_002","B08303_003","B08303_004","B08303_005", "B08303_006", "B08303_007", "B08303_008", "B08303_009", "B08303_010", "B08303_011", "B08303_012", "B08303_013")
+  )|> 
+  mutate(label_short = str_remove(label, "Estimate!!Total:!!"),
+         label_short = str_replace(label_short, ":!!", " - "),
+         label_short = str_remove(label_short, ":"))
+
+#just the ones we want in a vector for use in function
+travel_time_vars_sub <- travel_time_vars_select |> 
+  pull(name)
+
+#pull data - set up as a function
+
+pull_travel_time <- function(yr) {
+  get_acs(
+    geography = "county subdivision",
+    variables = travel_time_vars_sub,
+    state = "MA",
+    county = "Worcester",
+    year = yr,
+    survey = "acs5"
+  ) |> 
+    mutate(NAME = str_remove(NAME, " town, Worcester County, Massachusetts"),
+           year = yr) |> 
+    filter(NAME %in% communities)
+}
+
+#call function with years as input
+travel_time_all <- map_dfr(years, pull_travel_time)
+
+#join label from vars
+travel_time_all <- travel_time_all |> 
+  left_join(travel_time_vars_select |> select(label_short, name), join_by(variable == name))
+
+#export to csv and excel
+write_xlsx(travel_time_all, paste(xlsx_path,"travel_time.xlsx", sep = ""))
+
+write_csv(travel_time_all, paste(csv_path, "travel_time.csv", sep = ""))
