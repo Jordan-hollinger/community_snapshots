@@ -59,11 +59,11 @@ default_town  <- if (length(town_choices_named) > 0) unname(town_choices_named)[
 
 # ---- Fixed palette for up to 5 towns (your current approach) ----
 town_palette <- c(
-  "#1b9e77",
-  "#d95f02",
-  "#7570b3",
-  "#e7298a",
-  "#66a61e"
+  "#264653",
+  "#2a9d8f",
+  "#e9c46a",
+  "#f4a261",
+  "#e76f51"
 )
 
 ui <- navbarPage(
