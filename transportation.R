@@ -214,3 +214,17 @@ export_csv_xlsx(
   xlsx_path = xlsx_path
 )
 
+#export all tables together for shiny app.
+csv_dir <- "data/transportation/csv"
+
+all_topics_long <- list.files(
+  csv_dir,
+  pattern = "\\.csv$",
+  full.names = TRUE
+) |>
+  map_dfr(
+    ~ read_csv(.x, show_col_types = FALSE) |>
+      mutate(topic = tools::file_path_sans_ext(basename(.x)))
+  )
+
+write_csv(all_topics_long, file.path(csv_dir, "all_topics_long.csv"))
