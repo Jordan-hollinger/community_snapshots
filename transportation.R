@@ -9,17 +9,17 @@ library(writexl)
 #if you do not have a census api key set globally in R, you will need to do that via: 
 # census_api_key("YOUR KEY GOES HERE", install = TRUE)
 
-#best to use detailecd tables for MA Towns. Can also use Data Profiles, but beware that variable ids may not be consistent between years.
 
 ####load and find the vars you want####
+
+#Important note: best to use detailed tables for MA Towns when pulling multiple years. Can also use Data Profiles, but beware that variable ids may not be consistent between years.
 vars_2023 <- load_variables(2023, "acs5", cache = TRUE)
 
-# --- Exploration helpers (run when adding new topics) ---
+#Exploration helper (run when adding new topics) - swap in table your interest in
 vars_B08303 <- vars_2023 |> filter(str_starts(name, "B08303"))
-vars_B08201 <- vars_2023 |> filter(str_starts(name, "B08201"))
 
 
-####Global variables####
+####Global variables/objects####
 
 #All Towns/Cities
 communities <- c("Auburn", "Barre", "Berlin", "Blackstone", "Boylston", "Brookfield", "Charlton", "Douglas", "Dudley", "East Brookfield", "Grafton", "Hardwick", "Holden", "Hopedale", "Leicester", "Mendon", "Millbury", "Millville", "New Braintree", "North Brookfield", "Northborough", "Northbridge", "Oakham", "Oxford", "Paxton", "Princeton", "Rutland", "Shrewsbury", "Southbridge", "Spencer", "Sturbridge", "Sutton", "Upton", "Uxbridge", "Warren", "Webster", "West Boylston", "West Brookfield", "Westborough", "Worcester")
@@ -27,7 +27,7 @@ communities <- c("Auburn", "Barre", "Berlin", "Blackstone", "Boylston", "Brookfi
 #Years to pull
 years <- c(2010:2023)
 
-#Topic specs
+#Topic specs -- add in the topics and variables that you need to pull
 topic_specs <- list(
   list(
     topic = "commute_mode",
@@ -53,11 +53,12 @@ topic_specs <- list(
 xlsx_path <- "data/transportation/xlsx/"
 csv_path <- "data/transportation/csv/"
 
+
 ####Functions####
 
 #Missing year checker for variables
 check_vars_by_year <- function(spec, years, survey = "acs5") {
-  purrr::map_dfr(years, function(yr) {
+  map_dfr(years, function(yr) {
     vars_yr <- load_variables(yr, survey, cache = TRUE)
     
     missing <- setdiff(spec$vars, vars_yr$name)
@@ -133,28 +134,49 @@ make_label_lookup <- function(vars_tbl, prefix = "Estimate!!Total:!!") {
     )
 }
 
-#run evertying
-run_topic <- function(spec, vars_master, years, communities, csv_path, xlsx_path) {
+#run everything
+run_topic <- function(spec, vars_master, years, communities, csv_path, xlsx_path, survey = "acs5") {
   
-  # variables from ACS for the table
+  # 1) Identify years where any requested variable is missing
+  missing_report <- check_vars_by_year(spec, years, survey = survey)
+  
+  bad_years <- missing_report |>
+    distinct(year) |>
+    pull(year)
+  
+  good_years <- setdiff(years, bad_years)
+  
+  if (length(good_years) == 0) {
+    warning(sprintf("Topic '%s': no usable years (all years missing at least one variable).", spec$topic))
+    return(list(data = tibble(), missing = missing_report))
+  }
+  
+  if (length(bad_years) > 0) {
+    message(sprintf(
+      "Topic '%s': skipped %d year(s): %s",
+      spec$topic, length(bad_years), paste(sort(bad_years), collapse = ", ")
+    ))
+  }
+  
+  # 2) Build variable label lookup from your master year (2023)
   vars_all <- vars_master |>
     filter(str_starts(name, spec$table))
   
-  # just the ones we want + short labels
   vars_select <- vars_all |>
     filter(name %in% spec$vars) |>
     left_join(make_label_lookup(vars_all), by = "name")
   
-  # pull data and attach labels
+  # 3) Pull only good years and attach labels
   df <- pull_acs_multiyear(
     var_ids = vars_select$name,
-    years = years,
-    communities = communities
+    years = good_years,
+    communities = communities,
+    survey = survey
   ) |>
     left_join(vars_select |> select(name, label_short),
               join_by(variable == name))
   
-  # export
+  # 4) Export
   export_csv_xlsx(
     df = df,
     filename = spec$topic,
@@ -162,11 +184,13 @@ run_topic <- function(spec, vars_master, years, communities, csv_path, xlsx_path
     xlsx_path = xlsx_path
   )
   
-  df
+  # Return both data + report so you can inspect/export later
+  list(data = df, missing = missing_report)
 }
 
 
-####Run Data Pull####
+
+####Run Data Pull for all topics####
 topic_results <- map(
   topic_specs,
   run_topic,
@@ -178,4 +202,15 @@ topic_results <- map(
 )
 
 names(topic_results) <- map_chr(topic_specs, "topic")
+
+
+missing_report_all <- map_dfr(topic_results, "missing")
+
+# Optional: export the missing report so it’s documented
+export_csv_xlsx(
+  df = missing_report_all,
+  filename = "acs_missing_variable_report",
+  csv_path = csv_path,
+  xlsx_path = xlsx_path
+)
 
