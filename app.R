@@ -7,6 +7,8 @@ library(stringr)
 library(scales)
 library(plotly)
 library(shinyWidgets)
+library(munsell)
+library(shinylive)
 
 DATA_PATH <- "data/transportation/csv/all_topics_long.csv"
 MAX_TOWNS <- 5
