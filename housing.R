@@ -2,52 +2,58 @@ library(tidycensus)
 library(tidyverse)
 library(writexl)
 
-#### set personal access token and Census API Key ####
-# gitcreds::gitcreds_set()
+####set personal access token (current PAT expires Sun, Mar 29 2026) and Census API Key####
+#To set github PAT:
+#gitcreds::gitcreds_set()
+
+#if you do not have a census api key set globally in R, you will need to do that via: 
 # census_api_key("YOUR KEY GOES HERE", install = TRUE)
 
-#### load variables for exploration (optional) ####
+
+####load and find the vars you want####
+
+#Important note: best to use detailed tables for MA Towns when pulling multiple years. Can also use Data Profiles, but beware that variable ids may not be consistent between years.
 vars_2023 <- load_variables(2023, "acs5", cache = TRUE)
 
-# Exploration helper (swap in any table ID you want to inspect)
-# vars_B08303 <- vars_2023 |> filter(str_starts(name, "B08303"))
+#Exploration helper (run when adding new topics) - swap in table your interested in
+table_temp <- vars_2023 |> filter(str_starts(name, "B25041"))
 
-#### Global variables/objects ####
+temp_vars <- table_temp$name[-1]
+temp_vars
+####Global variables/objects####
 
-communities <- c(
-  "Auburn", "Barre", "Berlin", "Blackstone", "Boylston", "Brookfield", "Charlton",
-  "Douglas", "Dudley", "East Brookfield", "Grafton", "Hardwick", "Holden", "Hopedale",
-  "Leicester", "Mendon", "Millbury", "Millville", "New Braintree", "North Brookfield",
-  "Northborough", "Northbridge", "Oakham", "Oxford", "Paxton", "Princeton", "Rutland",
-  "Shrewsbury", "Southbridge", "Spencer", "Sturbridge", "Sutton", "Upton", "Uxbridge",
-  "Warren", "Webster", "West Boylston", "West Brookfield", "Westborough", "Worcester"
-)
+#All Towns/Cities
+communities <- c("Auburn", "Barre", "Berlin", "Blackstone", "Boylston", "Brookfield", "Charlton", "Douglas", "Dudley", "East Brookfield", "Grafton", "Hardwick", "Holden", "Hopedale", "Leicester", "Mendon", "Millbury", "Millville", "New Braintree", "North Brookfield", "Northborough", "Northbridge", "Oakham", "Oxford", "Paxton", "Princeton", "Rutland", "Shrewsbury", "Southbridge", "Spencer", "Sturbridge", "Sutton", "Upton", "Uxbridge", "Warren", "Webster", "West Boylston", "West Brookfield", "Westborough", "Worcester")
 
-years <- 2010:2023
+#Years to pull
+years <- c(2010:2023)
 
+#Topic specs -- add in the topics and variables that you need to pull
 topic_specs <- list(
   list(
-    topic = "commute_mode",
-    table = "B08301",
-    vars  = c("B08301_003", "B08301_004", "B08301_010", "B08301_016",
-              "B08301_017", "B08301_018", "B08301_019", "B08301_020", "B08301_021")
+    topic = "units_in_structure",
+    table = "B25024",
+    vars  = c("B25024_002", "B25024_003", "B25024_004", "B25024_005", "B25024_006", "B25024_007", "B25024_008", "B25024_009", "B25024_010", "B25024_011")
   ),
   list(
-    topic = "vehicle_avail",
-    table = "B08201",
-    vars  = c("B08201_002", "B08201_003", "B08201_004", "B08201_005", "B08201_006")
+    topic = "year_built",
+    table = "B25034",
+    vars  = c("B25034_002", "B25034_003", "B25034_004", "B25034_005", "B25034_006", "B25034_007", "B25034_008", "B25034_009", "B25034_010", "B25034_011")
   ),
   list(
-    topic = "travel_time",
-    table = "B08303",
-    vars  = c("B08303_002","B08303_003","B08303_004","B08303_005","B08303_006",
-              "B08303_007","B08303_008","B08303_009","B08303_010","B08303_011",
-              "B08303_012","B08303_013")
-  )
+    topic = "occupancy",
+    table = "B25002",
+    vars  = c("B25002_002", "B25002_003")
+  ),
+  list(
+    topic = "bedrooms",
+    table = "B25041",
+    vars  = c("B25041_002", "B25041_003", "B25041_004", "B25041_005", "B25041_006", "B25041_007")
+    )
 )
 
-xlsx_path <- "data/transportation/xlsx/"
-csv_path  <- "data/transportation/csv/"
+xlsx_path <- "data/housing/xlsx/"
+csv_path  <- "data/housing/csv/"
 
 #### Functions ####
 
@@ -200,7 +206,7 @@ export_csv_xlsx(
 )
 
 #### Append all topic CSVs for Shiny (exclude report + previous combined file) ####
-csv_dir <- "data/transportation/csv"
+csv_dir <- "data/housing/csv"
 
 topic_files <- list.files(csv_dir, pattern = "\\.csv$", full.names = TRUE) |>
   purrr::keep(~ !basename(.x) %in% c("acs_missing_variable_report.csv", "all_topics_long.csv"))
