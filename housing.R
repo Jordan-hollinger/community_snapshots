@@ -13,10 +13,10 @@ library(writexl)
 ####load and find the vars you want####
 
 #Important note: best to use detailed tables for MA Towns when pulling multiple years. Can also use Data Profiles, but beware that variable ids may not be consistent between years.
-vars_2023 <- load_variables(2023, "acs5", cache = TRUE)
+vars_all <- load_variables(2010, "acs5", cache = TRUE)
 
 #Exploration helper (run when adding new topics) - swap in table your interested in
-table_temp <- vars_2023 |> filter(str_starts(name, "B25041"))
+table_temp <- vars_all |> filter(str_starts(name, "B25034"))
 
 temp_vars <- table_temp$name[-1]
 temp_vars
@@ -112,9 +112,22 @@ pull_acs_multiyear_labeled <- function(spec, years,
                                        communities) {
   pull_one_year <- function(yr) {
     
+    # Load variable metadata for this year and table
+    vars_yr_tbl <- load_variables(yr, survey, cache = TRUE) |>
+      filter(str_starts(name, spec$table))
+    
+    # Only request vars that exist in this year
+    vars_available <- intersect(spec$vars, vars_yr_tbl$name)
+    
+    # If none exist for this year, return empty
+    if (length(vars_available) == 0) {
+      return(tibble())
+    }
+    
+    # Pull ACS for available vars only
     df <- get_acs(
       geography = geography,
-      variables = spec$vars,
+      variables = vars_available,
       state = state,
       county = county,
       year = yr,
@@ -129,12 +142,10 @@ pull_acs_multiyear_labeled <- function(spec, years,
       ) |>
       filter(NAME %in% communities)
     
-    # labels for this year
-    vars_yr_tbl <- load_variables(yr, survey, cache = TRUE) |>
-      filter(str_starts(name, spec$table)) |>
-      filter(name %in% spec$vars)
-    
-    label_lookup_yr <- make_label_lookup(vars_yr_tbl)
+    # Year-specific labels for available vars
+    label_lookup_yr <- make_label_lookup(vars_yr_tbl) |>
+      filter(name %in% vars_available) |>
+      select(name, label_short)
     
     df |>
       left_join(label_lookup_yr, join_by(variable == name))
@@ -143,35 +154,32 @@ pull_acs_multiyear_labeled <- function(spec, years,
   purrr::map_dfr(years, pull_one_year)
 }
 
+
 # Run one topic (skip years with missing vars, label per-year)
 run_topic <- function(spec, years, communities, csv_path, xlsx_path, survey = "acs5") {
   
+  # report missing vars by year (still produced/exported later)
   missing_report <- check_vars_by_year(spec, years, survey = survey)
   
-  bad_years <- missing_report |>
-    distinct(year) |>
-    pull(year)
-  
-  good_years <- setdiff(years, bad_years)
-  
-  if (length(good_years) == 0) {
-    warning(sprintf("Topic '%s': no usable years (all years missing at least one variable).", spec$topic))
-    return(list(data = tibble(), missing = missing_report))
-  }
-  
-  if (length(bad_years) > 0) {
-    message(sprintf(
-      "Topic '%s': skipped %d year(s): %s",
-      spec$topic, length(bad_years), paste(sort(bad_years), collapse = ", ")
-    ))
-  }
-  
+  # Pull all years, but allow each year to pull only the vars that exist
   df <- pull_acs_multiyear_labeled(
     spec = spec,
-    years = good_years,
+    years = years,
     communities = communities,
     survey = survey
   )
+  
+  # Optional: message summary (no skipping, just reporting)
+  years_with_missing <- missing_report |>
+    distinct(year) |>
+    pull(year)
+  
+  if (length(years_with_missing) > 0) {
+    message(sprintf(
+      "Topic '%s': %d year(s) have missing vars (pulled available vars anyway): %s",
+      spec$topic, length(years_with_missing), paste(sort(years_with_missing), collapse = ", ")
+    ))
+  }
   
   export_csv_xlsx(
     df = df,
@@ -183,6 +191,7 @@ run_topic <- function(spec, years, communities, csv_path, xlsx_path, survey = "a
   list(data = df, missing = missing_report)
 }
 
+
 #### Run Data Pull for all topics ####
 topic_results <- purrr::map(
   topic_specs,
@@ -193,8 +202,8 @@ topic_results <- purrr::map(
   xlsx_path = xlsx_path
 )
 
+#check any missing vars
 names(topic_results) <- purrr::map_chr(topic_specs, "topic")
-
 missing_report_all <- purrr::map_dfr(topic_results, "missing")
 
 # Export missing report (documented)
